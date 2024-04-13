@@ -214,22 +214,78 @@ def converteContour(fromimg:str,toimg:str) -> None:
 legislativas = pd.read_excel("dados/legislativas.xlsx",header=[0,1],sheet_name="Quadro")
 
 def eleitoresPorto() -> int:
+    """
+    Returns the index of the row with the maximum number of voters in the 'Área Metropolitana do Porto' region.
     
-    # legislativas = legislativas[2:]
-
+    Returns:
+        int: The index of the row with the maximum number of voters.
+    """
     region_name = 'Área Metropolitana do Porto'
     interest_row = legislativas[legislativas[('Territórios', 'Região')] == region_name]
-    total_porto_data = interest_row[('Total')]
-
-    
-
-    return  None
+    return interest_row['Total'].max().idxmax()
 
 def taxaAbstencao() -> list[tuple[int,float]]:
-    return None
+    """
+    Calculates the percentage of abstention in an election.
+
+    Returns:
+        A list of tuples, where each tuple contains the district number and the corresponding percentage of abstention.
+    """
+    porcentagem_de_abstencao = []
+    abstencao = []
+
+    total = legislativas["Total"].iloc[0]
+    eleitores = legislativas["Votantes"].iloc[0]
+    porcentagem_de_abstencao.append(((total - eleitores) / total) * 100)
+
+    for index in range(len(legislativas["Total"].columns)):
+        abstencao.append((legislativas["Total"].columns[index], porcentagem_de_abstencao[0].iloc[index]))
+
+    return abstencao
 
 def perdaGrandesMunicipios() -> dict[str,int]:
-    return None
+
+    municipios_validos = {}
+
+    # conseguir o a serie pandas com todos os municipios
+
+    location_type = 'Município'
+    municipal_rows = legislativas[legislativas[('Territórios', 'Âmbito Geográfico')] == location_type]
+
+    # primeiro achamos todos os municipios com pelo menos 10000 votantes num dos anos
+    for row_index, row_serie in municipal_rows["Votantes"].iterrows():
+        for year_index in range(len(municipal_rows["Votantes"].columns)):
+            if row_serie.iloc[year_index] >= 10000:
+                municipios_validos[legislativas['Territórios']['Região'].iloc[row_index]] = ""
+                break
+    
+    # map the list index to the year
+    years2index = {index: year for index, year in enumerate(municipal_rows["Votantes"].columns)}
+
+    # agora vamos achar o ano em que mais perderam votantes em relação às eleições anteriores
+    for municipio in municipios_validos:
+
+        # find the row index of the municipio
+        municipio_row_index = municipal_rows[municipal_rows['Territórios']['Região'] == municipio].index[0]
+        # get the pandas series of the municipio
+        municipio_data = legislativas["Votantes"].iloc[municipio_row_index]
+        # transform the series into a list
+        municipio_data_list_raw = municipio_data.tolist()
+        # make a copy of the list
+        municipio_data_list_shifted = municipio_data_list_raw.copy()
+        # shift the list to the right
+        municipio_data_list_shifted.insert(0, 0)
+
+        # differences between the years list
+        differences = [municipio_data_list_raw[i] - municipio_data_list_shifted[i] for i in range(len(municipio_data_list_raw))]
+        # remove the first element of the list
+        differences.pop(0)
+        # find the index of the year with the biggest difference
+        biggest_difference_index = differences.index(min(differences))
+        # map the index to the year
+        municipios_validos[municipio] = years2index[biggest_difference_index+1]
+    
+    return municipios_validos
 
 def demografiaMunicipios() -> dict[str,tuple[str,str]]:
     return None
