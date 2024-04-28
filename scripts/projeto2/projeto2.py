@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 from numpy import asarray
 from PIL import Image # python package Pillow
+import networkx as nx
 
 # T1
 
@@ -288,17 +289,186 @@ def perdaGrandesMunicipios() -> dict[str,int]:
     return municipios_validos
 
 def demografiaMunicipios() -> dict[str,tuple[str,str]]:
-    return None
+# Por cada região NUTS III, qual o município que mais perdeu e o que mais ganhou eleitores entre 1975 e 2022? Complete a definição da função demografiaMunicipios, que retorna um dicionário { regiao : (municipioPerdeu,municipioGanhou) }.
+
+    local_legislativas = legislativas.copy()
+
+    location_type = 'NUTS III'
+    nuts_rows_df = local_legislativas[local_legislativas[('Territórios', 'Âmbito Geográfico')] == location_type]
+    #filtar para somente o Total
+    nuts_rows = nuts_rows_df["Total"]
+
+    location_type = 'Município'
+    municipal_rows = local_legislativas[local_legislativas[('Territórios', 'Âmbito Geográfico')] == location_type]
+
+    nuts_municipality = {}
+    # { regiao : [] }
+    # exemplo: { 'Norte' : [4, 5, 6, 7, 8, 9, 10, 11, 12, 13] }
+
+ 
+    # Convert lists to sets
+    first_set = set(nuts_rows.index)
+    second_set = set(municipal_rows.index)
+    
+    # Determine the bounds
+    min_first = min(first_set)
+    max_first = max(first_set)
+    
+    # All numbers in the second set that are not in the first set
+    non_first_numbers = second_set - first_set
+    
+    # Sort the non-first numbers to prepare for grouping
+    valid_numbers = sorted(non_first_numbers)
+    
+    # Group consecutive numbers
+    grouped_numbers = []
+    if valid_numbers:
+        current_group = [valid_numbers[0]]
+        
+        for number in valid_numbers[1:]:
+            if number == current_group[-1] + 1:
+                current_group.append(number)
+            else:
+                grouped_numbers.append(current_group)
+                current_group = [number]
+        
+        grouped_numbers.append(current_group)  # Add the last group
+
+    for nuts_row_index, current_group in zip(range(len(nuts_rows)), enumerate(grouped_numbers)):
+        nuts_municipality[nuts_rows_df[('Territórios', 'Região')].iloc[nuts_row_index]] = current_group[1]
+
+    # --- ok --
+
+    # pra cada municipio dentro de cada regiao, é necessario achar o valor da diferenca entre os anos 1975 e 2022 na coluna Total
+    municipality_differences = {}
+    municipality_data_dict = {}
+
+    results = {}
+
+    municipal_rows.set_index(local_legislativas.columns[0], inplace=True)
+    # i whant to set the first column as the index
+    # municipal_rows.set_index(('Territórios', 'Região'), inplace=True)
+
+    # 1. acessar a primeira regiao
+    for region in nuts_municipality:
+        # 2. acessar o primeiro municipio
+        for municipality_index in nuts_municipality[region]:
+            # 3. acessar a serie do municipio
+            municipality_data = local_legislativas["Total"].iloc[municipality_index]
+            # 4. transformar a serie em uma lista
+            municipality_data_list = municipality_data.tolist()
+            # 5. achar a diferenca entre os anos 1975 e 2022
+            difference = municipality_data_list[-1] - municipality_data_list[0]
+            municipality_data_dict.update({local_legislativas[('Territórios', 'Região')].iloc[municipality_index]: difference})
+        municipality_differences[region] = municipality_data_dict
+        municipality_data_dict = {}
+    
+    for region in municipality_differences:
+        results[region] = (min(municipality_differences[region], key=municipality_differences[region].get), 
+                           max(municipality_differences[region], key=municipality_differences[region].get))
+    
+    return results
 
 # T4
 
 nominations = pd.read_csv("dados/nominations.csv")
 
 def maisNomeado() -> tuple[str,int]:
-    return None
+    G = nx.DiGraph()
+
+    # Percorrendo cada linha do DataFrame
+    for _, row in nominations.iterrows():
+        nominators = [name.strip() for name in row["Nominator(s)"].replace('\r\n', '|').split('|')]
+        nominees = [name.strip() for name in row["Nominee(s)"].replace('\r\n', ',').split(',')]
+        year = row['Year']
+
+        # Adicionando cada nomeado ao grafo
+        for nominee in nominees:
+            for nominator in nominators:
+                if G.has_edge(nominator, nominee):
+                    G[nominator][nominee]['years'].add(year)
+                else:
+                    G.add_edge(nominator, nominee, years={year})
+
+    # Contagem dos nominadores únicos por nomeado
+    nominee_counts = {}
+    
+    for nominator, nominee in G.edges():
+        if nominee not in nominee_counts:
+            nominee_counts[nominee] = set()
+        nominee_counts[nominee].add(nominator)
+
+    # Encontrar o nomeado com o maior número de nominadores únicos
+    most_nominated = None
+    max_nominators = 0
+    for nominee, nominators in nominee_counts.items():
+        if len(nominators) > max_nominators:
+            most_nominated = nominee
+            max_nominators = len(nominators)
+
+    return most_nominated, max_nominators
 
 def nomeacoesCruzadas() -> tuple[int,set[str]]:
-    return None
+    # Criar o grafo direcionado
+    G = nx.DiGraph()
+
+    # Adiciona as arestas baseadas nas nomeações
+    for _, row in nominations.iterrows():
+        nominators = [name.strip() for name in row["Nominator(s)"].replace('\r\n', '|').split('|')]
+        nominees = [name.strip() for name in row["Nominee(s)"].replace('\r\n', ',').split(',')]
+        category = row["Category"]
+        for nominator in nominators:
+            for nominee in nominees:
+                # Adiciona uma aresta do nominador para o nomeado
+                G.add_edge(nominator, nominee, category=category)
+    
+    # Encontrar o maior componente fortemente conectado
+    largest_scc = max(nx.strongly_connected_components(G), key=len)
+    
+    # Coletar categorias envolvidas neste componente
+    categories = set()
+    for u, v, data in G.edges(data=True):
+        if u in largest_scc and v in largest_scc:
+            categories.add(data['category'])
+
+    # Retorna o tamanho do maior SCC e as categorias envolvidas
+    return len(largest_scc), categories
 
 def caminhoEinsteinFeynman() -> list[str]:
-    return None
+    
+    local_nominations = nominations.copy()
+    
+    # Filtrar dados para o período entre 1921 e 1965 e para a categoria de Física
+    local_nominations = local_nominations[(local_nominations['Year'] >= 1921) & (local_nominations['Year'] <= 1965) & (local_nominations['Category'] == 'Physics')]
+    
+    # Criando o grafo
+    G = nx.DiGraph()
+    
+    for idx, row in local_nominations.iterrows():
+        nominators = [name.strip() for name in row["Nominator(s)"].replace('\r\n', '|').split('|')]
+        nominees = [name.strip() for name in row["Nominee(s)"].replace('\r\n', ',').split(',')]
+        
+        # Adicionando arestas de cada nominador para cada nomeado
+        for nominator in nominators:
+            for nominee in nominees:
+                G.add_edge(nominator, nominee)
+    
+    nx.write_graphml(G, "Albert2Feyman.graphml")
+
+    # Encontrando o caminho entre Einstein e Feynman
+    # Einstein como nominador (teremos que verificar se ele nomeou alguém diretamente)
+    # Feynman como nomeado
+    try:
+        # Inicialmente assumimos que Einstein e Feynman são parte dos nodos
+        # Este método levanta uma exceção se não houver caminho
+        # Source and target nodes
+        source = 'Albert Einstein'
+        target = 'Richard Phillips Feynman'
+
+        # Find all shortest paths
+        all_shortest_paths = list(nx.all_shortest_paths(G, source=source, target=target))
+        # Extract only intermediate nodes from each path
+        all_shortest_paths = [path[1:-1] for path in all_shortest_paths]  # Slicing to exclude the first and last elements
+        return all_shortest_paths[2]
+    except nx.NetworkXNoPath:
+        return []  # Retornar lista vazia se não houver caminho
