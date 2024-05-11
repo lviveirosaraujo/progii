@@ -20,10 +20,10 @@ Como exemplo, considere o L-system de uma árvore dado pelo axioma `F` e pelas r
 ![](lsystem.png) 
 
 1. **Complete** a função `expandeLSystem` que expande um L-system um número $n$ de vezes. Note que esta expansão é independente da linguagem em causa.
-2. **Complete** a função `desenhaLSystem` que desenha um L-system utilizando o `matplotlib`. Para isso, deve utilizar a função dada `desenhaTurtle` que recebe uma string e retorna um conjunto de segmentos de reta correspondente desenho do fractal.
+2. **Complete** a função `desenhaLSystem` que desenha um L-system utilizando o `matplotlib`. Para isso, deve utilizar a função dada `desenhaTurtle` que recebe uma string e retorna uma lista de segmentos de reta (sendo cada segmento de reta uma lista de pontos) correspondente desenho do fractal.
 
 Para obter nota máxima nesta tarefa, o gráfico deve conter alguns extras em termos de formatação, ao critério dos alunos. Como sugestões, podem por exemplo:
-* Desenhar simultaneamente os vários passos de crescimento do fractal com uma cor diferente.
+* Desenhar simultaneamente os vários passos de crescimento do fractal com uma formatação diferente (cor, grossura, etc).
 * Desenhar linhas ou controlar eixos para indicar o crescimento do fractal a cada nível.
 * Acrescentar informação explicativa numa legenda.
 
@@ -34,8 +34,9 @@ Considere o dataset de reciclagem nos vários países da União Europeia, public
 1. **Complete** a definição da função `desenhaReciclagemPaisIndice` que recebe um objeto `Axes` matplotlib e o nome de um país, e desenha um gráfico nesse `Axes` com a evolução anual do índice (packaging, municipal ou total combinado) de reciclagem desse país (um país da UE ou a totalidade dos 27). Lide como entender com dados em falta.
 2. **Complete** a definição da função `desenhaReciclagem` que cria um gráfico dinâmico de reciclagem na UE. Utilize botões interativos matplotlib para selecionar quer o país, quer o tipo de reciclagem. Deve desenhar dinamicamente um gráfico para a seleção escolhida.
 
-Para obter nota máxima nesta tarefa, o gráfico deve conter alguns extras como, por exemplo:
-* Desenhar cada série num formato diferente, utilizando curvas/barras/áreas ou cores distintivas.
+Para obter nota máxima nesta tarefa, o gráfico deve conter alguns extras em termos de formatação, ao critério dos alunos. Como sugestões, podem por exemplo:
+
+* Desenhar cada série num formato diferente, utilizando por exemplo diferentes curvas/barras/áreas, cores, marcadores, etc.
 * Conter uma legenda e/ou labels explicativas das séries e dos eixos em questão.
 
 ## Tarefa 3 (Mapas)
@@ -62,12 +63,12 @@ Utilizando o `networkx`, desenhe um mapa circular de acordo com os seguintes pas
 
 0. Inspecione o `DataFrame` `bay` que reproduz a informação sobre o ecosistema. Cada linha corresponde a uma espécie/organismo, em que cada coluna define a quantidade de biomassa transferida para uma outra espécie/organismo. Cada linha contém também uma última coluna com o [*trophic level*](https://en.wikipedia.org/wiki/Trophic_level), ou seja, a posição que essa espécie ocupa na cadeia alimentar.
 1. Complete a definição da função `constroiEcosistema` que retorna um grafo direcionado correspondente. Cada espécie/organismo deve ser um nodo, com um atributo `level` que inclui o seu *trophic level*, e cada transferência de biomassa (não nula) deve dar lugar a uma aresta direcionada, com um atributo `transfer` que inclui a quantidade de biomassa transferida.
-2. **Complete** a definição da função `desenhaEcosistema`, que desenha o grafo construido pela função anterior. Configure a formatação a seu gosto, respeitando a seguintes indicações:
+2. **Complete** a definição da função `desenhaEcosistema`, que desenha o grafo construído pela função anterior. Configure a formatação a seu gosto, respeitando a seguintes indicações:
 
     * O layout deve refletir o *trophic level* de cada nodo.
     * O desenho de cada nodo deve incluir alguma referência ao seu nome.
     * O desenho de cada aresta (cor, espessura, etc) deve refletir a quantidade de biomassa transferida.
-    * Note que o colormap desenhado em cima assume uma escala logarítmica, isto porque as diferenças entre os vários nívels de transferência de biomassa são bastante grandes, e uma escala linear torna difícil diferenciar os valores intermédios dos valores extremos. Deve ter isso em consideração na sua visualização.
+    * Note que o colormap desenhado em cima assume uma escala logarítmica, porque as diferenças entre os vários nívels de transferência de biomassa são bastante grandes e uma escala linear torna difícil diferenciar os valores intermédios dos valores extremos. Deve ter isso em consideração na sua visualização.
 
 
 

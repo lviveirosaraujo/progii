@@ -10,7 +10,7 @@ import networkx as nx
 
 # Tarefa 1
 
-# um tuplo (axioma,regras de expansão,ângulo inicial,ângulo de rotação)
+# um tuplo (axioma,regras de expansão,ângulo inicial em graus,ângulo de rotação em graus)
 lsystem = tuple[str,dict[str,str],float,float]
 
 tree1 : lsystem = ("F",{"F":"F[-F]F[+F][F]"},90,30)
@@ -22,7 +22,7 @@ plant1 : lsystem = ("X",{"X":"F+[[X]-X]-F[-FX]+X)","F":"FF"},60,25)
 def expandeLSystem(l:lsystem,n:int) -> str:
     return None
 
-def desenhaTurtle(steps:str,start_pos:(float,float),start_angle:float,side:float,theta:float) -> list[(float,float)]:
+def desenhaTurtle(steps:str,start_pos:(float,float),start_angle:float,side:float,theta:float) -> list[list[(float,float)]]:
     pos = start_pos
     angle = start_angle
     lines = [[pos]]
@@ -50,9 +50,6 @@ def desenhaLSystem(l:lsystem,n:int):
 packaging_waste = pd.read_csv('dados/env_waspac.tsv',na_values=":")
 municipal_waste = pd.read_csv('dados/env_wasmun.tsv',na_values=":")
 
-packaging_waste.plot()
-plt.show()
-
 def desenhaReciclagemPaisIndice(ax,pais,indice):
 
     # desenha um gráfico
@@ -60,7 +57,8 @@ def desenhaReciclagemPaisIndice(ax,pais,indice):
     return None
 
 def testeDesenhaReciclagemPaisIndice():
-    desenhaReciclagemPaisIndice(plt,'Russia')
+    _,ax = plt.subplots()
+    desenhaReciclagemPaisIndice(ax,'Russia',"packaging")
     plt.show()
 
 def desenhaReciclagem():
