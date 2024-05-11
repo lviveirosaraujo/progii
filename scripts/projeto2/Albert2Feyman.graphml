@@ -1,0 +1,3348 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="directed">
+    <node id="Alexander McAdie" />
+    <node id="Carl Barus" />
+    <node id="Max von Laue" />
+    <node id="Niels Bohr" />
+    <node id="Alfred Fowler" />
+    <node id="Hugh Callendar" />
+    <node id="Giacomo Ciamician" />
+    <node id="Petrus Debye" />
+    <node id="Carl Charlier" />
+    <node id="Albert Einstein" />
+    <node id="Hans Dällenbach" />
+    <node id="Sir Arthur Eddington" />
+    <node id="Arthur Haas" />
+    <node id="Jacques Hadamard" />
+    <node id="Jean Perrin" />
+    <node id="George Jaffé" />
+    <node id="Theodore Lyman" />
+    <node id="Erich Marx" />
+    <node id="Gunnar Nordström" />
+    <node id="Carl Oseen" />
+    <node id="Max Planck" />
+    <node id="Charles Walcott" />
+    <node id="Emil Warburg" />
+    <node id="Otto Wiener" />
+    <node id="Philipp E.A. v. Lenard" />
+    <node id="Ernst Gehrcke" />
+    <node id="Kristian Prytz" />
+    <node id="Martin Knudsen" />
+    <node id="Albin Haller" />
+    <node id="Paul Langevin" />
+    <node id="Carl Benedicks" />
+    <node id="Otto Lehmann" />
+    <node id="Henry Le Châtelier" />
+    <node id="Auguste Lumière" />
+    <node id="Louis Lumière" />
+    <node id="Henry Osborn" />
+    <node id="Robert Millikan" />
+    <node id="Robert Wenger" />
+    <node id="Walther Nernst" />
+    <node id="Absalon Larsen" />
+    <node id="Peder Pedersen" />
+    <node id="Valdemar Poulsen" />
+    <node id="William Rung" />
+    <node id="Charles Guillaume" />
+    <node id="Pierre Weiss" />
+    <node id="Helios Ollivier" />
+    <node id="George Hale" />
+    <node id="Charles Abbot" />
+    <node id="Francis Aston" />
+    <node id="William Coolidge" />
+    <node id="Leo Graetz" />
+    <node id="Theodore Richards" />
+    <node id="Sir William Lawrence Bragg" />
+    <node id="Julius Lilienfeld" />
+    <node id="Stefan Meyer" />
+    <node id="Arnold Sommerfeld" />
+    <node id="Karl Lindman" />
+    <node id="Wilhelm Röntgen" />
+    <node id="Ernest Lord Rutherford" />
+    <node id="August Schmauss" />
+    <node id="Hjalmar Tallqvist" />
+    <node id="Jules Bordet" />
+    <node id="Aimé Cotton" />
+    <node id="Marcel Brillouin" />
+    <node id="Charles Fabry" />
+    <node id="Georges Gouy" />
+    <node id="Théophile de Donder" />
+    <node id="Felix Ehrenhaft" />
+    <node id="Robert Emden" />
+    <node id="Edgar Meyer" />
+    <node id="Friedrich Paschen" />
+    <node id="Bernhard Naunyn" />
+    <node id="Edward Poulton" />
+    <node id="Ernst Wagner" />
+    <node id="Edwin Frost" />
+    <node id="Georg von Mayr" />
+    <node id="Antonio Lo Surdo" />
+    <node id="Vito Volterra" />
+    <node id="Henry Gale" />
+    <node id="Oscar Knoblauch" />
+    <node id="Wilhelm Wien" />
+    <node id="Jonathan Zenneck" />
+    <node id="Theodor Svedberg" />
+    <node id="Sem Saeland" />
+    <node id="Vilhelm Bjerknes" />
+    <node id="Vilhelm Carlheim-Gyllensköld" />
+    <node id="Henri Deslandres" />
+    <node id="James Franck" />
+    <node id="Johannes Stark" />
+    <node id="Wolfgang Gaede" />
+    <node id="Gustav Jäger" />
+    <node id="Erwin Meyer" />
+    <node id="Kasimir Fajans" />
+    <node id="Frederick Soddy" />
+    <node id="Percy Bridgman" />
+    <node id="Gustav Hertz" />
+    <node id="Robert Wood" />
+    <node id="John Bates Clark" />
+    <node id="Orest Khvol´son" />
+    <node id="Erwin Schrödinger" />
+    <node id="Eugène Bloch" />
+    <node id="Sir Owen Richardson" />
+    <node id="Heike Kamerlingh Onnes" />
+    <node id="Hendrik Lorentz" />
+    <node id="Pieter Zeeman" />
+    <node id="Alfred Angot" />
+    <node id="Jules Richard" />
+    <node id="David Jordan" />
+    <node id="William Shaw" />
+    <node id="Sir John Townsend" />
+    <node id="Hugh Newall" />
+    <node id="Charles Wilson" />
+    <node id="Sir Joseph Thomson" />
+    <node id="Prince Louis-Victor de Broglie" />
+    <node id="Maurice de Broglie" />
+    <node id="Arthur Compton" />
+    <node id="Sir William Henry Bragg" />
+    <node id="John Fleming" />
+    <node id="Guglielmo Marconi" />
+    <node id="Ludwig Plate" />
+    <node id="Walter Gerlach" />
+    <node id="Otto Stern" />
+    <node id="Frits Zernike" />
+    <node id="Paul Painlevé" />
+    <node id="Arthur Schuster" />
+    <node id="Manne Karl Siegbahn" />
+    <node id="Hans Thirring" />
+    <node id="Carl Störmer" />
+    <node id="Siegmund Strauss" />
+    <node id="Kotaro Honda" />
+    <node id="Otto Pettersson" />
+    <node id="Johan Sandström" />
+    <node id="Ernst Dünner" />
+    <node id="Alfred Byk" />
+    <node id="Edouard Grüneisen" />
+    <node id="Wilhelm Westphal" />
+    <node id="Eugen Goldstein" />
+    <node id="Werner Kohlhörster" />
+    <node id="Carl von Linde" />
+    <node id="Joseph Ames" />
+    <node id="Dayton Miller" />
+    <node id="Fritz Henning" />
+    <node id="Peter Pringsheim" />
+    <node id="Paul Appell" />
+    <node id="Émile Borel" />
+    <node id="Charles Maurain" />
+    <node id="Johannes van der Waals" />
+    <node id="William Campbell" />
+    <node id="Max Born" />
+    <node id="Robert Wichard Pohl" />
+    <node id="Carl Ramsauer" />
+    <node id="Charles Guye" />
+    <node id="Arthur Schidlof" />
+    <node id="Svante Arrhenius" />
+    <node id="Robert Hadfield" />
+    <node id="Heinrich Rausch von Traubenberg" />
+    <node id="Friedrich Niethammer" />
+    <node id="Victor Kaplan" />
+    <node id="Carl Breitfeld" />
+    <node id="Leonard Ornstein" />
+    <node id="Tor Bergeron" />
+    <node id="Jacob Bjerknes" />
+    <node id="Halvor Solberg" />
+    <node id="Jarl Wasastjerna" />
+    <node id="Karl Lichtenecker" />
+    <node id="Max Reich" />
+    <node id="Werner Karl Heisenberg" />
+    <node id="Charles Nicolle" />
+    <node id="Irving Langmuir" />
+    <node id="Willy Möbius" />
+    <node id="Erich Hückel" />
+    <node id="Ludwig Prandtl" />
+    <node id="Theodor Pöschl" />
+    <node id="Carl Schiller" />
+    <node id="Willem Keesom" />
+    <node id="Quirino Majorana" />
+    <node id="Edwin Armstrong" />
+    <node id="Alexander Meissner" />
+    <node id="Luigi Palazzo" />
+    <node id="Henry Crew" />
+    <node id="Clinton Davisson" />
+    <node id="Lester Halbert Germer" />
+    <node id="Julius Wagner-Jauregg" />
+    <node id="Eduard Haschek" />
+    <node id="Karl Przibram" />
+    <node id="Paul Adrien Maurice Dirac" />
+    <node id="Jean Cabannes" />
+    <node id="Sir Chandrasekhara Raman" />
+    <node id="Arthur Dempster" />
+    <node id="Enrico Fermi" />
+    <node id="Friedrich Kottler" />
+    <node id="David Hilbert" />
+    <node id="Emile Henriot" />
+    <node id="Paul Ehrenfest" />
+    <node id="Michael Pupin" />
+    <node id="Orso Corbino" />
+    <node id="Erik Wilhelm Hulthén" />
+    <node id="Ira Bowen" />
+    <node id="Henry Norris Russell" />
+    <node id="Henri Villat" />
+    <node id="Alwin Walther" />
+    <node id="Gustav Ferrié" />
+    <node id="Yakov (Jacov) Frenkel" />
+    <node id="Hantaro Nagaoka" />
+    <node id="Grigoriy Landsberg" />
+    <node id="Leonid Mandelshtam (Mandelstam)" />
+    <node id="Nikolay Papaleksi" />
+    <node id="Richard Pfeiffer" />
+    <node id="Dehendra Bose" />
+    <node id="Meghnad Saha" />
+    <node id="Sisir Mitra" />
+    <node id="Michele Cantone" />
+    <node id="Yurij Krutkov" />
+    <node id="N Mirolubov" />
+    <node id="Blas Cabrera" />
+    <node id="Emile Gley" />
+    <node id="Dmitriy Rozhdestvenskiy" />
+    <node id="René de Mallemann" />
+    <node id="Georges Claude" />
+    <node id="Georges Burgess" />
+    <node id="Sir George Paget Thomson" />
+    <node id="Karl Landsteiner" />
+    <node id="Camille Gutton" />
+    <node id="Wilhelm Lenz" />
+    <node id="Victor Hess" />
+    <node id="Paul Montel" />
+    <node id="Georges Reboul" />
+    <node id="Alois Kovarik" />
+    <node id="Anton von Eiselsberg" />
+    <node id="John Lennard-Jones" />
+    <node id="Arthur Tyndall" />
+    <node id="Joseph Petavel" />
+    <node id="Etienne Canals" />
+    <node id="Friedrich Hund" />
+    <node id="Wolfgang Pauli" />
+    <node id="Gregor Wentzel" />
+    <node id="David Enskog" />
+    <node id="Oskar Benjamin Klein" />
+    <node id="Torsten Carleman" />
+    <node id="Seiji Nakamura" />
+    <node id="Junzô Okubo" />
+    <node id="Hikoo Saegusa" />
+    <node id="Léon Counson" />
+    <node id="Auguste Piccard" />
+    <node id="Adolf Deissmann" />
+    <node id="Emory Chaffee" />
+    <node id="Edwin Hall" />
+    <node id="George Harrison" />
+    <node id="Edwin Kemble" />
+    <node id="Otto Oldenberg" />
+    <node id="George Pierce" />
+    <node id="Frederick Saunders" />
+    <node id="John Clark Slater" />
+    <node id="Manuel Vallarta" />
+    <node id="William Duane" />
+    <node id="Czeslaw Bialobrzeski" />
+    <node id="Paul Drumaux" />
+    <node id="George Joos" />
+    <node id="Ivan Plotnikov" />
+    <node id="Karl Compton" />
+    <node id="Emil Baur" />
+    <node id="Franz Cumont" />
+    <node id="Max Wien" />
+    <node id="Richard Willstätter" />
+    <node id="Richard Wachsmuth" />
+    <node id="O Colard" />
+    <node id="René Thiry" />
+    <node id="Carl Anderson" />
+    <node id="Giulio Dalla Noce" />
+    <node id="Irène Joliot-Curie" />
+    <node id="Giorgio Todesco" />
+    <node id="James Chadwick" />
+    <node id="Frédéric Joliot" />
+    <node id="Egon von Schweidler" />
+    <node id="Dirk Coster" />
+    <node id="Walther Bothe" />
+    <node id="Frank Horton" />
+    <node id="Ferdinand Brickwedde" />
+    <node id="George Murphy" />
+    <node id="Harold Clayton Urey" />
+    <node id="Herman Farwell" />
+    <node id="Charles Lees" />
+    <node id="Reinhold Fürth" />
+    <node id="Henri Buisson" />
+    <node id="Václav Posejpal" />
+    <node id="Pierre Sève" />
+    <node id="Sir Edward Appleton" />
+    <node id="Gustaf Elmen" />
+    <node id="W Clinton" />
+    <node id="William Flinders Petrie" />
+    <node id="Raymond Birge" />
+    <node id="Leonard Loeb" />
+    <node id="Alfred Kalähne" />
+    <node id="Lars Vegard" />
+    <node id="Giancarlo Vallauri" />
+    <node id="Richard Tolman" />
+    <node id="Edward da Costa Andrade" />
+    <node id="John Macgregor-Morris" />
+    <node id="Arthur Kennelly" />
+    <node id="Hans Zickendraht" />
+    <node id="Robert Ditchburn" />
+    <node id="August Hagenbach" />
+    <node id="Robert Robinson" />
+    <node id="Kajuri Tamaki" />
+    <node id="Winfried Schumann" />
+    <node id="Ernst Alexanderson" />
+    <node id="Ludwig Zehnder" />
+    <node id="Hugo Dingler" />
+    <node id="Alexander Gurwitsch [Gurvitsch]" />
+    <node id="August Gärtner" />
+    <node id="Abraham Esau" />
+    <node id="Enrico Persico" />
+    <node id="Karl Kohlrausch" />
+    <node id="Hans Geiger" />
+    <node id="Léon Brillouin" />
+    <node id="Samuel Abraham Goudsmit" />
+    <node id="Wander de Haas" />
+    <node id="Louis King" />
+    <node id="David Keys" />
+    <node id="John McLennan" />
+    <node id="Harry Bateman" />
+    <node id="Fritz Zwicky" />
+    <node id="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <node id="Giuseppe Paolo Stanislao Occhialini" />
+    <node id="Jacob Clay" />
+    <node id="Vagn Ekman" />
+    <node id="Reginald Daly" />
+    <node id="Gregori Aminoff" />
+    <node id="Gustaf Ising" />
+    <node id="Nils Zeilon" />
+    <node id="Angelo Barbagelata" />
+    <node id="Hans Benndorf" />
+    <node id="Gabriel Foëx" />
+    <node id="Ralph Fowler" />
+    <node id="John Douglas Cockcroft" />
+    <node id="Ernest Thomas Sinton Walton" />
+    <node id="Alfred Loomis" />
+    <node id="Antonio Carrelli" />
+    <node id="Otto Hahn" />
+    <node id="Lise Meitner" />
+    <node id="Karl Herzfeld" />
+    <node id="Franz Aigner" />
+    <node id="Ludwig Flamm" />
+    <node id="Heinrich Mache" />
+    <node id="Marc de Haas" />
+    <node id="Cornelis Zwikker" />
+    <node id="Gilles Holst" />
+    <node id="Aurel Stodola" />
+    <node id="Marian Grotowski" />
+    <node id="Harold Jeffreys" />
+    <node id="Sir Geoffrey Ingram Taylor" />
+    <node id="Nikola Tesla" />
+    <node id="Fred Wolfers" />
+    <node id="Eugen Badarau" />
+    <node id="Laureto Tieri" />
+    <node id="Henry Erikson" />
+    <node id="Ernest Lawrence" />
+    <node id="Erich Regener" />
+    <node id="Georgi Manev" />
+    <node id="Tullio Levi-Civita" />
+    <node id="Wojciech Rubinowicz" />
+    <node id="Henry Goodwin" />
+    <node id="John Hasbrouck Van Vleck" />
+    <node id="Edwin Goodrich" />
+    <node id="Edoardo Amaldi" />
+    <node id="Franco Dino Rasetti" />
+    <node id="Harvey Cushing" />
+    <node id="Stanislas Loria" />
+    <node id="Frederic Blake" />
+    <node id="Isidor Rabi" />
+    <node id="Harald Perlitz" />
+    <node id="Paul Scherrer" />
+    <node id="Albert Hull" />
+    <node id="Charles Darwin" />
+    <node id="Harlow Shapley" />
+    <node id="F Záviska" />
+    <node id="Jaroslav Heyrovský" />
+    <node id="V Vojlech" />
+    <node id="M Valouch" />
+    <node id="L Srámek" />
+    <node id="Vaclav Dolejsek" />
+    <node id="Cecil Fortescue" />
+    <node id="George Eugene Uhlenbeck" />
+    <node id="Hideki Yukawa" />
+    <node id="(Arthur) Neville Chamberlain" />
+    <node id="Henri Bouasse" />
+    <node id="Eugene Wigner" />
+    <node id="H Smyth" />
+    <node id="A Shenstone" />
+    <node id="Howard Robertson" />
+    <node id="Rudolf Ladenburg" />
+    <node id="Hans Albrecht Bethe" />
+    <node id="Roswell Gibbs" />
+    <node id="William Giauque" />
+    <node id="Pierre Auger" />
+    <node id="Adriaan Fokker" />
+    <node id="Boris Iliin" />
+    <node id="Leigh Page" />
+    <node id="Giovanni Someda" />
+    <node id="Toshizo Matsumoto" />
+    <node id="Fritz Strassmann" />
+    <node id="Seth Neddermeyer" />
+    <node id="Walter Cannon" />
+    <node id="Rudolf Ortvay" />
+    <node id="George de Hevesy" />
+    <node id="Ernest Barker" />
+    <node id="M Wetzli" />
+    <node id="Bunsaku Arakatsu" />
+    <node id="Otto Struve" />
+    <node id="Floyd Watson" />
+    <node id="Donald William Kerst" />
+    <node id="C Granda" />
+    <node id="Santiago Mayolo" />
+    <node id="Robert Brode" />
+    <node id="Hannes Alfvén" />
+    <node id="George Gamow" />
+    <node id="Reginald James" />
+    <node id="Henri Beghin" />
+    <node id="Samuel Milner" />
+    <node id="Victor Bailey" />
+    <node id="Willem van Dijck" />
+    <node id="Gerhard Elias" />
+    <node id="Hendrik Dorgelo" />
+    <node id="Christiaan van Geel" />
+    <node id="Frans Penning" />
+    <node id="John Nolan" />
+    <node id="John Roebuck" />
+    <node id="Gudmund Borelius" />
+    <node id="Leonard Ingersoll" />
+    <node id="Bernard Lyot" />
+    <node id="Gregory Breit" />
+    <node id="Sir Nevill Francis Mott" />
+    <node id="John Poole" />
+    <node id="Cyrias Ouellet" />
+    <node id="Otto Robert Frisch" />
+    <node id="Hendrik Kramers" />
+    <node id="Bruno Benedetto Rossi" />
+    <node id="Lachlan Gilchrist" />
+    <node id="Pyotr Leonidovich Kapitsa" />
+    <node id="Joseph Valasek" />
+    <node id="M da Silva" />
+    <node id="David Mathias Dennison" />
+    <node id="Robert Oppenheimer" />
+    <node id="William Hansen" />
+    <node id="Frederick Lindemann (Lord Cherwell)" />
+    <node id="Sir Francis Simon" />
+    <node id="Felix Bloch" />
+    <node id="Egil Hylleraas" />
+    <node id="Jean Thibaud" />
+    <node id="Alexandre Dauvillier" />
+    <node id="Nuclear Scientists" />
+    <node id="Karl Emeleus" />
+    <node id="William Watson" />
+    <node id="Carlos Chagas" />
+    <node id="Walther Meissner" />
+    <node id="Karl-Friedrich Bonhoeffer" />
+    <node id="Klaus Clusius" />
+    <node id="Llewellyn Thomas" />
+    <node id="Vladimir Iosifovich Veksler" />
+    <node id="Edwin Mattison McMillan" />
+    <node id="Robert Serber" />
+    <node id="Dimitrij Skobelzyn" />
+    <node id="Robert Eugene Marshak" />
+    <node id="Samuel Tolansky" />
+    <node id="John Desmond Bernal" />
+    <node id="Cornelis Jacobus Gorter" />
+    <node id="Charles Alfred Coulson" />
+    <node id="George Preston" />
+    <node id="Samuel Allison" />
+    <node id="Yves Rocard" />
+    <node id="Harald Wergeland" />
+    <node id="Balthasar van der Pol" />
+    <node id="Helmut Scheffers" />
+    <node id="Joseph Platt" />
+    <node id="Marcel Schein" />
+    <node id="Jesse DuMond" />
+    <node id="Henry Yeagley" />
+    <node id="Karl Jansky" />
+    <node id="Alfred Kastler" />
+    <node id="Bengt Edlén" />
+    <node id="Walter Grotrian" />
+    <node id="Claude Geoffrion" />
+    <node id="Albéric Bouivin" />
+    <node id="Jean Weissenhoff" />
+    <node id="Henryk Niewodniczanski" />
+    <node id="Boris Rajewsky" />
+    <node id="Arthur Hardy" />
+    <node id="Vannevar Bush" />
+    <node id="Marcel Pauthenier" />
+    <node id="André Mercier" />
+    <node id="Francois Croze" />
+    <node id="Georg Hettner" />
+    <node id="John Kerwin" />
+    <node id="Alfred Nier" />
+    <node id="Albert Portevin" />
+    <node id="Cecil Frank Powell" />
+    <node id="Torsten Gustafson" />
+    <node id="Georges Hall" />
+    <node id="Claude Frémont" />
+    <node id="Friedrich Dessauer" />
+    <node id="Nathaniel Frank" />
+    <node id="Kenneth Tompkins Bainbridge" />
+    <node id="Jabez Curry Street" />
+    <node id="Maurice Goldhaber" />
+    <node id="Leo Szilard" />
+    <node id="Jerrokld Zacharias" />
+    <node id="Victor Frederick Weisskopf" />
+    <node id="Philip McCord Morse" />
+    <node id="Albert Hill" />
+    <node id="Erwin Madelung" />
+    <node id="Walter Hill" />
+    <node id="César Lattes" />
+    <node id="Eugène Gardner" />
+    <node id="Edward Purcell" />
+    <node id="Fernand Bonenfant" />
+    <node id="Paul Koenig" />
+    <node id="James Bartlett" />
+    <node id="Walter Adams" />
+    <node id="Marle Tuve" />
+    <node id="Lawrence Hafstad" />
+    <node id="Peter Kruger" />
+    <node id="Edward Stevenson" />
+    <node id="Georg von Békésy" />
+    <node id="Willis Eugene Lamb, Jr" />
+    <node id="Mari Johan Druyvesteyn" />
+    <node id="Ralph de Laer Kronig" />
+    <node id="Max Morand" />
+    <node id="John Strong" />
+    <node id="Abraham van Heel" />
+    <node id="Christian Møller" />
+    <node id="Felix Machatschki" />
+    <node id="Joseph Mattauch" />
+    <node id="Walther Kossel" />
+    <node id="Shirley Quimby" />
+    <node id="Marietta Blau" />
+    <node id="Hertha Wambacher" />
+    <node id="Markus Fierz" />
+    <node id="Francis Perrin" />
+    <node id="Louis Leprince-Ringuet" />
+    <node id="Horace Welcome Babcock" />
+    <node id="Grote Reber" />
+    <node id="S Gorodetzky" />
+    <node id="Luis Walter Alvarez" />
+    <node id="R Lucas" />
+    <node id="H Sack" />
+    <node id="R Wilson" />
+    <node id="Homi Bhabha" />
+    <node id="Leonard Isaac Schiff" />
+    <node id="Charles Sadron" />
+    <node id="Walter Heinrich Heitler" />
+    <node id="K Wagner" />
+    <node id="Ernst Pascual Jordan" />
+    <node id="Willis Eugene Lamb" />
+    <node id="Jr" />
+    <node id="Gleb Vassielievich Wataghin" />
+    <node id="Richard Kuhn" />
+    <node id="Erwin Wilhelm Müller" />
+    <node id="Leopold Ruzicka" />
+    <node id="J Williams" />
+    <node id="Wolfgang Kurt Hermann Panofsky" />
+    <node id="A Durán" />
+    <node id="Julian Schwinger" />
+    <node id="K Bechert" />
+    <node id="T Yamanouchi" />
+    <node id="Sin-Itiro Tomonaga" />
+    <node id="A Arnulf" />
+    <node id="Ivo Supek" />
+    <node id="C Bakker" />
+    <node id="H Staub" />
+    <node id="Joseph Rotblat" />
+    <node id="Robert Retherford" />
+    <node id="H Kumagai" />
+    <node id="T Muto" />
+    <node id="S Devons" />
+    <node id="William Francis Swann" />
+    <node id="Samuel Jackson Barnett" />
+    <node id="Glenn Theodore Seaborg" />
+    <node id="Alfred Landé" />
+    <node id="S Franchetti" />
+    <node id="Léon Rosenfeld" />
+    <node id="Pavel Alekseyevich Cherenkov [Čerenkov]" />
+    <node id="A Luyckx" />
+    <node id="Georges Destriau" />
+    <node id="C Manneback" />
+    <node id="Maurice Curie" />
+    <node id="E Justi" />
+    <node id="Jean Laval" />
+    <node id="Louis Néel" />
+    <node id="G Rushbrooke" />
+    <node id="Lars Onsager" />
+    <node id="Herbert Lawrence Anderson" />
+    <node id="Hugo de Vries" />
+    <node id="H Brinkman" />
+    <node id="A J Siegert" />
+    <node id="Polykarp Kusch" />
+    <node id="P Keesom" />
+    <node id="D Williams" />
+    <node id="H Bradt" />
+    <node id="Bernard Peters" />
+    <node id="H Kneser" />
+    <node id="W Burcham" />
+    <node id="Horace Richard Crane" />
+    <node id="Sir Gordon Brims Black Sutherland" />
+    <node id="Karl Johann Freudenberg" />
+    <node id="P Rouard" />
+    <node id="Edwin Hubble" />
+    <node id="Albrecht Otto Johannes Unsöld" />
+    <node id="M Pool" />
+    <node id="J Cork" />
+    <node id="A.C. Mitchell" />
+    <node id="L Langer" />
+    <node id="J Halpern" />
+    <node id="Willard Frank Libby" />
+    <node id="L Weil" />
+    <node id="Johannes Hans Daniel Jensen" />
+    <node id="Emilio Gino Segrè" />
+    <node id="H Robinson" />
+    <node id="F Nix" />
+    <node id="John Bardeen" />
+    <node id="Walter Houser Brattain" />
+    <node id="W Lochte-Holtgreven" />
+    <node id="Robert Jemison Van de Graaff" />
+    <node id="Harrie Stewart Wilson Massey" />
+    <node id="Otto Haxel" />
+    <node id="U Dehlinger" />
+    <node id="Carl Friedrich von Weizsäcker" />
+    <node id="O Laporte" />
+    <node id="E Meyer" />
+    <node id="G Ludwig" />
+    <node id="Herbert Fröhlich" />
+    <node id="H Dänzer" />
+    <node id="M Czerny" />
+    <node id="H Gobrecht" />
+    <node id="Nicholas Kemmer" />
+    <node id="Gilberto Bernardini" />
+    <node id="A Lichnorowicz" />
+    <node id="Georges Lemaître" />
+    <node id="M Laporte" />
+    <node id="Pierre Jacquinot" />
+    <node id="Bruno Ferretti" />
+    <node id="H.W. Skinner" />
+    <node id="V Pavlovic" />
+    <node id="Vladimir Zworykin" />
+    <node id="N Feather" />
+    <node id="Martin Deutsch" />
+    <node id="Lev Davidovich Landau" />
+    <node id="Fritz London" />
+    <node id="E M F van der Held" />
+    <node id="Ilya Romanovich Prigogine" />
+    <node id="William Shockley" />
+    <node id="Charles Kittel" />
+    <node id="Karl Lark-Horowitz" />
+    <node id="James Baker" />
+    <node id="Edwin Herbert Land" />
+    <node id="Edward Linfoot" />
+    <node id="H Mueller" />
+    <node id="Lamek Hulthén" />
+    <node id="Vladimir Aleksandrovich Fok" />
+    <node id="Ralph Kronig" />
+    <node id="Ernst Schmidt" />
+    <node id="Georg Stetter" />
+    <node id="F Regler" />
+    <node id="K Beckert" />
+    <node id="J van Staveren" />
+    <node id="Maria Goeppert-Mayer" />
+    <node id="Heinz Maier-Leibnitz" />
+    <node id="George Dixon Rochester" />
+    <node id="Isao Imai" />
+    <node id="H Messel" />
+    <node id="W Allis" />
+    <node id="Francis Bitter" />
+    <node id="R Evans" />
+    <node id="F Loomis" />
+    <node id="Bodo von Borries" />
+    <node id="Ernst August Friedrich Ruska" />
+    <node id="W Glaser" />
+    <node id="Max Knoll" />
+    <node id="Yngve Öhman" />
+    <node id="Hendrik Christoffel van de Hulst" />
+    <node id="Christiaan Alexander (Lex) Muller" />
+    <node id="Jan Hendrik Oort" />
+    <node id="B Lindblad" />
+    <node id="H Boorse" />
+    <node id="G Cocconi" />
+    <node id="G Puppi" />
+    <node id="A Hautot" />
+    <node id="Jan Hendrick de Boer" />
+    <node id="K Banerji" />
+    <node id="Satyendra Nath Bose" />
+    <node id="Ronald Fisher" />
+    <node id="Sydney Chapman" />
+    <node id="R Vieweg" />
+    <node id="M.H. Pryce" />
+    <node id="Richard Phillips Feynman" />
+    <node id="Lee de Forest" />
+    <node id="Dorothy Crowfoot Hodgkin" />
+    <node id="John Northrop" />
+    <node id="L Massignon" />
+    <node id="Mark Laurence Oliphant" />
+    <node id="Väinö Hovi" />
+    <node id="K Greisen" />
+    <node id="Yu. Watase" />
+    <node id="Reginald Victor Jones" />
+    <node id="M Kohler" />
+    <node id="W Gordy" />
+    <node id="A.M. Michels" />
+    <node id="L Nordheim" />
+    <node id="Hertha Sponer" />
+    <node id="J Jacobsen" />
+    <node id="J Böggild" />
+    <node id="William Fowler" />
+    <node id="Robert Fox Bacher" />
+    <node id="R Christy" />
+    <node id="Rolf Wideröe" />
+    <node id="H Sterky" />
+    <node id="Charles Hard Townes" />
+    <node id="M Velasco Durantez" />
+    <node id="Gerald Pearson" />
+    <node id="Hans Suess" />
+    <node id="Gerhart Wolfgang Rathenau" />
+    <node id="Ch. Lauritsen" />
+    <node id="Brebis Bleaney" />
+    <node id="V Kondratiev" />
+    <node id="Subramanyan Chandrasekhar" />
+    <node id="Edward Purdy Ney" />
+    <node id="G Kahlson" />
+    <node id="Nikolay Nikolayevich Semyonov" />
+    <node id="A Topchiev" />
+    <node id="M Inghram" />
+    <node id="H Pettersson" />
+    <node id="Carl-Gustaf Arvid Rossby" />
+    <node id="Leopold Infeld" />
+    <node id="Marian Danysz" />
+    <node id="T Kopcewicz" />
+    <node id="Jerzy Pniewski" />
+    <node id="L Sosnowski" />
+    <node id="M White" />
+    <node id="John Archibald Wheeler" />
+    <node id="D Hamilton" />
+    <node id="Robert Henry Dicke" />
+    <node id="Walter Bleakney" />
+    <node id="Ivar Waller" />
+    <node id="Ernest Wollan" />
+    <node id="Clifford Shull" />
+    <node id="Clifford Butler" />
+    <node id="Owen Chamberlain" />
+    <node id="Helmut Hönl" />
+    <node id="F Houtermans" />
+    <node id="Igor Yevgenyevich Tamm" />
+    <node id="Erik Paul Gerhard Ingelstam" />
+    <node id="Ilya Frank" />
+    <node id="Vladimir Aleksandrovich Fock" />
+    <node id="Sergey Vavilov" />
+    <node id="Lev Andreyevich Artsimovich" />
+    <node id="M Leontovic" />
+    <node id="Hans Busch" />
+    <node id="W Kroebel" />
+    <node id="Marcello Conversi" />
+    <node id="Ettore Pancini" />
+    <node id="Oreste Piccioni" />
+    <node id="Aleksei Naumov" />
+    <node id="Gersh Budker" />
+    <node id="Clyde Lorrain Cowan" />
+    <node id="Frederick Reines" />
+    <node id="J Kistemaker" />
+    <node id="Jesse Beams" />
+    <node id="T Laurent" />
+    <node id="E Pollard" />
+    <node id="Seymour Benzer" />
+    <node id="A Flammersfeld" />
+    <node id="André Maréchal" />
+    <node id="A Guinier" />
+    <node id="H Okubo" />
+    <node id="Heinz Neuber" />
+    <node id="J Daunt" />
+    <node id="Giovanni Zin" />
+    <node id="H Nielsen" />
+    <node id="Konrad Bleuler" />
+    <node id="C Ufford" />
+    <node id="Chien-Shiung Wu" />
+    <node id="Yevgeny Konstantinovich Zavoisky" />
+    <node id="Harold Delos Babcock" />
+    <node id="H Nakano" />
+    <node id="David Bohm" />
+    <node id="David Pines" />
+    <node id="William Hume-Rothery" />
+    <node id="S de Groot" />
+    <node id="M Verde" />
+    <node id="Clyde Wiegand" />
+    <node id="Thomas Ypsilantis" />
+    <node id="Robert Hofstadter" />
+    <node id="Abdus Salam" />
+    <node id="R Rompe" />
+    <node id="Nikolai Nikolaevic Bogoljubov" />
+    <node id="D Kothari" />
+    <node id="H Schreiber" />
+    <node id="Donald Glaser" />
+    <node id="W Fretter" />
+    <node id="A Roberts" />
+    <node id="Th. Sigurgeirsson" />
+    <node id="Léon Charles Prudent van Hove" />
+    <node id="B.R. Nijboer" />
+    <node id="F Eder" />
+    <node id="Abram Joffé" />
+    <node id="M Soutif" />
+    <node id="W Nierenberg" />
+    <node id="M Fallot" />
+    <node id="K Hellwege" />
+    <node id="B Moyer" />
+    <node id="Walter Hans Schottky" />
+    <node id="H Boersch" />
+    <node id="M Päsler" />
+    <node id="Richard Honerjäger" />
+    <node id="G Burkhardt" />
+    <node id="W Opechowski" />
+    <node id="Einar Lindholm" />
+    <node id="Carl Wilhelm Wagner" />
+    <node id="Gopalasamudram Narayanan Ramachandran" />
+    <node id="Norbert Wiener" />
+    <node id="Claude Shannon" />
+    <node id="W Powell" />
+    <node id="P Endt" />
+    <node id="Frederick Charles Frank" />
+    <node id="Frank Bowden" />
+    <node id="André Lallemand" />
+    <node id="J Rossel" />
+    <node id="Leon Max Lederman" />
+    <node id="I Artobolevskij" />
+    <node id="Viktor Amazaspovich Ambartsumian" />
+    <node id="J Destouches" />
+    <node id="J Zacharias" />
+    <node id="W Fry" />
+    <node id="Henry Herman Barschall" />
+    <node id="C Franzinetti" />
+    <node id="S Szczeniowski" />
+    <node id="Willibald Jentschke" />
+    <node id="N Neuert" />
+    <node id="H Lipson" />
+    <node id="Werner Braunbeck" />
+    <node id="H Krüger" />
+    <node id="B Darling" />
+    <node id="Adriano Gozzini" />
+    <node id="Maurice Françon" />
+    <node id="A Ångström" />
+    <node id="B Kullenberg" />
+    <node id="W Laniecki" />
+    <node id="Gottfried Möllenstedt" />
+    <node id="M Cotte" />
+    <node id="Marie-Antoinette Tonnelat" />
+    <node id="L Berkner" />
+    <node id="James Van Allen" />
+    <node id="E Vassy" />
+    <node id="Anatole Abragam" />
+    <node id="Albert Overhauser" />
+    <node id="Jean Brossel" />
+    <node id="B Flowers" />
+    <node id="J Westerdijk" />
+    <node id="L.J. Broer" />
+    <node id="B Blaisse" />
+    <node id="A C S van Heel" />
+    <node id="J Le Poole" />
+    <node id="Pieter (Pim) Maarten de Wolff" />
+    <node id="Aaldert Hendrik Wapstra" />
+    <node id="Heinz Artur Raether" />
+    <node id="Abraham Pais" />
+    <node id="Murray Gell-Mann" />
+    <node id="Marian Günther" />
+    <node id="Kazuhiko Nishijima" />
+    <node id="Francis Eugene Low" />
+    <node id="Herman Feshbach" />
+    <node id="Bernard Taub Feld" />
+    <node id="Norman Foster Ramsey" />
+    <node id="J Mack" />
+    <node id="Max Ferdinand Perutz" />
+    <node id="John Cowdery Kendrew" />
+    <node id="Sir Cyril Norman Hinshelwood" />
+    <node id="Nicolay Gennadijevitj Basov" />
+    <node id="Aleksandr Mikhailovich Prokhorov [Prockorov]" />
+    <node id="Michał Lunc" />
+    <node id="Nicolaas Bloembergen" />
+    <node id="David Henry Frisch" />
+    <node id="Njål Hole" />
+    <node id="H Johns" />
+    <node id="Louis Gray" />
+    <node id="T Neugebauer" />
+    <node id="Etienne Wolff" />
+    <node id="Rudolf Ludwig Mössbauer" />
+    <node id="H Frauenfelder" />
+    <node id="W Walcher" />
+    <node id="H Wolter" />
+    <node id="M Blackman" />
+    <node id="G Déjardin" />
+    <node id="C Domb" />
+    <node id="Günther Leibfried" />
+    <node id="Friedrich Schlögl" />
+    <node id="Josef Meixner" />
+    <node id="Harry Lambert Welsh" />
+    <node id="J Jauch" />
+    <node id="R Wilkinson" />
+    <node id="Aage Niels Bohr" />
+    <node id="Ben Roy Mottelson" />
+    <node id="R Freymann" />
+    <node id="Dennis Gabor" />
+    <node id="Ladislaus Laszlo Marton" />
+    <node id="F Fumi" />
+    <node id="Egon Orowan" />
+    <node id="Michael Polanyi" />
+    <node id="Kurt Lücke" />
+    <node id="Frederick Seitz" />
+    <node id="A Subnikov" />
+    <node id="Nikolay Vasilyevich Belov" />
+    <node id="J Levinger" />
+    <node id="Ph. Morrison" />
+    <node id="E Salpeter" />
+    <node id="W Woodward" />
+    <node id="A Silverman" />
+    <node id="B McDaniel" />
+    <node id="P Hartman" />
+    <node id="J DeWire" />
+    <node id="S Bagchi" />
+    <node id="J Rayski" />
+    <node id="E Cowan" />
+    <node id="Matthew Linzee Sands" />
+    <node id="R Walker" />
+    <node id="J Pellam" />
+    <node id="S Sljivic" />
+    <node id="Bogdan Maglich [Maglić]" />
+    <node id="A Pignedoli" />
+    <node id="P Bassi" />
+    <node id="B Feretti" />
+    <node id="D Graffi" />
+    <node id="Reinhold Rüdenberg" />
+    <node id="Felix Hans Boehm" />
+    <node id="M Kelly" />
+    <node id="W Smythe" />
+    <node id="Jack Steinberger" />
+    <node id="Hendrik de Waard" />
+    <node id="P Tuomikoski" />
+    <node id="Pekka Jauho" />
+    <node id="H Tolhoek" />
+    <node id="N Hugenholtz" />
+    <node id="H Groenewold" />
+    <node id="Robert Doll" />
+    <node id="Martin Näbauer" />
+    <node id="H Neher" />
+    <node id="A Dutta" />
+    <node id="Joseph Weber" />
+    <node id="Theodore Maiman" />
+    <node id="Ali Javan" />
+    <node id="Max Delbrück" />
+    <node id="A Crooker" />
+    <node id="P Sturrock" />
+    <node id="William Martin Fairbank" />
+    <node id="F Kirschner" />
+    <node id="Walter Friedrich" />
+    <node id="R Liljeblad" />
+    <node id="P Agrain" />
+    <node id="L Gauthier" />
+    <node id="P Cüer" />
+    <node id="S Nikitine" />
+    <node id="R Faivre" />
+    <node id="Fritz Eduard Josef Maria Sauter" />
+    <node id="G Careri" />
+    <node id="Walter Thirring" />
+    <node id="J Warren" />
+    <node id="Arthur Leonard Schawlow" />
+    <node id="F Kaempffer" />
+    <node id="T Takabayasi" />
+    <node id="S Hayakawa" />
+    <node id="S Drell" />
+    <node id="E Grüenbaum" />
+    <node id="Ph. Pluvinage" />
+    <node id="H Benoit" />
+    <node id="Wolfgang Paul" />
+    <node id="James Gordon" />
+    <node id="Amos de-Shalit" />
+    <node id="Sir Martin Ryle" />
+    <node id="Alfred Charles Bernard Lovell" />
+    <node id="W Macke" />
+    <node id="Eric Henry Stoneley Burhop" />
+    <node id="G Salvini" />
+    <node id="C Cattaneo" />
+    <node id="Melvin Schwartz" />
+    <node id="Eugene Newman Parker" />
+    <node id="Koefoed-Hansen" />
+    <node id="P Swings" />
+    <node id="Th. Fields" />
+    <node id="Rudolf Ernst Peierls" />
+    <node id="Nicholas Constantine Metropolis" />
+    <node id="J Simpson" />
+    <node id="Scott Ellsworth Forbush" />
+    <node id="Werner Buckel" />
+    <node id="J Volger" />
+    <node id="Anna Underhill" />
+    <node id="R Servant" />
+    <node id="F Roger" />
+    <node id="R Chastel" />
+    <node id="Philip Burton Moon" />
+    <node id="E Perucca" />
+    <node id="C Codegone" />
+    <node id="Richard Henry Dalitz" />
+    <node id="A Houriet" />
+    <node id="H Ehrenberg" />
+    <node id="J Duchesne" />
+    <node id="G Lovera" />
+    <node id="G Falk" />
+    <node id="Vernon Willard Hughes" />
+    <node id="Ch Schlier" />
+    <node id="O Osbergshaus" />
+    <node id="David Allan Bromley" />
+    <node id="Herwig Schopper" />
+    <node id="V Petrzilka" />
+    <node id="Tullio Regge" />
+    <node id="Freeman John Dyson" />
+    <node id="Gunnar Källén" />
+    <node id="B Stech" />
+    <node id="W Wessel" />
+    <node id="Hans-Arwed Weidenmüller" />
+    <node id="G Höhler" />
+    <node id="A Zatopek" />
+    <node id="Keith Edward Bullen" />
+    <node id="W Kofink" />
+    <node id="H Schüler" />
+    <node id="Th Schmidt" />
+    <node id="Jo. Novozilov" />
+    <node id="Mikhail Veselov" />
+    <node id="I Michajlov" />
+    <node id="D Skobeltsyn" />
+    <node id="N Kalitejevskij" />
+    <node id="S Fris" />
+    <node id="D H Rank" />
+    <node id="J Ruamps" />
+    <node id="H Marschall" />
+    <node id="Wolfgang Gentner" />
+    <node id="Ch. Schmelzer" />
+    <node id="Anatoly Petrovich Alexandrov" />
+    <node id="Margaret Burbidge" />
+    <node id="Geoffrey Ronald Burbidge" />
+    <node id="Fred Hoyle" />
+    <node id="M Stevenson" />
+    <node id="Giancomo Morpurgo" />
+    <node id="Stanley Mandelstam" />
+    <node id="Giuliano Toraldo di Francia" />
+    <node id="S Frankel" />
+    <node id="H Ziegler" />
+    <node id="E Arnous" />
+    <node id="W Hälg" />
+    <node id="A Minc" />
+    <node id="A Eckardt" />
+    <node id="W Schütz" />
+    <node id="K Schuster" />
+    <node id="Ernst Schmutzer" />
+    <node id="R Lennuier" />
+    <node id="Corneille Heymans" />
+    <node id="J Bricard" />
+    <node id="C Magnan" />
+    <node id="W Fierz" />
+    <node id="Res Jost" />
+    <node id="Gaston Dupouy" />
+    <node id="J Smidt" />
+    <node id="A Prins" />
+    <node id="Susumu Okubo" />
+    <node id="H Koppe" />
+    <node id="L Gentzel" />
+    <node id="John Hamilton Reynolds" />
+    <node id="C Jeffries" />
+    <node id="Werner Känzig" />
+    <node id="Ernst Brun" />
+    <node id="G Süssmann" />
+    <node id="J Humblet" />
+    <node id="H Gove" />
+    <node id="Charles Brian Anthony McCusker" />
+    <node id="Gerson Goldhaber" />
+    <node id="Yuval Néeman" />
+    <node id="W Selove" />
+    <node id="Velasco Durántes" />
+    <node id="Ivan Supek" />
+    <node id="A Mann" />
+    <node id="Évry Léon Schatzman" />
+    <node id="Gilbert Amat" />
+    <node id="Y Le Corre" />
+    <node id="Jean-Claude Pecker" />
+    <node id="Józef Hurwic" />
+    <node id="S Piotrowski" />
+    <node id="Emil Wolf" />
+    <node id="Robert Hanbury Brown" />
+    <node id="Richard Twiss" />
+    <node id="W Hindmarsh" />
+    <node id="Martin Schwarzchild" />
+    <node id="Werner Zeil" />
+    <node id="R Connor" />
+    <node id="Nicholas Constantine Christofilos" />
+    <edge source="Alexander McAdie" target="Carl Barus" />
+    <edge source="Alexander McAdie" target="William Shaw" />
+    <edge source="Max von Laue" target="Niels Bohr" />
+    <edge source="Max von Laue" target="Albert Einstein" />
+    <edge source="Max von Laue" target="James Franck" />
+    <edge source="Max von Laue" target="Manne Karl Siegbahn" />
+    <edge source="Max von Laue" target="Friedrich Paschen" />
+    <edge source="Max von Laue" target="Arthur Compton" />
+    <edge source="Max von Laue" target="Arnold Sommerfeld" />
+    <edge source="Max von Laue" target="Erwin Schrödinger" />
+    <edge source="Max von Laue" target="Walter Gerlach" />
+    <edge source="Max von Laue" target="Otto Stern" />
+    <edge source="Max von Laue" target="Wolfgang Pauli" />
+    <edge source="Max von Laue" target="Carl Anderson" />
+    <edge source="Max von Laue" target="Otto Hahn" />
+    <edge source="Max von Laue" target="Lise Meitner" />
+    <edge source="Max von Laue" target="Walther Meissner" />
+    <edge source="Max von Laue" target="Felix Bloch" />
+    <edge source="Max von Laue" target="Edward Purcell" />
+    <edge source="Max von Laue" target="Erwin Wilhelm Müller" />
+    <edge source="Max von Laue" target="Klaus Clusius" />
+    <edge source="Max von Laue" target="Walther Bothe" />
+    <edge source="Max von Laue" target="Martin Deutsch" />
+    <edge source="Niels Bohr" target="James Franck" />
+    <edge source="Niels Bohr" target="Sir Owen Richardson" />
+    <edge source="Niels Bohr" target="Irving Langmuir" />
+    <edge source="Niels Bohr" target="Robert Wood" />
+    <edge source="Niels Bohr" target="Sir Chandrasekhara Raman" />
+    <edge source="Niels Bohr" target="Werner Karl Heisenberg" />
+    <edge source="Niels Bohr" target="Erwin Schrödinger" />
+    <edge source="Niels Bohr" target="Otto Stern" />
+    <edge source="Niels Bohr" target="Frédéric Joliot" />
+    <edge source="Niels Bohr" target="Irène Joliot-Curie" />
+    <edge source="Niels Bohr" target="Ernest Lawrence" />
+    <edge source="Niels Bohr" target="Lise Meitner" />
+    <edge source="Niels Bohr" target="Otto Robert Frisch" />
+    <edge source="Niels Bohr" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="Niels Bohr" target="Max Born" />
+    <edge source="Niels Bohr" target="Hendrik Kramers" />
+    <edge source="Niels Bohr" target="Lev Davidovich Landau" />
+    <edge source="Alfred Fowler" target="Hugh Callendar" />
+    <edge source="Alfred Fowler" target="Ira Bowen" />
+    <edge source="Giacomo Ciamician" target="Petrus Debye" />
+    <edge source="Carl Charlier" target="Albert Einstein" />
+    <edge source="Albert Einstein" target="James Franck" />
+    <edge source="Albert Einstein" target="Gustav Hertz" />
+    <edge source="Albert Einstein" target="Arthur Compton" />
+    <edge source="Albert Einstein" target="Werner Karl Heisenberg" />
+    <edge source="Albert Einstein" target="Erwin Schrödinger" />
+    <edge source="Albert Einstein" target="Otto Stern" />
+    <edge source="Albert Einstein" target="Isidor Rabi" />
+    <edge source="Albert Einstein" target="Wolfgang Pauli" />
+    <edge source="Albert Einstein" target="Walther Bothe" />
+    <edge source="Hans Dällenbach" target="Albert Einstein" />
+    <edge source="Sir Arthur Eddington" target="Albert Einstein" />
+    <edge source="Arthur Haas" target="Albert Einstein" />
+    <edge source="Arthur Haas" target="Pierre Weiss" />
+    <edge source="Arthur Haas" target="Prince Louis-Victor de Broglie" />
+    <edge source="Arthur Haas" target="Clinton Davisson" />
+    <edge source="Arthur Haas" target="Paul Langevin" />
+    <edge source="Jacques Hadamard" target="Albert Einstein" />
+    <edge source="Jacques Hadamard" target="Jean Perrin" />
+    <edge source="Jacques Hadamard" target="Sir Owen Richardson" />
+    <edge source="Jacques Hadamard" target="David Hilbert" />
+    <edge source="Jacques Hadamard" target="Pierre Auger" />
+    <edge source="Jacques Hadamard" target="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <edge source="Jacques Hadamard" target="Hideki Yukawa" />
+    <edge source="Jacques Hadamard" target="Homi Bhabha" />
+    <edge source="Jacques Hadamard" target="John Desmond Bernal" />
+    <edge source="Jean Perrin" target="Sir John Townsend" />
+    <edge source="Jean Perrin" target="Pierre Weiss" />
+    <edge source="Jean Perrin" target="Charles Wilson" />
+    <edge source="Jean Perrin" target="Paul Langevin" />
+    <edge source="Jean Perrin" target="Prince Louis-Victor de Broglie" />
+    <edge source="Jean Perrin" target="Erwin Schrödinger" />
+    <edge source="Jean Perrin" target="Sir Chandrasekhara Raman" />
+    <edge source="Jean Perrin" target="Werner Karl Heisenberg" />
+    <edge source="Jean Perrin" target="Aimé Cotton" />
+    <edge source="Jean Perrin" target="Walther Bothe" />
+    <edge source="Jean Perrin" target="Carl Anderson" />
+    <edge source="Jean Perrin" target="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <edge source="Jean Perrin" target="Wander de Haas" />
+    <edge source="Jean Perrin" target="Pierre Auger" />
+    <edge source="George Jaffé" target="Albert Einstein" />
+    <edge source="George Jaffé" target="Robert Wood" />
+    <edge source="Theodore Lyman" target="Albert Einstein" />
+    <edge source="Theodore Lyman" target="Robert Wood" />
+    <edge source="Theodore Lyman" target="Percy Bridgman" />
+    <edge source="Erich Marx" target="Albert Einstein" />
+    <edge source="Erich Marx" target="Robert Wood" />
+    <edge source="Erich Marx" target="Clinton Davisson" />
+    <edge source="Erich Marx" target="Lester Halbert Germer" />
+    <edge source="Erich Marx" target="Petrus Debye" />
+    <edge source="Gunnar Nordström" target="Albert Einstein" />
+    <edge source="Carl Oseen" target="Albert Einstein" />
+    <edge source="Carl Oseen" target="Werner Karl Heisenberg" />
+    <edge source="Carl Oseen" target="Wolfgang Pauli" />
+    <edge source="Carl Oseen" target="Erwin Schrödinger" />
+    <edge source="Max Planck" target="Albert Einstein" />
+    <edge source="Max Planck" target="Niels Bohr" />
+    <edge source="Max Planck" target="Friedrich Paschen" />
+    <edge source="Max Planck" target="Arnold Sommerfeld" />
+    <edge source="Max Planck" target="Arthur Compton" />
+    <edge source="Max Planck" target="Werner Karl Heisenberg" />
+    <edge source="Max Planck" target="Erwin Schrödinger" />
+    <edge source="Max Planck" target="Otto Stern" />
+    <edge source="Max Planck" target="Wolfgang Pauli" />
+    <edge source="Max Planck" target="Carl Anderson" />
+    <edge source="Max Planck" target="Enrico Fermi" />
+    <edge source="Max Planck" target="Lise Meitner" />
+    <edge source="Charles Walcott" target="Albert Einstein" />
+    <edge source="Charles Walcott" target="George Hale" />
+    <edge source="Charles Walcott" target="Robert Millikan" />
+    <edge source="Charles Walcott" target="Charles Abbot" />
+    <edge source="Charles Walcott" target="Francis Aston" />
+    <edge source="Charles Walcott" target="William Coolidge" />
+    <edge source="Charles Walcott" target="Robert Wood" />
+    <edge source="Charles Walcott" target="Arthur Compton" />
+    <edge source="Emil Warburg" target="Albert Einstein" />
+    <edge source="Emil Warburg" target="Kasimir Fajans" />
+    <edge source="Emil Warburg" target="Frederick Soddy" />
+    <edge source="Emil Warburg" target="Petrus Debye" />
+    <edge source="Otto Wiener" target="Albert Einstein" />
+    <edge source="Otto Wiener" target="Vilhelm Bjerknes" />
+    <edge source="Philipp E.A. v. Lenard" target="Ernst Gehrcke" />
+    <edge source="Philipp E.A. v. Lenard" target="Wilhelm Wien" />
+    <edge source="Ernst Gehrcke" target="Eugen Goldstein" />
+    <edge source="Ernst Gehrcke" target="Werner Kohlhörster" />
+    <edge source="Kristian Prytz" target="Martin Knudsen" />
+    <edge source="Albin Haller" target="Paul Langevin" />
+    <edge source="Paul Langevin" target="Albert Einstein" />
+    <edge source="Carl Benedicks" target="Otto Lehmann" />
+    <edge source="Carl Benedicks" target="John Fleming" />
+    <edge source="Carl Benedicks" target="Sir Owen Richardson" />
+    <edge source="Carl Benedicks" target="Clinton Davisson" />
+    <edge source="Carl Benedicks" target="Lester Halbert Germer" />
+    <edge source="Carl Benedicks" target="Sir George Paget Thomson" />
+    <edge source="Carl Benedicks" target="Halvor Solberg" />
+    <edge source="Carl Benedicks" target="Vilhelm Bjerknes" />
+    <edge source="Carl Benedicks" target="Tor Bergeron" />
+    <edge source="Carl Benedicks" target="Jacob Bjerknes" />
+    <edge source="Carl Benedicks" target="Albert Portevin" />
+    <edge source="Henry Le Châtelier" target="Auguste Lumière" />
+    <edge source="Henry Le Châtelier" target="Louis Lumière" />
+    <edge source="Henry Osborn" target="Robert Millikan" />
+    <edge source="Henry Osborn" target="Arthur Compton" />
+    <edge source="Henry Osborn" target="Michael Pupin" />
+    <edge source="Henry Osborn" target="Henry Norris Russell" />
+    <edge source="Henry Osborn" target="Arnold Sommerfeld" />
+    <edge source="Henry Osborn" target="Clinton Davisson" />
+    <edge source="Henry Osborn" target="Ira Bowen" />
+    <edge source="Henry Osborn" target="Gustaf Elmen" />
+    <edge source="Robert Millikan" target="Niels Bohr" />
+    <edge source="Robert Millikan" target="Arnold Sommerfeld" />
+    <edge source="Robert Millikan" target="Arthur Compton" />
+    <edge source="Robert Millikan" target="Clinton Davisson" />
+    <edge source="Robert Millikan" target="Ira Bowen" />
+    <edge source="Robert Millikan" target="Carl Anderson" />
+    <edge source="Robert Millikan" target="Vilhelm Bjerknes" />
+    <edge source="Robert Millikan" target="Seth Neddermeyer" />
+    <edge source="Robert Wenger" target="Walther Nernst" />
+    <edge source="Walther Nernst" target="Albert Einstein" />
+    <edge source="Walther Nernst" target="Petrus Debye" />
+    <edge source="Walther Nernst" target="James Franck" />
+    <edge source="Walther Nernst" target="Hans Geiger" />
+    <edge source="Absalon Larsen" target="Peder Pedersen" />
+    <edge source="Absalon Larsen" target="Valdemar Poulsen" />
+    <edge source="Peder Pedersen" target="Valdemar Poulsen" />
+    <edge source="William Rung" target="Peder Pedersen" />
+    <edge source="William Rung" target="Valdemar Poulsen" />
+    <edge source="Charles Guillaume" target="Jean Perrin" />
+    <edge source="Charles Guillaume" target="Aimé Cotton" />
+    <edge source="Pierre Weiss" target="Jean Perrin" />
+    <edge source="Pierre Weiss" target="Walter Gerlach" />
+    <edge source="Pierre Weiss" target="Otto Stern" />
+    <edge source="Helios Ollivier" target="Pierre Weiss" />
+    <edge source="George Hale" target="Robert Millikan" />
+    <edge source="Leo Graetz" target="Francis Aston" />
+    <edge source="Leo Graetz" target="Wolfgang Gaede" />
+    <edge source="Leo Graetz" target="Prince Louis-Victor de Broglie" />
+    <edge source="Theodore Richards" target="Francis Aston" />
+    <edge source="Theodore Richards" target="Robert Millikan" />
+    <edge source="Theodore Richards" target="Percy Bridgman" />
+    <edge source="Sir William Lawrence Bragg" target="Niels Bohr" />
+    <edge source="Sir William Lawrence Bragg" target="John Fleming" />
+    <edge source="Sir William Lawrence Bragg" target="Arthur Compton" />
+    <edge source="Sir William Lawrence Bragg" target="Werner Karl Heisenberg" />
+    <edge source="Sir William Lawrence Bragg" target="Erwin Schrödinger" />
+    <edge source="Sir William Lawrence Bragg" target="Paul Adrien Maurice Dirac" />
+    <edge source="Sir William Lawrence Bragg" target="Sir Edward Appleton" />
+    <edge source="Sir William Lawrence Bragg" target="John Douglas Cockcroft" />
+    <edge source="Sir William Lawrence Bragg" target="Max Ferdinand Perutz" />
+    <edge source="Sir William Lawrence Bragg" target="John Cowdery Kendrew" />
+    <edge source="Sir William Lawrence Bragg" target="Dorothy Crowfoot Hodgkin" />
+    <edge source="Sir William Lawrence Bragg" target="Sir Martin Ryle" />
+    <edge source="Sir William Lawrence Bragg" target="Alfred Charles Bernard Lovell" />
+    <edge source="Julius Lilienfeld" target="Niels Bohr" />
+    <edge source="Julius Lilienfeld" target="Petrus Debye" />
+    <edge source="Stefan Meyer" target="Niels Bohr" />
+    <edge source="Stefan Meyer" target="Albert Einstein" />
+    <edge source="Stefan Meyer" target="Arnold Sommerfeld" />
+    <edge source="Stefan Meyer" target="Manne Karl Siegbahn" />
+    <edge source="Stefan Meyer" target="Charles Wilson" />
+    <edge source="Stefan Meyer" target="Prince Louis-Victor de Broglie" />
+    <edge source="Stefan Meyer" target="Erwin Schrödinger" />
+    <edge source="Stefan Meyer" target="Walter Gerlach" />
+    <edge source="Stefan Meyer" target="Otto Stern" />
+    <edge source="Stefan Meyer" target="Irène Joliot-Curie" />
+    <edge source="Stefan Meyer" target="James Chadwick" />
+    <edge source="Stefan Meyer" target="Frédéric Joliot" />
+    <edge source="Stefan Meyer" target="Clinton Davisson" />
+    <edge source="Stefan Meyer" target="Lester Halbert Germer" />
+    <edge source="Stefan Meyer" target="Carl Anderson" />
+    <edge source="Stefan Meyer" target="Enrico Fermi" />
+    <edge source="Stefan Meyer" target="Wolfgang Pauli" />
+    <edge source="Stefan Meyer" target="Alfred Loomis" />
+    <edge source="Stefan Meyer" target="Robert Wood" />
+    <edge source="Arnold Sommerfeld" target="Albert Einstein" />
+    <edge source="Karl Lindman" target="Niels Bohr" />
+    <edge source="Karl Lindman" target="Arnold Sommerfeld" />
+    <edge source="Wilhelm Röntgen" target="Niels Bohr" />
+    <edge source="Ernest Lord Rutherford" target="Niels Bohr" />
+    <edge source="Ernest Lord Rutherford" target="Charles Wilson" />
+    <edge source="Ernest Lord Rutherford" target="Sir Owen Richardson" />
+    <edge source="Ernest Lord Rutherford" target="Sir Chandrasekhara Raman" />
+    <edge source="Ernest Lord Rutherford" target="James Chadwick" />
+    <edge source="Ernest Lord Rutherford" target="John Douglas Cockcroft" />
+    <edge source="Ernest Lord Rutherford" target="Ernest Thomas Sinton Walton" />
+    <edge source="August Schmauss" target="Niels Bohr" />
+    <edge source="August Schmauss" target="Arnold Sommerfeld" />
+    <edge source="August Schmauss" target="Petrus Debye" />
+    <edge source="Hjalmar Tallqvist" target="Niels Bohr" />
+    <edge source="Hjalmar Tallqvist" target="Arnold Sommerfeld" />
+    <edge source="Hjalmar Tallqvist" target="Maurice de Broglie" />
+    <edge source="Jules Bordet" target="Aimé Cotton" />
+    <edge source="Jules Bordet" target="Paul Langevin" />
+    <edge source="Aimé Cotton" target="Jean Perrin" />
+    <edge source="Aimé Cotton" target="Frédéric Joliot" />
+    <edge source="Aimé Cotton" target="Irène Joliot-Curie" />
+    <edge source="Aimé Cotton" target="Enrico Fermi" />
+    <edge source="Aimé Cotton" target="Bernard Lyot" />
+    <edge source="Marcel Brillouin" target="Paul Langevin" />
+    <edge source="Marcel Brillouin" target="Jean Perrin" />
+    <edge source="Marcel Brillouin" target="Pierre Weiss" />
+    <edge source="Marcel Brillouin" target="Albert Einstein" />
+    <edge source="Marcel Brillouin" target="Charles Fabry" />
+    <edge source="Marcel Brillouin" target="Georges Gouy" />
+    <edge source="Charles Fabry" target="Arthur Compton" />
+    <edge source="Charles Fabry" target="Jean Cabannes" />
+    <edge source="Charles Fabry" target="Sir Chandrasekhara Raman" />
+    <edge source="Théophile de Donder" target="Albert Einstein" />
+    <edge source="Théophile de Donder" target="Petrus Debye" />
+    <edge source="Théophile de Donder" target="Pierre Weiss" />
+    <edge source="Felix Ehrenhaft" target="Albert Einstein" />
+    <edge source="Felix Ehrenhaft" target="Siegmund Strauss" />
+    <edge source="Felix Ehrenhaft" target="Petrus Debye" />
+    <edge source="Felix Ehrenhaft" target="Nikola Tesla" />
+    <edge source="Robert Emden" target="Albert Einstein" />
+    <edge source="Robert Emden" target="George Hale" />
+    <edge source="Edgar Meyer" target="Albert Einstein" />
+    <edge source="Edgar Meyer" target="Friedrich Paschen" />
+    <edge source="Edgar Meyer" target="Robert Wood" />
+    <edge source="Edgar Meyer" target="James Franck" />
+    <edge source="Edgar Meyer" target="Wolfgang Pauli" />
+    <edge source="Friedrich Paschen" target="Theodore Lyman" />
+    <edge source="Friedrich Paschen" target="Robert Millikan" />
+    <edge source="Bernhard Naunyn" target="Albert Einstein" />
+    <edge source="Bernhard Naunyn" target="Arnold Sommerfeld" />
+    <edge source="Edward Poulton" target="Albert Einstein" />
+    <edge source="Ernst Wagner" target="Albert Einstein" />
+    <edge source="Ernst Wagner" target="Walter Gerlach" />
+    <edge source="Ernst Wagner" target="Otto Stern" />
+    <edge source="Edwin Frost" target="Charles Fabry" />
+    <edge source="Edwin Frost" target="Robert Millikan" />
+    <edge source="Edwin Frost" target="George Hale" />
+    <edge source="Edwin Frost" target="Robert Wood" />
+    <edge source="Georg von Mayr" target="Leo Graetz" />
+    <edge source="Antonio Lo Surdo" target="George Hale" />
+    <edge source="Antonio Lo Surdo" target="Guglielmo Marconi" />
+    <edge source="Vito Volterra" target="George Hale" />
+    <edge source="Henry Gale" target="Friedrich Paschen" />
+    <edge source="Henry Gale" target="Arthur Compton" />
+    <edge source="Oscar Knoblauch" target="Friedrich Paschen" />
+    <edge source="Oscar Knoblauch" target="Carl von Linde" />
+    <edge source="Oscar Knoblauch" target="Edwin Armstrong" />
+    <edge source="Oscar Knoblauch" target="Alexander Meissner" />
+    <edge source="Wilhelm Wien" target="Friedrich Paschen" />
+    <edge source="Wilhelm Wien" target="Philipp E.A. v. Lenard" />
+    <edge source="Wilhelm Wien" target="Robert Wood" />
+    <edge source="Wilhelm Wien" target="Arthur Compton" />
+    <edge source="Wilhelm Wien" target="Otto Stern" />
+    <edge source="Jonathan Zenneck" target="Friedrich Paschen" />
+    <edge source="Jonathan Zenneck" target="Carl von Linde" />
+    <edge source="Jonathan Zenneck" target="Edwin Armstrong" />
+    <edge source="Jonathan Zenneck" target="Alexander Meissner" />
+    <edge source="Jonathan Zenneck" target="James Chadwick" />
+    <edge source="Jonathan Zenneck" target="Walther Meissner" />
+    <edge source="Theodor Svedberg" target="Ernest Lord Rutherford" />
+    <edge source="Theodor Svedberg" target="Werner Karl Heisenberg" />
+    <edge source="Theodor Svedberg" target="James Chadwick" />
+    <edge source="Theodor Svedberg" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="Theodor Svedberg" target="Willem Keesom" />
+    <edge source="Theodor Svedberg" target="Hideki Yukawa" />
+    <edge source="Theodor Svedberg" target="Cecil Frank Powell" />
+    <edge source="Theodor Svedberg" target="John Douglas Cockcroft" />
+    <edge source="Theodor Svedberg" target="Edwin Mattison McMillan" />
+    <edge source="Sem Saeland" target="Vilhelm Bjerknes" />
+    <edge source="Sem Saeland" target="Halvor Solberg" />
+    <edge source="Sem Saeland" target="Tor Bergeron" />
+    <edge source="Sem Saeland" target="Jacob Bjerknes" />
+    <edge source="Vilhelm Bjerknes" target="Tor Bergeron" />
+    <edge source="Vilhelm Bjerknes" target="Jacob Bjerknes" />
+    <edge source="Vilhelm Bjerknes" target="Halvor Solberg" />
+    <edge source="Vilhelm Carlheim-Gyllensköld" target="Henri Deslandres" />
+    <edge source="Vilhelm Carlheim-Gyllensköld" target="George Hale" />
+    <edge source="Vilhelm Carlheim-Gyllensköld" target="Percy Bridgman" />
+    <edge source="Henri Deslandres" target="Carl Störmer" />
+    <edge source="Henri Deslandres" target="Georges Claude" />
+    <edge source="James Franck" target="Arthur Compton" />
+    <edge source="James Franck" target="Walter Gerlach" />
+    <edge source="James Franck" target="Otto Stern" />
+    <edge source="James Franck" target="Robert Wood" />
+    <edge source="James Franck" target="Prince Louis-Victor de Broglie" />
+    <edge source="James Franck" target="Clinton Davisson" />
+    <edge source="James Franck" target="Emil Warburg" />
+    <edge source="James Franck" target="Friedrich Paschen" />
+    <edge source="James Franck" target="Arnold Sommerfeld" />
+    <edge source="James Franck" target="Petrus Debye" />
+    <edge source="James Franck" target="Werner Karl Heisenberg" />
+    <edge source="James Franck" target="Erwin Schrödinger" />
+    <edge source="James Franck" target="Enrico Fermi" />
+    <edge source="James Franck" target="Ernest Lawrence" />
+    <edge source="James Franck" target="Wander de Haas" />
+    <edge source="James Franck" target="William Giauque" />
+    <edge source="James Franck" target="Otto Hahn" />
+    <edge source="James Franck" target="Lise Meitner" />
+    <edge source="James Franck" target="Wolfgang Pauli" />
+    <edge source="James Franck" target="Max Born" />
+    <edge source="James Franck" target="Henry Norris Russell" />
+    <edge source="James Franck" target="Felix Bloch" />
+    <edge source="James Franck" target="Edwin Hubble" />
+    <edge source="James Franck" target="George Eugene Uhlenbeck" />
+    <edge source="James Franck" target="Samuel Abraham Goudsmit" />
+    <edge source="James Franck" target="Emilio Gino Segrè" />
+    <edge source="James Franck" target="Maria Goeppert-Mayer" />
+    <edge source="James Franck" target="Johannes Hans Daniel Jensen" />
+    <edge source="James Franck" target="Max Delbrück" />
+    <edge source="Johannes Stark" target="Wolfgang Gaede" />
+    <edge source="Johannes Stark" target="Wilhelm Wien" />
+    <edge source="Johannes Stark" target="Walter Gerlach" />
+    <edge source="Johannes Stark" target="Otto Stern" />
+    <edge source="Johannes Stark" target="Sir Chandrasekhara Raman" />
+    <edge source="Johannes Stark" target="Ernest Lord Rutherford" />
+    <edge source="Johannes Stark" target="Helmut Scheffers" />
+    <edge source="Gustav Jäger" target="George Hale" />
+    <edge source="Gustav Jäger" target="Albert Einstein" />
+    <edge source="Gustav Jäger" target="Arnold Sommerfeld" />
+    <edge source="Gustav Jäger" target="Wolfgang Gaede" />
+    <edge source="Gustav Jäger" target="Prince Louis-Victor de Broglie" />
+    <edge source="Gustav Jäger" target="Erwin Schrödinger" />
+    <edge source="Gustav Jäger" target="Walter Gerlach" />
+    <edge source="Gustav Jäger" target="Otto Stern" />
+    <edge source="Gustav Jäger" target="Irène Joliot-Curie" />
+    <edge source="Gustav Jäger" target="James Chadwick" />
+    <edge source="Gustav Jäger" target="Frédéric Joliot" />
+    <edge source="Gustav Jäger" target="Clinton Davisson" />
+    <edge source="Gustav Jäger" target="Lester Halbert Germer" />
+    <edge source="Gustav Jäger" target="Carl Anderson" />
+    <edge source="Erwin Meyer" target="Friedrich Paschen" />
+    <edge source="Erwin Meyer" target="Robert Millikan" />
+    <edge source="Erwin Meyer" target="James Franck" />
+    <edge source="Erwin Meyer" target="Robert Wood" />
+    <edge source="Erwin Meyer" target="Werner Karl Heisenberg" />
+    <edge source="Erwin Meyer" target="Erwin Schrödinger" />
+    <edge source="Erwin Meyer" target="Walter Gerlach" />
+    <edge source="Erwin Meyer" target="Otto Stern" />
+    <edge source="Erwin Meyer" target="Georg von Békésy" />
+    <edge source="Percy Bridgman" target="George Eugene Uhlenbeck" />
+    <edge source="Percy Bridgman" target="Samuel Abraham Goudsmit" />
+    <edge source="Percy Bridgman" target="Reinhold Rüdenberg" />
+    <edge source="John Bates Clark" target="George Hale" />
+    <edge source="John Bates Clark" target="William Coolidge" />
+    <edge source="John Bates Clark" target="Robert Wood" />
+    <edge source="John Bates Clark" target="Michael Pupin" />
+    <edge source="Orest Khvol´son" target="Friedrich Paschen" />
+    <edge source="Orest Khvol´son" target="Arnold Sommerfeld" />
+    <edge source="Orest Khvol´son" target="Prince Louis-Victor de Broglie" />
+    <edge source="Orest Khvol´son" target="Maurice de Broglie" />
+    <edge source="Orest Khvol´son" target="Grigoriy Landsberg" />
+    <edge source="Orest Khvol´son" target="Leonid Mandelshtam (Mandelstam)" />
+    <edge source="Orest Khvol´son" target="Sir Chandrasekhara Raman" />
+    <edge source="Erwin Schrödinger" target="Friedrich Paschen" />
+    <edge source="Erwin Schrödinger" target="Robert Millikan" />
+    <edge source="Erwin Schrödinger" target="Robert Wood" />
+    <edge source="Erwin Schrödinger" target="Clinton Davisson" />
+    <edge source="Erwin Schrödinger" target="Lester Halbert Germer" />
+    <edge source="Erwin Schrödinger" target="Sir George Paget Thomson" />
+    <edge source="Erwin Schrödinger" target="Erich Regener" />
+    <edge source="Erwin Schrödinger" target="Wolfgang Pauli" />
+    <edge source="Erwin Schrödinger" target="Enrico Fermi" />
+    <edge source="Erwin Schrödinger" target="Marietta Blau" />
+    <edge source="Erwin Schrödinger" target="Hertha Wambacher" />
+    <edge source="Eugène Bloch" target="Jean Perrin" />
+    <edge source="Eugène Bloch" target="Prince Louis-Victor de Broglie" />
+    <edge source="Eugène Bloch" target="Erwin Schrödinger" />
+    <edge source="Eugène Bloch" target="Sir Chandrasekhara Raman" />
+    <edge source="Eugène Bloch" target="Robert Wood" />
+    <edge source="Sir Owen Richardson" target="Clinton Davisson" />
+    <edge source="Sir Owen Richardson" target="Enrico Fermi" />
+    <edge source="Sir Owen Richardson" target="Sir Edward Appleton" />
+    <edge source="Heike Kamerlingh Onnes" target="Jean Perrin" />
+    <edge source="Hendrik Lorentz" target="Jean Perrin" />
+    <edge source="Pieter Zeeman" target="Jean Perrin" />
+    <edge source="Pieter Zeeman" target="Wander de Haas" />
+    <edge source="Alfred Angot" target="Jules Richard" />
+    <edge source="David Jordan" target="Ernest Lord Rutherford" />
+    <edge source="David Jordan" target="Manne Karl Siegbahn" />
+    <edge source="David Jordan" target="Arthur Compton" />
+    <edge source="David Jordan" target="Erwin Schrödinger" />
+    <edge source="David Jordan" target="Petrus Debye" />
+    <edge source="William Shaw" target="Arthur Schuster" />
+    <edge source="William Shaw" target="Jacob Bjerknes" />
+    <edge source="William Shaw" target="Vilhelm Bjerknes" />
+    <edge source="William Shaw" target="Halvor Solberg" />
+    <edge source="William Shaw" target="Tor Bergeron" />
+    <edge source="Sir John Townsend" target="Gustav Ferrié" />
+    <edge source="Sir John Townsend" target="Maurice de Broglie" />
+    <edge source="Hugh Newall" target="Charles Wilson" />
+    <edge source="Charles Wilson" target="Sir Owen Richardson" />
+    <edge source="Charles Wilson" target="Sir Chandrasekhara Raman" />
+    <edge source="Sir Joseph Thomson" target="Charles Wilson" />
+    <edge source="Prince Louis-Victor de Broglie" target="Sir Chandrasekhara Raman" />
+    <edge source="Prince Louis-Victor de Broglie" target="Erwin Schrödinger" />
+    <edge source="Prince Louis-Victor de Broglie" target="Clinton Davisson" />
+    <edge source="Prince Louis-Victor de Broglie" target="Lester Halbert Germer" />
+    <edge source="Prince Louis-Victor de Broglie" target="James Chadwick" />
+    <edge source="Prince Louis-Victor de Broglie" target="Frédéric Joliot" />
+    <edge source="Prince Louis-Victor de Broglie" target="Irène Joliot-Curie" />
+    <edge source="Prince Louis-Victor de Broglie" target="Carl Anderson" />
+    <edge source="Prince Louis-Victor de Broglie" target="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <edge source="Prince Louis-Victor de Broglie" target="Giuseppe Paolo Stanislao Occhialini" />
+    <edge source="Prince Louis-Victor de Broglie" target="Enrico Fermi" />
+    <edge source="Prince Louis-Victor de Broglie" target="Hideki Yukawa" />
+    <edge source="Prince Louis-Victor de Broglie" target="Wolfgang Pauli" />
+    <edge source="Prince Louis-Victor de Broglie" target="Max Born" />
+    <edge source="Prince Louis-Victor de Broglie" target="Camille Gutton" />
+    <edge source="Prince Louis-Victor de Broglie" target="Otto Hahn" />
+    <edge source="Prince Louis-Victor de Broglie" target="Lise Meitner" />
+    <edge source="Prince Louis-Victor de Broglie" target="Balthasar van der Pol" />
+    <edge source="Prince Louis-Victor de Broglie" target="Bernard Lyot" />
+    <edge source="Prince Louis-Victor de Broglie" target="Louis Leprince-Ringuet" />
+    <edge source="Prince Louis-Victor de Broglie" target="Hans Albrecht Bethe" />
+    <edge source="Prince Louis-Victor de Broglie" target="Alfred Kastler" />
+    <edge source="Prince Louis-Victor de Broglie" target="Léon Brillouin" />
+    <edge source="Prince Louis-Victor de Broglie" target="Louis Néel" />
+    <edge source="Prince Louis-Victor de Broglie" target="André Lallemand" />
+    <edge source="Maurice de Broglie" target="Pierre Weiss" />
+    <edge source="Maurice de Broglie" target="Sir Chandrasekhara Raman" />
+    <edge source="Maurice de Broglie" target="Clinton Davisson" />
+    <edge source="Maurice de Broglie" target="Lester Halbert Germer" />
+    <edge source="Maurice de Broglie" target="Sir George Paget Thomson" />
+    <edge source="Maurice de Broglie" target="Erwin Schrödinger" />
+    <edge source="Maurice de Broglie" target="Enrico Fermi" />
+    <edge source="Maurice de Broglie" target="James Chadwick" />
+    <edge source="Maurice de Broglie" target="Frédéric Joliot" />
+    <edge source="Maurice de Broglie" target="Irène Joliot-Curie" />
+    <edge source="Maurice de Broglie" target="Carl Anderson" />
+    <edge source="Maurice de Broglie" target="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <edge source="Maurice de Broglie" target="Hideki Yukawa" />
+    <edge source="Maurice de Broglie" target="Lise Meitner" />
+    <edge source="Maurice de Broglie" target="Otto Robert Frisch" />
+    <edge source="Maurice de Broglie" target="Nuclear Scientists" />
+    <edge source="Maurice de Broglie" target="Donald William Kerst" />
+    <edge source="Maurice de Broglie" target="Balthasar van der Pol" />
+    <edge source="Maurice de Broglie" target="Bernard Lyot" />
+    <edge source="Maurice de Broglie" target="Cecil Frank Powell" />
+    <edge source="Maurice de Broglie" target="Louis Leprince-Ringuet" />
+    <edge source="Arthur Compton" target="Clinton Davisson" />
+    <edge source="Arthur Compton" target="Carl Anderson" />
+    <edge source="Arthur Compton" target="Jacob Clay" />
+    <edge source="Arthur Compton" target="Victor Hess" />
+    <edge source="Arthur Compton" target="Meghnad Saha" />
+    <edge source="Arthur Compton" target="Enrico Fermi" />
+    <edge source="Arthur Compton" target="Ernest Lawrence" />
+    <edge source="Arthur Compton" target="Otto Stern" />
+    <edge source="Arthur Compton" target="Otto Hahn" />
+    <edge source="Arthur Compton" target="Lise Meitner" />
+    <edge source="Arthur Compton" target="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <edge source="Arthur Compton" target="Edward Purcell" />
+    <edge source="Arthur Compton" target="Clyde Lorrain Cowan" />
+    <edge source="Arthur Compton" target="Jr" />
+    <edge source="Arthur Compton" target="Frederick Reines" />
+    <edge source="Sir William Henry Bragg" target="John Fleming" />
+    <edge source="Sir William Henry Bragg" target="Ludwig Prandtl" />
+    <edge source="Sir William Henry Bragg" target="Sir Edward Appleton" />
+    <edge source="Guglielmo Marconi" target="John Fleming" />
+    <edge source="Guglielmo Marconi" target="Giancarlo Vallauri" />
+    <edge source="Ludwig Plate" target="James Franck" />
+    <edge source="Ludwig Plate" target="Arnold Sommerfeld" />
+    <edge source="Ludwig Plate" target="Friedrich Paschen" />
+    <edge source="Ludwig Plate" target="Erwin Schrödinger" />
+    <edge source="Otto Stern" target="Hideki Yukawa" />
+    <edge source="Otto Stern" target="George Eugene Uhlenbeck" />
+    <edge source="Otto Stern" target="Samuel Abraham Goudsmit" />
+    <edge source="Otto Stern" target="Rudolf Ludwig Mössbauer" />
+    <edge source="Frits Zernike" target="Friedrich Paschen" />
+    <edge source="Frits Zernike" target="Willard Frank Libby" />
+    <edge source="Paul Painlevé" target="Jean Perrin" />
+    <edge source="Paul Painlevé" target="Paul Langevin" />
+    <edge source="Manne Karl Siegbahn" target="Otto Hahn" />
+    <edge source="Manne Karl Siegbahn" target="Otto Stern" />
+    <edge source="Manne Karl Siegbahn" target="Walter Gerlach" />
+    <edge source="Manne Karl Siegbahn" target="Isidor Rabi" />
+    <edge source="Manne Karl Siegbahn" target="Edwin Mattison McMillan" />
+    <edge source="Manne Karl Siegbahn" target="Vladimir Iosifovich Veksler" />
+    <edge source="Manne Karl Siegbahn" target="Donald William Kerst" />
+    <edge source="Manne Karl Siegbahn" target="Edward Purcell" />
+    <edge source="Manne Karl Siegbahn" target="Felix Bloch" />
+    <edge source="Manne Karl Siegbahn" target="Frits Zernike" />
+    <edge source="Hans Thirring" target="Arnold Sommerfeld" />
+    <edge source="Hans Thirring" target="Prince Louis-Victor de Broglie" />
+    <edge source="Hans Thirring" target="Paul Adrien Maurice Dirac" />
+    <edge source="Hans Thirring" target="Werner Karl Heisenberg" />
+    <edge source="Hans Thirring" target="Erwin Schrödinger" />
+    <edge source="Hans Thirring" target="Irène Joliot-Curie" />
+    <edge source="Hans Thirring" target="Otto Stern" />
+    <edge source="Hans Thirring" target="James Chadwick" />
+    <edge source="Hans Thirring" target="Walter Gerlach" />
+    <edge source="Hans Thirring" target="Frédéric Joliot" />
+    <edge source="Hans Thirring" target="Clinton Davisson" />
+    <edge source="Hans Thirring" target="Lester Halbert Germer" />
+    <edge source="Hans Thirring" target="Carl Anderson" />
+    <edge source="Hans Thirring" target="Enrico Fermi" />
+    <edge source="Hans Thirring" target="Wolfgang Pauli" />
+    <edge source="Hans Thirring" target="Alfred Loomis" />
+    <edge source="Hans Thirring" target="Robert Wood" />
+    <edge source="Hans Thirring" target="Marietta Blau" />
+    <edge source="Kotaro Honda" target="Pierre Weiss" />
+    <edge source="Otto Pettersson" target="Vilhelm Bjerknes" />
+    <edge source="Johan Sandström" target="Vilhelm Bjerknes" />
+    <edge source="Ernst Dünner" target="Petrus Debye" />
+    <edge source="Alfred Byk" target="James Franck" />
+    <edge source="Alfred Byk" target="Gustav Hertz" />
+    <edge source="Edouard Grüneisen" target="James Franck" />
+    <edge source="Wilhelm Westphal" target="James Franck" />
+    <edge source="Wilhelm Westphal" target="Friedrich Paschen" />
+    <edge source="Joseph Ames" target="Dayton Miller" />
+    <edge source="Fritz Henning" target="Friedrich Paschen" />
+    <edge source="Peter Pringsheim" target="Friedrich Paschen" />
+    <edge source="Peter Pringsheim" target="Max Born" />
+    <edge source="Peter Pringsheim" target="Werner Karl Heisenberg" />
+    <edge source="Peter Pringsheim" target="Otto Stern" />
+    <edge source="Paul Appell" target="Jean Perrin" />
+    <edge source="Émile Borel" target="Jean Perrin" />
+    <edge source="Émile Borel" target="Paul Langevin" />
+    <edge source="Émile Borel" target="Bernard Lyot" />
+    <edge source="Charles Maurain" target="Jean Perrin" />
+    <edge source="Johannes van der Waals" target="Jean Perrin" />
+    <edge source="William Campbell" target="Arnold Sommerfeld" />
+    <edge source="William Campbell" target="Walter Gerlach" />
+    <edge source="William Campbell" target="Otto Stern" />
+    <edge source="William Campbell" target="Erwin Schrödinger" />
+    <edge source="Max Born" target="Arthur Compton" />
+    <edge source="Max Born" target="Walter Gerlach" />
+    <edge source="Max Born" target="Otto Stern" />
+    <edge source="Max Born" target="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <edge source="Max Born" target="Lise Meitner" />
+    <edge source="Max Born" target="Johannes Hans Daniel Jensen" />
+    <edge source="Max Born" target="Maria Goeppert-Mayer" />
+    <edge source="Max Born" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="Max Born" target="Cornelis Jacobus Gorter" />
+    <edge source="Max Born" target="Sir Francis Simon" />
+    <edge source="Max Born" target="Walter Heinrich Heitler" />
+    <edge source="Robert Wichard Pohl" target="Arthur Compton" />
+    <edge source="Robert Wichard Pohl" target="Carl Ramsauer" />
+    <edge source="Robert Wichard Pohl" target="Victor Hess" />
+    <edge source="Charles Guye" target="Aimé Cotton" />
+    <edge source="Arthur Schidlof" target="Aimé Cotton" />
+    <edge source="Svante Arrhenius" target="John Fleming" />
+    <edge source="Svante Arrhenius" target="Sir Owen Richardson" />
+    <edge source="Robert Hadfield" target="John Fleming" />
+    <edge source="Heinrich Rausch von Traubenberg" target="Walter Gerlach" />
+    <edge source="Heinrich Rausch von Traubenberg" target="Otto Stern" />
+    <edge source="Friedrich Niethammer" target="Victor Kaplan" />
+    <edge source="Carl Breitfeld" target="Arnold Sommerfeld" />
+    <edge source="Leonard Ornstein" target="Arnold Sommerfeld" />
+    <edge source="Leonard Ornstein" target="Otto Stern" />
+    <edge source="Jarl Wasastjerna" target="Maurice de Broglie" />
+    <edge source="Karl Lichtenecker" target="Ernst Gehrcke" />
+    <edge source="Max Reich" target="Walter Gerlach" />
+    <edge source="Max Reich" target="Otto Stern" />
+    <edge source="Werner Karl Heisenberg" target="Otto Stern" />
+    <edge source="Werner Karl Heisenberg" target="Frédéric Joliot" />
+    <edge source="Werner Karl Heisenberg" target="Irène Joliot-Curie" />
+    <edge source="Werner Karl Heisenberg" target="James Chadwick" />
+    <edge source="Werner Karl Heisenberg" target="Enrico Fermi" />
+    <edge source="Werner Karl Heisenberg" target="Otto Hahn" />
+    <edge source="Werner Karl Heisenberg" target="Lise Meitner" />
+    <edge source="Werner Karl Heisenberg" target="Karl-Friedrich Bonhoeffer" />
+    <edge source="Werner Karl Heisenberg" target="Klaus Clusius" />
+    <edge source="Werner Karl Heisenberg" target="Hendrik Kramers" />
+    <edge source="Werner Karl Heisenberg" target="Cecil Frank Powell" />
+    <edge source="Werner Karl Heisenberg" target="Willis Eugene Lamb" />
+    <edge source="Werner Karl Heisenberg" target="Jr" />
+    <edge source="Werner Karl Heisenberg" target="Robert Retherford" />
+    <edge source="Werner Karl Heisenberg" target="Hans Albrecht Bethe" />
+    <edge source="Werner Karl Heisenberg" target="Lev Davidovich Landau" />
+    <edge source="Werner Karl Heisenberg" target="Rudolf Ludwig Mössbauer" />
+    <edge source="Werner Karl Heisenberg" target="Carl Friedrich von Weizsäcker" />
+    <edge source="Charles Nicolle" target="Paul Langevin" />
+    <edge source="Charles Nicolle" target="Pierre Weiss" />
+    <edge source="Irving Langmuir" target="Ernest Lawrence" />
+    <edge source="Willy Möbius" target="Friedrich Paschen" />
+    <edge source="Erich Hückel" target="Ludwig Prandtl" />
+    <edge source="Erich Hückel" target="Werner Karl Heisenberg" />
+    <edge source="Theodor Pöschl" target="Ludwig Prandtl" />
+    <edge source="Carl Schiller" target="Ludwig Prandtl" />
+    <edge source="Willem Keesom" target="Sir Owen Richardson" />
+    <edge source="Willem Keesom" target="Wander de Haas" />
+    <edge source="Quirino Majorana" target="Arnold Sommerfeld" />
+    <edge source="Quirino Majorana" target="Carl Anderson" />
+    <edge source="Quirino Majorana" target="Irène Joliot-Curie" />
+    <edge source="Quirino Majorana" target="Giancarlo Vallauri" />
+    <edge source="Luigi Palazzo" target="Vilhelm Bjerknes" />
+    <edge source="Henry Crew" target="Percy Bridgman" />
+    <edge source="Henry Crew" target="Clinton Davisson" />
+    <edge source="Henry Crew" target="Lester Halbert Germer" />
+    <edge source="Clinton Davisson" target="Enrico Fermi" />
+    <edge source="Clinton Davisson" target="Ernest Lawrence" />
+    <edge source="Clinton Davisson" target="Isidor Rabi" />
+    <edge source="Clinton Davisson" target="William Shockley" />
+    <edge source="Clinton Davisson" target="John Bardeen" />
+    <edge source="Clinton Davisson" target="Walter Houser Brattain" />
+    <edge source="Clinton Davisson" target="Lee de Forest" />
+    <edge source="Julius Wagner-Jauregg" target="Walter Gerlach" />
+    <edge source="Julius Wagner-Jauregg" target="Otto Stern" />
+    <edge source="Julius Wagner-Jauregg" target="Erwin Schrödinger" />
+    <edge source="Julius Wagner-Jauregg" target="Prince Louis-Victor de Broglie" />
+    <edge source="Julius Wagner-Jauregg" target="Petrus Debye" />
+    <edge source="Eduard Haschek" target="Prince Louis-Victor de Broglie" />
+    <edge source="Eduard Haschek" target="Erwin Schrödinger" />
+    <edge source="Eduard Haschek" target="Arnold Sommerfeld" />
+    <edge source="Eduard Haschek" target="Walter Gerlach" />
+    <edge source="Eduard Haschek" target="Otto Stern" />
+    <edge source="Karl Przibram" target="Prince Louis-Victor de Broglie" />
+    <edge source="Karl Przibram" target="Erwin Schrödinger" />
+    <edge source="Karl Przibram" target="Arnold Sommerfeld" />
+    <edge source="Karl Przibram" target="Otto Stern" />
+    <edge source="Karl Przibram" target="Walter Gerlach" />
+    <edge source="Paul Adrien Maurice Dirac" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="Jean Cabannes" target="Charles Fabry" />
+    <edge source="Jean Cabannes" target="Bernard Lyot" />
+    <edge source="Jean Cabannes" target="Louis Néel" />
+    <edge source="Sir Chandrasekhara Raman" target="Otto Stern" />
+    <edge source="Sir Chandrasekhara Raman" target="Enrico Fermi" />
+    <edge source="Sir Chandrasekhara Raman" target="Ernest Lawrence" />
+    <edge source="Sir Chandrasekhara Raman" target="Subramanyan Chandrasekhar" />
+    <edge source="Arthur Dempster" target="Clinton Davisson" />
+    <edge source="Enrico Fermi" target="Werner Karl Heisenberg" />
+    <edge source="Enrico Fermi" target="Ernest Lawrence" />
+    <edge source="Enrico Fermi" target="Arnold Sommerfeld" />
+    <edge source="Enrico Fermi" target="Isidor Rabi" />
+    <edge source="Enrico Fermi" target="Max Born" />
+    <edge source="Enrico Fermi" target="Cecil Frank Powell" />
+    <edge source="Enrico Fermi" target="Henry Norris Russell" />
+    <edge source="Enrico Fermi" target="Julian Schwinger" />
+    <edge source="Enrico Fermi" target="Felix Bloch" />
+    <edge source="Enrico Fermi" target="Wolfgang Kurt Hermann Panofsky" />
+    <edge source="Friedrich Kottler" target="Werner Karl Heisenberg" />
+    <edge source="Friedrich Kottler" target="Erwin Schrödinger" />
+    <edge source="Emile Henriot" target="Paul Langevin" />
+    <edge source="Paul Ehrenfest" target="Paul Langevin" />
+    <edge source="Paul Ehrenfest" target="Pierre Weiss" />
+    <edge source="Orso Corbino" target="Arnold Sommerfeld" />
+    <edge source="Orso Corbino" target="Werner Karl Heisenberg" />
+    <edge source="Erik Wilhelm Hulthén" target="Robert Wood" />
+    <edge source="Erik Wilhelm Hulthén" target="Donald William Kerst" />
+    <edge source="Erik Wilhelm Hulthén" target="Edwin Mattison McMillan" />
+    <edge source="Henri Villat" target="Aimé Cotton" />
+    <edge source="Henri Villat" target="Prince Louis-Victor de Broglie" />
+    <edge source="Alwin Walther" target="Petrus Debye" />
+    <edge source="Alwin Walther" target="Enrico Fermi" />
+    <edge source="Yakov (Jacov) Frenkel" target="Werner Karl Heisenberg" />
+    <edge source="Yakov (Jacov) Frenkel" target="Erwin Schrödinger" />
+    <edge source="Yakov (Jacov) Frenkel" target="Enrico Fermi" />
+    <edge source="Hantaro Nagaoka" target="Werner Karl Heisenberg" />
+    <edge source="Hantaro Nagaoka" target="Erwin Schrödinger" />
+    <edge source="Hantaro Nagaoka" target="Percy Bridgman" />
+    <edge source="Hantaro Nagaoka" target="James Chadwick" />
+    <edge source="Hantaro Nagaoka" target="Frédéric Joliot" />
+    <edge source="Hantaro Nagaoka" target="Irène Joliot-Curie" />
+    <edge source="Hantaro Nagaoka" target="Carl Anderson" />
+    <edge source="Hantaro Nagaoka" target="Ernest Lawrence" />
+    <edge source="Hantaro Nagaoka" target="Hideki Yukawa" />
+    <edge source="Nikolay Papaleksi" target="Leonid Mandelshtam (Mandelstam)" />
+    <edge source="Richard Pfeiffer" target="Sir Chandrasekhara Raman" />
+    <edge source="Dehendra Bose" target="Meghnad Saha" />
+    <edge source="Meghnad Saha" target="Arnold Sommerfeld" />
+    <edge source="Sisir Mitra" target="Meghnad Saha" />
+    <edge source="Michele Cantone" target="Erwin Schrödinger" />
+    <edge source="Yurij Krutkov" target="Erwin Schrödinger" />
+    <edge source="N Mirolubov" target="Erwin Schrödinger" />
+    <edge source="Blas Cabrera" target="Pierre Weiss" />
+    <edge source="Emile Gley" target="Pierre Weiss" />
+    <edge source="Dmitriy Rozhdestvenskiy" target="Robert Wood" />
+    <edge source="René de Mallemann" target="Jean Cabannes" />
+    <edge source="René de Mallemann" target="Aimé Cotton" />
+    <edge source="René de Mallemann" target="Georges Claude" />
+    <edge source="René de Mallemann" target="(Arthur) Neville Chamberlain" />
+    <edge source="René de Mallemann" target="Henri Bouasse" />
+    <edge source="Georges Burgess" target="Georges Claude" />
+    <edge source="Sir George Paget Thomson" target="Enrico Fermi" />
+    <edge source="Sir George Paget Thomson" target="John Douglas Cockcroft" />
+    <edge source="Sir George Paget Thomson" target="Sir Geoffrey Ingram Taylor" />
+    <edge source="Sir George Paget Thomson" target="George Dixon Rochester" />
+    <edge source="Sir George Paget Thomson" target="Clifford Butler" />
+    <edge source="Karl Landsteiner" target="Petrus Debye" />
+    <edge source="Camille Gutton" target="Gustav Ferrié" />
+    <edge source="Wilhelm Lenz" target="Werner Karl Heisenberg" />
+    <edge source="Wilhelm Lenz" target="Willis Eugene Lamb" />
+    <edge source="Wilhelm Lenz" target="Jr" />
+    <edge source="Wilhelm Lenz" target="Polykarp Kusch" />
+    <edge source="Wilhelm Lenz" target="Samuel Abraham Goudsmit" />
+    <edge source="Wilhelm Lenz" target="George Eugene Uhlenbeck" />
+    <edge source="Victor Hess" target="Enrico Fermi" />
+    <edge source="Victor Hess" target="Sir Edward Appleton" />
+    <edge source="Victor Hess" target="Carl Anderson" />
+    <edge source="Victor Hess" target="Marcel Schein" />
+    <edge source="Victor Hess" target="William Francis Swann" />
+    <edge source="Paul Montel" target="Paul Langevin" />
+    <edge source="Georges Reboul" target="Aimé Cotton" />
+    <edge source="Georges Reboul" target="Bernard Lyot" />
+    <edge source="Alois Kovarik" target="Clinton Davisson" />
+    <edge source="Alois Kovarik" target="Isidor Rabi" />
+    <edge source="Anton von Eiselsberg" target="Petrus Debye" />
+    <edge source="Anton von Eiselsberg" target="Arnold Sommerfeld" />
+    <edge source="Anton von Eiselsberg" target="Enrico Fermi" />
+    <edge source="Anton von Eiselsberg" target="Walter Gerlach" />
+    <edge source="Anton von Eiselsberg" target="Otto Stern" />
+    <edge source="Anton von Eiselsberg" target="Wolfgang Pauli" />
+    <edge source="Anton von Eiselsberg" target="Clinton Davisson" />
+    <edge source="Anton von Eiselsberg" target="Lester Halbert Germer" />
+    <edge source="Anton von Eiselsberg" target="Alfred Loomis" />
+    <edge source="Anton von Eiselsberg" target="Robert Wood" />
+    <edge source="John Lennard-Jones" target="Petrus Debye" />
+    <edge source="Arthur Tyndall" target="Petrus Debye" />
+    <edge source="Joseph Petavel" target="Sir Arthur Eddington" />
+    <edge source="Etienne Canals" target="Charles Fabry" />
+    <edge source="Etienne Canals" target="Jean Cabannes" />
+    <edge source="Friedrich Hund" target="Otto Stern" />
+    <edge source="Friedrich Hund" target="Walter Gerlach" />
+    <edge source="Friedrich Hund" target="Walther Bothe" />
+    <edge source="Friedrich Hund" target="Hans Albrecht Bethe" />
+    <edge source="Wolfgang Pauli" target="Werner Karl Heisenberg" />
+    <edge source="Wolfgang Pauli" target="Otto Stern" />
+    <edge source="Wolfgang Pauli" target="Isidor Rabi" />
+    <edge source="Wolfgang Pauli" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="Wolfgang Pauli" target="Giuseppe Paolo Stanislao Occhialini" />
+    <edge source="Wolfgang Pauli" target="Cecil Frank Powell" />
+    <edge source="Wolfgang Pauli" target="Willis Eugene Lamb" />
+    <edge source="Wolfgang Pauli" target="Jr" />
+    <edge source="Wolfgang Pauli" target="Pavel Alekseyevich Cherenkov [Čerenkov]" />
+    <edge source="Wolfgang Pauli" target="Igor Yevgenyevich Tamm" />
+    <edge source="Wolfgang Pauli" target="Lev Davidovich Landau" />
+    <edge source="Wolfgang Pauli" target="Robert Hofstadter" />
+    <edge source="Gregor Wentzel" target="Werner Karl Heisenberg" />
+    <edge source="Gregor Wentzel" target="Otto Stern" />
+    <edge source="Gregor Wentzel" target="Wolfgang Pauli" />
+    <edge source="Gregor Wentzel" target="Hideki Yukawa" />
+    <edge source="Gregor Wentzel" target="Felix Bloch" />
+    <edge source="Gregor Wentzel" target="Richard Phillips Feynman" />
+    <edge source="David Enskog" target="Werner Karl Heisenberg" />
+    <edge source="David Enskog" target="Erwin Schrödinger" />
+    <edge source="David Enskog" target="James Chadwick" />
+    <edge source="David Enskog" target="Frédéric Joliot" />
+    <edge source="David Enskog" target="Irène Joliot-Curie" />
+    <edge source="Oskar Benjamin Klein" target="Werner Karl Heisenberg" />
+    <edge source="Oskar Benjamin Klein" target="Erwin Schrödinger" />
+    <edge source="Oskar Benjamin Klein" target="Otto Stern" />
+    <edge source="Oskar Benjamin Klein" target="Lise Meitner" />
+    <edge source="Oskar Benjamin Klein" target="Otto Robert Frisch" />
+    <edge source="Oskar Benjamin Klein" target="Hans Albrecht Bethe" />
+    <edge source="Torsten Carleman" target="David Hilbert" />
+    <edge source="Seiji Nakamura" target="Kotaro Honda" />
+    <edge source="Junzô Okubo" target="Kotaro Honda" />
+    <edge source="Hikoo Saegusa" target="Kotaro Honda" />
+    <edge source="Léon Counson" target="Auguste Piccard" />
+    <edge source="Adolf Deissmann" target="Otto Stern" />
+    <edge source="Adolf Deissmann" target="Wolfgang Pauli" />
+    <edge source="Adolf Deissmann" target="Carl Anderson" />
+    <edge source="Adolf Deissmann" target="Enrico Fermi" />
+    <edge source="Emory Chaffee" target="Percy Bridgman" />
+    <edge source="Edwin Hall" target="Percy Bridgman" />
+    <edge source="George Harrison" target="Percy Bridgman" />
+    <edge source="Edwin Kemble" target="Percy Bridgman" />
+    <edge source="Otto Oldenberg" target="Percy Bridgman" />
+    <edge source="George Pierce" target="Percy Bridgman" />
+    <edge source="Frederick Saunders" target="Percy Bridgman" />
+    <edge source="John Clark Slater" target="Percy Bridgman" />
+    <edge source="John Clark Slater" target="Hideki Yukawa" />
+    <edge source="John Clark Slater" target="George Eugene Uhlenbeck" />
+    <edge source="John Clark Slater" target="Samuel Abraham Goudsmit" />
+    <edge source="Manuel Vallarta" target="Percy Bridgman" />
+    <edge source="William Duane" target="Clinton Davisson" />
+    <edge source="Czeslaw Bialobrzeski" target="Paul Adrien Maurice Dirac" />
+    <edge source="Czeslaw Bialobrzeski" target="Werner Karl Heisenberg" />
+    <edge source="Czeslaw Bialobrzeski" target="Erwin Schrödinger" />
+    <edge source="Czeslaw Bialobrzeski" target="Paul Langevin" />
+    <edge source="Czeslaw Bialobrzeski" target="Robert Wood" />
+    <edge source="Czeslaw Bialobrzeski" target="Donald William Kerst" />
+    <edge source="Czeslaw Bialobrzeski" target="Robert Serber" />
+    <edge source="Czeslaw Bialobrzeski" target="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <edge source="Czeslaw Bialobrzeski" target="Pierre Auger" />
+    <edge source="Czeslaw Bialobrzeski" target="Max Born" />
+    <edge source="Czeslaw Bialobrzeski" target="Dimitrij Skobelzyn" />
+    <edge source="Czeslaw Bialobrzeski" target="Bruno Benedetto Rossi" />
+    <edge source="Czeslaw Bialobrzeski" target="Cecil Frank Powell" />
+    <edge source="Czeslaw Bialobrzeski" target="Luis Walter Alvarez" />
+    <edge source="Czeslaw Bialobrzeski" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="Paul Drumaux" target="Werner Karl Heisenberg" />
+    <edge source="Paul Drumaux" target="Erwin Schrödinger" />
+    <edge source="George Joos" target="Arnold Sommerfeld" />
+    <edge source="George Joos" target="Werner Karl Heisenberg" />
+    <edge source="George Joos" target="Walther Meissner" />
+    <edge source="Ivan Plotnikov" target="Victor Hess" />
+    <edge source="Karl Compton" target="Irving Langmuir" />
+    <edge source="Karl Compton" target="Ernest Lawrence" />
+    <edge source="Emil Baur" target="Friedrich Paschen" />
+    <edge source="Emil Baur" target="Arnold Sommerfeld" />
+    <edge source="Franz Cumont" target="Auguste Piccard" />
+    <edge source="Max Wien" target="Arnold Sommerfeld" />
+    <edge source="Richard Willstätter" target="Arnold Sommerfeld" />
+    <edge source="Richard Wachsmuth" target="Otto Stern" />
+    <edge source="O Colard" target="René Thiry" />
+    <edge source="Carl Anderson" target="Otto Stern" />
+    <edge source="Carl Anderson" target="Ernest Lawrence" />
+    <edge source="Carl Anderson" target="Isidor Rabi" />
+    <edge source="Carl Anderson" target="Seth Neddermeyer" />
+    <edge source="Carl Anderson" target="Donald William Kerst" />
+    <edge source="Carl Anderson" target="Richard Phillips Feynman" />
+    <edge source="Carl Anderson" target="Julian Schwinger" />
+    <edge source="Carl Anderson" target="Sin-Itiro Tomonaga" />
+    <edge source="Carl Anderson" target="Rudolf Ludwig Mössbauer" />
+    <edge source="Carl Anderson" target="Charles Hard Townes" />
+    <edge source="Carl Anderson" target="Murray Gell-Mann" />
+    <edge source="Carl Anderson" target="Yuval Néeman" />
+    <edge source="Giulio Dalla Noce" target="Carl Anderson" />
+    <edge source="Giulio Dalla Noce" target="Irène Joliot-Curie" />
+    <edge source="Giorgio Todesco" target="Carl Anderson" />
+    <edge source="Giorgio Todesco" target="Irène Joliot-Curie" />
+    <edge source="James Chadwick" target="John Douglas Cockcroft" />
+    <edge source="James Chadwick" target="Ernest Thomas Sinton Walton" />
+    <edge source="James Chadwick" target="Wander de Haas" />
+    <edge source="James Chadwick" target="Sir Geoffrey Ingram Taylor" />
+    <edge source="James Chadwick" target="Clifford Butler" />
+    <edge source="James Chadwick" target="Giuseppe Paolo Stanislao Occhialini" />
+    <edge source="James Chadwick" target="George Dixon Rochester" />
+    <edge source="Egon von Schweidler" target="Irène Joliot-Curie" />
+    <edge source="Egon von Schweidler" target="Arnold Sommerfeld" />
+    <edge source="Egon von Schweidler" target="Otto Stern" />
+    <edge source="Egon von Schweidler" target="James Chadwick" />
+    <edge source="Egon von Schweidler" target="Walter Gerlach" />
+    <edge source="Egon von Schweidler" target="Frédéric Joliot" />
+    <edge source="Egon von Schweidler" target="Clinton Davisson" />
+    <edge source="Egon von Schweidler" target="Lester Halbert Germer" />
+    <edge source="Egon von Schweidler" target="Carl Anderson" />
+    <edge source="Egon von Schweidler" target="Enrico Fermi" />
+    <edge source="Egon von Schweidler" target="Wolfgang Pauli" />
+    <edge source="Egon von Schweidler" target="Alfred Loomis" />
+    <edge source="Egon von Schweidler" target="Robert Wood" />
+    <edge source="Dirk Coster" target="Clinton Davisson" />
+    <edge source="Dirk Coster" target="Lester Halbert Germer" />
+    <edge source="Dirk Coster" target="Walter Gerlach" />
+    <edge source="Dirk Coster" target="Otto Stern" />
+    <edge source="Dirk Coster" target="Wolfgang Pauli" />
+    <edge source="Dirk Coster" target="Max Born" />
+    <edge source="Dirk Coster" target="Arnold Sommerfeld" />
+    <edge source="Dirk Coster" target="Wander de Haas" />
+    <edge source="Dirk Coster" target="Willem Keesom" />
+    <edge source="Dirk Coster" target="Hideki Yukawa" />
+    <edge source="Dirk Coster" target="Otto Hahn" />
+    <edge source="Dirk Coster" target="Lise Meitner" />
+    <edge source="Walther Bothe" target="Hans Geiger" />
+    <edge source="Walther Bothe" target="Robert Wichard Pohl" />
+    <edge source="Walther Bothe" target="Emilio Gino Segrè" />
+    <edge source="Frank Horton" target="Ferdinand Brickwedde" />
+    <edge source="Frank Horton" target="George Murphy" />
+    <edge source="Frank Horton" target="Harold Clayton Urey" />
+    <edge source="Harold Clayton Urey" target="Enrico Fermi" />
+    <edge source="Harold Clayton Urey" target="Hideki Yukawa" />
+    <edge source="Harold Clayton Urey" target="Maria Goeppert-Mayer" />
+    <edge source="Harold Clayton Urey" target="Johannes Hans Daniel Jensen" />
+    <edge source="Harold Clayton Urey" target="James Van Allen" />
+    <edge source="Harold Clayton Urey" target="Margaret Burbidge" />
+    <edge source="Harold Clayton Urey" target="Geoffrey Ronald Burbidge" />
+    <edge source="Harold Clayton Urey" target="William Fowler" />
+    <edge source="Harold Clayton Urey" target="Fred Hoyle" />
+    <edge source="Herman Farwell" target="Percy Bridgman" />
+    <edge source="Herman Farwell" target="Hans Albrecht Bethe" />
+    <edge source="Charles Lees" target="James Chadwick" />
+    <edge source="Reinhold Fürth" target="James Chadwick" />
+    <edge source="Reinhold Fürth" target="Frédéric Joliot" />
+    <edge source="Reinhold Fürth" target="Irène Joliot-Curie" />
+    <edge source="Henri Buisson" target="Aimé Cotton" />
+    <edge source="Václav Posejpal" target="Aimé Cotton" />
+    <edge source="Pierre Sève" target="Aimé Cotton" />
+    <edge source="Sir Edward Appleton" target="Clinton Davisson" />
+    <edge source="W Clinton" target="John Fleming" />
+    <edge source="William Flinders Petrie" target="George Hale" />
+    <edge source="Raymond Birge" target="Otto Stern" />
+    <edge source="Raymond Birge" target="Isidor Rabi" />
+    <edge source="Leonard Loeb" target="Otto Stern" />
+    <edge source="Leonard Loeb" target="Isidor Rabi" />
+    <edge source="Leonard Loeb" target="Samuel Abraham Goudsmit" />
+    <edge source="Leonard Loeb" target="George Eugene Uhlenbeck" />
+    <edge source="Leonard Loeb" target="Vladimir Iosifovich Veksler" />
+    <edge source="Leonard Loeb" target="Edwin Mattison McMillan" />
+    <edge source="Leonard Loeb" target="William Shockley" />
+    <edge source="Leonard Loeb" target="John Bardeen" />
+    <edge source="Leonard Loeb" target="Walter Houser Brattain" />
+    <edge source="Leonard Loeb" target="Owen Chamberlain" />
+    <edge source="Leonard Loeb" target="Emilio Gino Segrè" />
+    <edge source="Leonard Loeb" target="Erwin Wilhelm Müller" />
+    <edge source="Leonard Loeb" target="Frank Bowden" />
+    <edge source="Alfred Kalähne" target="Carl Störmer" />
+    <edge source="Alfred Kalähne" target="Lars Vegard" />
+    <edge source="Richard Tolman" target="James Chadwick" />
+    <edge source="Richard Tolman" target="Carl Anderson" />
+    <edge source="Edward da Costa Andrade" target="Sir Edward Appleton" />
+    <edge source="Edward da Costa Andrade" target="Percy Bridgman" />
+    <edge source="John Macgregor-Morris" target="Sir Edward Appleton" />
+    <edge source="John Macgregor-Morris" target="Arthur Kennelly" />
+    <edge source="Hans Zickendraht" target="Sir Edward Appleton" />
+    <edge source="Hans Zickendraht" target="Arthur Kennelly" />
+    <edge source="Robert Ditchburn" target="James Chadwick" />
+    <edge source="August Hagenbach" target="James Chadwick" />
+    <edge source="August Hagenbach" target="Robert Wood" />
+    <edge source="Robert Robinson" target="James Chadwick" />
+    <edge source="Robert Robinson" target="Sir Francis Simon" />
+    <edge source="Robert Robinson" target="Dorothy Crowfoot Hodgkin" />
+    <edge source="Kajuri Tamaki" target="James Chadwick" />
+    <edge source="Winfried Schumann" target="James Chadwick" />
+    <edge source="Winfried Schumann" target="Henry Yeagley" />
+    <edge source="Winfried Schumann" target="Robert Wichard Pohl" />
+    <edge source="Winfried Schumann" target="Karl Jansky" />
+    <edge source="Ernst Alexanderson" target="William Coolidge" />
+    <edge source="Ernst Alexanderson" target="Ernest Lawrence" />
+    <edge source="Ludwig Zehnder" target="Felix Ehrenhaft" />
+    <edge source="Ludwig Zehnder" target="Hugo Dingler" />
+    <edge source="Ludwig Zehnder" target="Alexander Gurwitsch [Gurvitsch]" />
+    <edge source="August Gärtner" target="Abraham Esau" />
+    <edge source="Enrico Persico" target="Enrico Fermi" />
+    <edge source="Enrico Persico" target="Bruno Benedetto Rossi" />
+    <edge source="Enrico Persico" target="Marcello Conversi" />
+    <edge source="Enrico Persico" target="Ettore Pancini" />
+    <edge source="Enrico Persico" target="Oreste Piccioni" />
+    <edge source="Karl Kohlrausch" target="Wolfgang Gaede" />
+    <edge source="Léon Brillouin" target="Samuel Abraham Goudsmit" />
+    <edge source="Léon Brillouin" target="Wolfgang Pauli" />
+    <edge source="Samuel Abraham Goudsmit" target="Otto Hahn" />
+    <edge source="Samuel Abraham Goudsmit" target="Fritz Strassmann" />
+    <edge source="Samuel Abraham Goudsmit" target="Enrico Fermi" />
+    <edge source="Louis King" target="Paul Langevin" />
+    <edge source="David Keys" target="John McLennan" />
+    <edge source="Harry Bateman" target="Fritz Zwicky" />
+    <edge source="Patrick Maynard Stuart Blackett (Baron Blackett)" target="John Douglas Cockcroft" />
+    <edge source="Patrick Maynard Stuart Blackett (Baron Blackett)" target="Ernest Thomas Sinton Walton" />
+    <edge source="Patrick Maynard Stuart Blackett (Baron Blackett)" target="Giuseppe Paolo Stanislao Occhialini" />
+    <edge source="Patrick Maynard Stuart Blackett (Baron Blackett)" target="Pavel Alekseyevich Cherenkov [Čerenkov]" />
+    <edge source="Patrick Maynard Stuart Blackett (Baron Blackett)" target="George Dixon Rochester" />
+    <edge source="Patrick Maynard Stuart Blackett (Baron Blackett)" target="Clifford Butler" />
+    <edge source="Patrick Maynard Stuart Blackett (Baron Blackett)" target="Rudolf Ludwig Mössbauer" />
+    <edge source="Giuseppe Paolo Stanislao Occhialini" target="Bruno Benedetto Rossi" />
+    <edge source="Giuseppe Paolo Stanislao Occhialini" target="Rudolf Ludwig Mössbauer" />
+    <edge source="Jacob Clay" target="Victor Hess" />
+    <edge source="Jacob Clay" target="Wander de Haas" />
+    <edge source="Jacob Clay" target="Willem Keesom" />
+    <edge source="Jacob Clay" target="Marcel Schein" />
+    <edge source="Vagn Ekman" target="Vilhelm Bjerknes" />
+    <edge source="Vagn Ekman" target="Halvor Solberg" />
+    <edge source="Vagn Ekman" target="Tor Bergeron" />
+    <edge source="Vagn Ekman" target="Jacob Bjerknes" />
+    <edge source="Reginald Daly" target="Percy Bridgman" />
+    <edge source="Gregori Aminoff" target="Clinton Davisson" />
+    <edge source="Gregori Aminoff" target="Lester Halbert Germer" />
+    <edge source="Gregori Aminoff" target="Sir George Paget Thomson" />
+    <edge source="Gustaf Ising" target="Clinton Davisson" />
+    <edge source="Gustaf Ising" target="Lester Halbert Germer" />
+    <edge source="Gustaf Ising" target="Sir George Paget Thomson" />
+    <edge source="Nils Zeilon" target="Clinton Davisson" />
+    <edge source="Nils Zeilon" target="Lester Halbert Germer" />
+    <edge source="Nils Zeilon" target="Sir George Paget Thomson" />
+    <edge source="Angelo Barbagelata" target="Enrico Fermi" />
+    <edge source="Hans Benndorf" target="Wolfgang Gaede" />
+    <edge source="Gabriel Foëx" target="Pierre Weiss" />
+    <edge source="Gabriel Foëx" target="John Hasbrouck Van Vleck" />
+    <edge source="Ralph Fowler" target="John Douglas Cockcroft" />
+    <edge source="Ralph Fowler" target="Ernest Thomas Sinton Walton" />
+    <edge source="John Douglas Cockcroft" target="Sir Geoffrey Ingram Taylor" />
+    <edge source="John Douglas Cockcroft" target="George Dixon Rochester" />
+    <edge source="John Douglas Cockcroft" target="Clifford Butler" />
+    <edge source="John Douglas Cockcroft" target="Giuseppe Paolo Stanislao Occhialini" />
+    <edge source="Ernest Thomas Sinton Walton" target="Cecil Frank Powell" />
+    <edge source="Ernest Thomas Sinton Walton" target="Donald William Kerst" />
+    <edge source="Ernest Thomas Sinton Walton" target="Robert Jemison Van de Graaff" />
+    <edge source="Ernest Thomas Sinton Walton" target="Gustaf Ising" />
+    <edge source="Ernest Thomas Sinton Walton" target="Rolf Wideröe" />
+    <edge source="Antonio Carrelli" target="Enrico Fermi" />
+    <edge source="Otto Hahn" target="Walther Bothe" />
+    <edge source="Otto Hahn" target="Lise Meitner" />
+    <edge source="Otto Hahn" target="Otto Robert Frisch" />
+    <edge source="Otto Hahn" target="Klaus Clusius" />
+    <edge source="Karl Herzfeld" target="Enrico Fermi" />
+    <edge source="Karl Herzfeld" target="Robert Wood" />
+    <edge source="Franz Aigner" target="Alfred Loomis" />
+    <edge source="Franz Aigner" target="Robert Wood" />
+    <edge source="Franz Aigner" target="Wolfgang Gaede" />
+    <edge source="Franz Aigner" target="Martin Knudsen" />
+    <edge source="Franz Aigner" target="Arnold Sommerfeld" />
+    <edge source="Ludwig Flamm" target="Alfred Loomis" />
+    <edge source="Ludwig Flamm" target="Robert Wood" />
+    <edge source="Ludwig Flamm" target="Wolfgang Gaede" />
+    <edge source="Ludwig Flamm" target="Martin Knudsen" />
+    <edge source="Ludwig Flamm" target="Arnold Sommerfeld" />
+    <edge source="Ludwig Flamm" target="Walther Kossel" />
+    <edge source="Heinrich Mache" target="Alfred Loomis" />
+    <edge source="Heinrich Mache" target="Robert Wood" />
+    <edge source="Heinrich Mache" target="Wolfgang Gaede" />
+    <edge source="Heinrich Mache" target="Martin Knudsen" />
+    <edge source="Heinrich Mache" target="Arnold Sommerfeld" />
+    <edge source="Marc de Haas" target="Wander de Haas" />
+    <edge source="Cornelis Zwikker" target="Gilles Holst" />
+    <edge source="Aurel Stodola" target="Wolfgang Pauli" />
+    <edge source="Marian Grotowski" target="Paul Langevin" />
+    <edge source="Harold Jeffreys" target="Sir Geoffrey Ingram Taylor" />
+    <edge source="Fred Wolfers" target="Pierre Weiss" />
+    <edge source="Eugen Badarau" target="Enrico Fermi" />
+    <edge source="Laureto Tieri" target="Enrico Fermi" />
+    <edge source="Henry Erikson" target="Ernest Lawrence" />
+    <edge source="Ernest Lawrence" target="Emilio Gino Segrè" />
+    <edge source="Georgi Manev" target="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <edge source="Tullio Levi-Civita" target="Max Born" />
+    <edge source="Wojciech Rubinowicz" target="Ira Bowen" />
+    <edge source="Wojciech Rubinowicz" target="Bengt Edlén" />
+    <edge source="Wojciech Rubinowicz" target="Emilio Gino Segrè" />
+    <edge source="Henry Goodwin" target="Percy Bridgman" />
+    <edge source="John Hasbrouck Van Vleck" target="Percy Bridgman" />
+    <edge source="John Hasbrouck Van Vleck" target="Wolfgang Pauli" />
+    <edge source="John Hasbrouck Van Vleck" target="Edward Purcell" />
+    <edge source="John Hasbrouck Van Vleck" target="Felix Bloch" />
+    <edge source="John Hasbrouck Van Vleck" target="Louis Néel" />
+    <edge source="John Hasbrouck Van Vleck" target="George Eugene Uhlenbeck" />
+    <edge source="John Hasbrouck Van Vleck" target="Samuel Abraham Goudsmit" />
+    <edge source="Edwin Goodrich" target="James Chadwick" />
+    <edge source="Edoardo Amaldi" target="Enrico Fermi" />
+    <edge source="Edoardo Amaldi" target="Ernest Lawrence" />
+    <edge source="Edoardo Amaldi" target="Otto Stern" />
+    <edge source="Edoardo Amaldi" target="Isidor Rabi" />
+    <edge source="Edoardo Amaldi" target="Arnold Sommerfeld" />
+    <edge source="Edoardo Amaldi" target="Bruno Benedetto Rossi" />
+    <edge source="Edoardo Amaldi" target="Marcello Conversi" />
+    <edge source="Edoardo Amaldi" target="Ettore Pancini" />
+    <edge source="Edoardo Amaldi" target="Oreste Piccioni" />
+    <edge source="Franco Dino Rasetti" target="Enrico Fermi" />
+    <edge source="Franco Dino Rasetti" target="Willis Eugene Lamb" />
+    <edge source="Franco Dino Rasetti" target="Jr" />
+    <edge source="Harvey Cushing" target="Ernest Lawrence" />
+    <edge source="Stanislas Loria" target="Ernest Lawrence" />
+    <edge source="Frederic Blake" target="Isidor Rabi" />
+    <edge source="Isidor Rabi" target="Samuel Abraham Goudsmit" />
+    <edge source="Isidor Rabi" target="George Eugene Uhlenbeck" />
+    <edge source="Isidor Rabi" target="Llewellyn Thomas" />
+    <edge source="Isidor Rabi" target="Felix Bloch" />
+    <edge source="Isidor Rabi" target="Hans Albrecht Bethe" />
+    <edge source="Isidor Rabi" target="Julian Schwinger" />
+    <edge source="Isidor Rabi" target="Melvin Schwartz" />
+    <edge source="Isidor Rabi" target="Leon Max Lederman" />
+    <edge source="Isidor Rabi" target="Jack Steinberger" />
+    <edge source="Harald Perlitz" target="Petrus Debye" />
+    <edge source="Harald Perlitz" target="Paul Scherrer" />
+    <edge source="Harald Perlitz" target="Albert Hull" />
+    <edge source="Charles Darwin" target="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <edge source="Charles Darwin" target="Cecil Frank Powell" />
+    <edge source="Harlow Shapley" target="Percy Bridgman" />
+    <edge source="Harlow Shapley" target="Bengt Edlén" />
+    <edge source="Harlow Shapley" target="Karl Lark-Horowitz" />
+    <edge source="Harlow Shapley" target="Martin Deutsch" />
+    <edge source="Harlow Shapley" target="James Baker" />
+    <edge source="Harlow Shapley" target="Edwin Herbert Land" />
+    <edge source="Harlow Shapley" target="Edward Linfoot" />
+    <edge source="Harlow Shapley" target="Robert Oppenheimer" />
+    <edge source="F Záviska" target="Jaroslav Heyrovský" />
+    <edge source="V Vojlech" target="Jaroslav Heyrovský" />
+    <edge source="M Valouch" target="Jaroslav Heyrovský" />
+    <edge source="L Srámek" target="Jaroslav Heyrovský" />
+    <edge source="Vaclav Dolejsek" target="Jaroslav Heyrovský" />
+    <edge source="Cecil Fortescue" target="Irving Langmuir" />
+    <edge source="George Eugene Uhlenbeck" target="Wolfgang Pauli" />
+    <edge source="Hideki Yukawa" target="Sin-Itiro Tomonaga" />
+    <edge source="Hideki Yukawa" target="Julian Schwinger" />
+    <edge source="Eugene Wigner" target="Otto Stern" />
+    <edge source="Eugene Wigner" target="Isidor Rabi" />
+    <edge source="Eugene Wigner" target="Percy Bridgman" />
+    <edge source="Eugene Wigner" target="Willis Eugene Lamb" />
+    <edge source="Eugene Wigner" target="Jr" />
+    <edge source="Eugene Wigner" target="Maria Goeppert-Mayer" />
+    <edge source="Eugene Wigner" target="Johannes Hans Daniel Jensen" />
+    <edge source="Eugene Wigner" target="Robert Hofstadter" />
+    <edge source="Eugene Wigner" target="Abdus Salam" />
+    <edge source="H Smyth" target="Otto Stern" />
+    <edge source="H Smyth" target="Isidor Rabi" />
+    <edge source="H Smyth" target="Eugene Wigner" />
+    <edge source="A Shenstone" target="Otto Stern" />
+    <edge source="A Shenstone" target="Isidor Rabi" />
+    <edge source="A Shenstone" target="Eugene Wigner" />
+    <edge source="Howard Robertson" target="Otto Stern" />
+    <edge source="Howard Robertson" target="Isidor Rabi" />
+    <edge source="Howard Robertson" target="Wolfgang Pauli" />
+    <edge source="Rudolf Ladenburg" target="Otto Stern" />
+    <edge source="Rudolf Ladenburg" target="Isidor Rabi" />
+    <edge source="Rudolf Ladenburg" target="Wolfgang Pauli" />
+    <edge source="Hans Albrecht Bethe" target="Otto Stern" />
+    <edge source="Hans Albrecht Bethe" target="Isidor Rabi" />
+    <edge source="Hans Albrecht Bethe" target="Richard Phillips Feynman" />
+    <edge source="Hans Albrecht Bethe" target="Julian Schwinger" />
+    <edge source="Roswell Gibbs" target="Otto Stern" />
+    <edge source="Roswell Gibbs" target="Isidor Rabi" />
+    <edge source="William Giauque" target="Samuel Jackson Barnett" />
+    <edge source="William Giauque" target="Samuel Abraham Goudsmit" />
+    <edge source="William Giauque" target="George Eugene Uhlenbeck" />
+    <edge source="Pierre Auger" target="Bruno Benedetto Rossi" />
+    <edge source="Pierre Auger" target="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <edge source="Pierre Auger" target="Louis Néel" />
+    <edge source="Pierre Auger" target="Alfred Kastler" />
+    <edge source="Adriaan Fokker" target="Wander de Haas" />
+    <edge source="Boris Iliin" target="Otto Hahn" />
+    <edge source="Leigh Page" target="Isidor Rabi" />
+    <edge source="Leigh Page" target="Donald William Kerst" />
+    <edge source="Giovanni Someda" target="Giancarlo Vallauri" />
+    <edge source="Toshizo Matsumoto" target="Hideki Yukawa" />
+    <edge source="Walter Cannon" target="Percy Bridgman" />
+    <edge source="Rudolf Ortvay" target="George de Hevesy" />
+    <edge source="Ernest Barker" target="Wolfgang Pauli" />
+    <edge source="M Wetzli" target="Robert Wood" />
+    <edge source="Bunsaku Arakatsu" target="Seth Neddermeyer" />
+    <edge source="Bunsaku Arakatsu" target="Carl Anderson" />
+    <edge source="Otto Struve" target="Hans Albrecht Bethe" />
+    <edge source="Otto Struve" target="Jan Hendrik Oort" />
+    <edge source="Otto Struve" target="Emilio Gino Segrè" />
+    <edge source="Otto Struve" target="Maurice Goldhaber" />
+    <edge source="Floyd Watson" target="Donald William Kerst" />
+    <edge source="Donald William Kerst" target="Cecil Frank Powell" />
+    <edge source="Donald William Kerst" target="Giuseppe Paolo Stanislao Occhialini" />
+    <edge source="C Granda" target="Santiago Mayolo" />
+    <edge source="Robert Brode" target="Isidor Rabi" />
+    <edge source="Hannes Alfvén" target="George Gamow" />
+    <edge source="Hannes Alfvén" target="Donald William Kerst" />
+    <edge source="Hannes Alfvén" target="Percy Bridgman" />
+    <edge source="Hannes Alfvén" target="Otto Stern" />
+    <edge source="Hannes Alfvén" target="James Van Allen" />
+    <edge source="Reginald James" target="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <edge source="Henri Beghin" target="Aimé Cotton" />
+    <edge source="Samuel Milner" target="Sir Arthur Eddington" />
+    <edge source="Victor Bailey" target="Sir John Townsend" />
+    <edge source="Willem van Dijck" target="Willem Keesom" />
+    <edge source="Willem van Dijck" target="Frits Zernike" />
+    <edge source="Gerhard Elias" target="Hendrik Dorgelo" />
+    <edge source="Gerhard Elias" target="Christiaan van Geel" />
+    <edge source="Gerhard Elias" target="Gilles Holst" />
+    <edge source="Gerhard Elias" target="Frans Penning" />
+    <edge source="Hendrik Dorgelo" target="Hendrik Christoffel van de Hulst" />
+    <edge source="Hendrik Dorgelo" target="Christiaan Alexander (Lex) Muller" />
+    <edge source="Hendrik Dorgelo" target="Jan Hendrik Oort" />
+    <edge source="John Nolan" target="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <edge source="John Nolan" target="Cecil Frank Powell" />
+    <edge source="John Roebuck" target="Percy Bridgman" />
+    <edge source="Gudmund Borelius" target="Percy Bridgman" />
+    <edge source="Leonard Ingersoll" target="Donald William Kerst" />
+    <edge source="Gregory Breit" target="Isidor Rabi" />
+    <edge source="Gregory Breit" target="Eugene Wigner" />
+    <edge source="Gregory Breit" target="Hans Albrecht Bethe" />
+    <edge source="Sir Nevill Francis Mott" target="Sir Geoffrey Ingram Taylor" />
+    <edge source="Sir Nevill Francis Mott" target="Cecil Frank Powell" />
+    <edge source="John Poole" target="John Douglas Cockcroft" />
+    <edge source="John Poole" target="Ernest Thomas Sinton Walton" />
+    <edge source="Cyrias Ouellet" target="Otto Hahn" />
+    <edge source="Cyrias Ouellet" target="Fritz Strassmann" />
+    <edge source="Hendrik Kramers" target="Willem Keesom" />
+    <edge source="Hendrik Kramers" target="Wander de Haas" />
+    <edge source="Hendrik Kramers" target="Wolfgang Pauli" />
+    <edge source="Hendrik Kramers" target="Otto Stern" />
+    <edge source="Hendrik Kramers" target="Otto Hahn" />
+    <edge source="Hendrik Kramers" target="Jan Hendrik Oort" />
+    <edge source="Hendrik Kramers" target="Hendrik Christoffel van de Hulst" />
+    <edge source="Bruno Benedetto Rossi" target="John Douglas Cockcroft" />
+    <edge source="Bruno Benedetto Rossi" target="Hideki Yukawa" />
+    <edge source="Bruno Benedetto Rossi" target="George Eugene Uhlenbeck" />
+    <edge source="Bruno Benedetto Rossi" target="Samuel Abraham Goudsmit" />
+    <edge source="Bruno Benedetto Rossi" target="Eugene Wigner" />
+    <edge source="Lachlan Gilchrist" target="Arthur Dempster" />
+    <edge source="Joseph Valasek" target="Donald William Kerst" />
+    <edge source="M da Silva" target="Paul Langevin" />
+    <edge source="David Mathias Dennison" target="Robert Oppenheimer" />
+    <edge source="William Hansen" target="Wolfgang Pauli" />
+    <edge source="Frederick Lindemann (Lord Cherwell)" target="Sir Francis Simon" />
+    <edge source="Felix Bloch" target="Wolfgang Pauli" />
+    <edge source="Felix Bloch" target="Otto Hahn" />
+    <edge source="Felix Bloch" target="George Eugene Uhlenbeck" />
+    <edge source="Felix Bloch" target="Samuel Abraham Goudsmit" />
+    <edge source="Felix Bloch" target="Polykarp Kusch" />
+    <edge source="Felix Bloch" target="Willis Eugene Lamb" />
+    <edge source="Felix Bloch" target="Jr" />
+    <edge source="Felix Bloch" target="Brebis Bleaney" />
+    <edge source="Felix Bloch" target="Robert Hofstadter" />
+    <edge source="Felix Bloch" target="Arthur Leonard Schawlow" />
+    <edge source="Felix Bloch" target="Charles Hard Townes" />
+    <edge source="Egil Hylleraas" target="Lise Meitner" />
+    <edge source="Egil Hylleraas" target="Otto Robert Frisch" />
+    <edge source="Egil Hylleraas" target="Bengt Edlén" />
+    <edge source="Egil Hylleraas" target="Hans Albrecht Bethe" />
+    <edge source="Egil Hylleraas" target="Walter Heinrich Heitler" />
+    <edge source="Jean Thibaud" target="George Gamow" />
+    <edge source="Jean Thibaud" target="Hideki Yukawa" />
+    <edge source="Jean Thibaud" target="Maurice de Broglie" />
+    <edge source="Jean Thibaud" target="Otto Hahn" />
+    <edge source="Jean Thibaud" target="Fritz Strassmann" />
+    <edge source="Jean Thibaud" target="Hans Albrecht Bethe" />
+    <edge source="Jean Thibaud" target="Cecil Frank Powell" />
+    <edge source="Jean Thibaud" target="Richard Phillips Feynman" />
+    <edge source="Alexandre Dauvillier" target="Nuclear Scientists" />
+    <edge source="Alexandre Dauvillier" target="Donald William Kerst" />
+    <edge source="Alexandre Dauvillier" target="Bernard Lyot" />
+    <edge source="Alexandre Dauvillier" target="Horace Welcome Babcock" />
+    <edge source="Alexandre Dauvillier" target="Grote Reber" />
+    <edge source="Alexandre Dauvillier" target="Jacob Clay" />
+    <edge source="Alexandre Dauvillier" target="H Bradt" />
+    <edge source="Alexandre Dauvillier" target="Bernard Peters" />
+    <edge source="Alexandre Dauvillier" target="Georges Lemaître" />
+    <edge source="Alexandre Dauvillier" target="Harold Delos Babcock" />
+    <edge source="Alexandre Dauvillier" target="Hendrik Christoffel van de Hulst" />
+    <edge source="Alexandre Dauvillier" target="Georges Destriau" />
+    <edge source="Karl Emeleus" target="Sir Edward Appleton" />
+    <edge source="Karl Emeleus" target="Sydney Chapman" />
+    <edge source="William Watson" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="William Watson" target="Lars Onsager" />
+    <edge source="Carlos Chagas" target="Donald William Kerst" />
+    <edge source="Walther Meissner" target="Klaus Clusius" />
+    <edge source="Walther Meissner" target="Robert Doll" />
+    <edge source="Walther Meissner" target="Martin Näbauer" />
+    <edge source="Edwin Mattison McMillan" target="Owen Chamberlain" />
+    <edge source="Edwin Mattison McMillan" target="Emilio Gino Segrè" />
+    <edge source="Robert Eugene Marshak" target="Hans Albrecht Bethe" />
+    <edge source="Robert Eugene Marshak" target="Lev Davidovich Landau" />
+    <edge source="Robert Eugene Marshak" target="Fritz London" />
+    <edge source="Robert Eugene Marshak" target="Maurice Goldhaber" />
+    <edge source="Robert Eugene Marshak" target="Susumu Okubo" />
+    <edge source="Samuel Tolansky" target="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <edge source="Samuel Tolansky" target="Frits Zernike" />
+    <edge source="Samuel Tolansky" target="Sir Geoffrey Ingram Taylor" />
+    <edge source="John Desmond Bernal" target="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <edge source="John Desmond Bernal" target="Dorothy Crowfoot Hodgkin" />
+    <edge source="John Desmond Bernal" target="Frederick Charles Frank" />
+    <edge source="Cornelis Jacobus Gorter" target="Felix Bloch" />
+    <edge source="Cornelis Jacobus Gorter" target="Yevgeny Konstantinovich Zavoisky" />
+    <edge source="Cornelis Jacobus Gorter" target="Louis Néel" />
+    <edge source="Charles Alfred Coulson" target="Max Born" />
+    <edge source="George Preston" target="Max Born" />
+    <edge source="George Preston" target="Sir Nevill Francis Mott" />
+    <edge source="George Preston" target="William Hume-Rothery" />
+    <edge source="Samuel Allison" target="Arthur Dempster" />
+    <edge source="Yves Rocard" target="Bernard Lyot" />
+    <edge source="Harald Wergeland" target="Lise Meitner" />
+    <edge source="Harald Wergeland" target="Cecil Frank Powell" />
+    <edge source="Harald Wergeland" target="Hideki Yukawa" />
+    <edge source="Harald Wergeland" target="Lars Onsager" />
+    <edge source="Harald Wergeland" target="Hans Albrecht Bethe" />
+    <edge source="Harald Wergeland" target="Walter Heinrich Heitler" />
+    <edge source="Joseph Platt" target="Vladimir Iosifovich Veksler" />
+    <edge source="Marcel Schein" target="Hideki Yukawa" />
+    <edge source="Marcel Schein" target="César Lattes" />
+    <edge source="Marcel Schein" target="Wolfgang Kurt Hermann Panofsky" />
+    <edge source="Marcel Schein" target="George Dixon Rochester" />
+    <edge source="Marcel Schein" target="Clifford Butler" />
+    <edge source="Jesse DuMond" target="Seth Neddermeyer" />
+    <edge source="Jesse DuMond" target="Carl Anderson" />
+    <edge source="Jesse DuMond" target="Wolfgang Kurt Hermann Panofsky" />
+    <edge source="Alfred Kastler" target="Bengt Edlén" />
+    <edge source="Alfred Kastler" target="Walter Grotrian" />
+    <edge source="Alfred Kastler" target="Frits Zernike" />
+    <edge source="Alfred Kastler" target="Bernard Lyot" />
+    <edge source="Alfred Kastler" target="Felix Bloch" />
+    <edge source="Alfred Kastler" target="Edward Purcell" />
+    <edge source="Alfred Kastler" target="Willis Eugene Lamb" />
+    <edge source="Alfred Kastler" target="Jr" />
+    <edge source="Alfred Kastler" target="Louis Néel" />
+    <edge source="Alfred Kastler" target="Cornelis Jacobus Gorter" />
+    <edge source="Alfred Kastler" target="Martin Deutsch" />
+    <edge source="Alfred Kastler" target="Charles Hard Townes" />
+    <edge source="Alfred Kastler" target="Alfred Landé" />
+    <edge source="Alfred Kastler" target="Samuel Abraham Goudsmit" />
+    <edge source="Alfred Kastler" target="George Eugene Uhlenbeck" />
+    <edge source="Alfred Kastler" target="Nicolay Gennadijevitj Basov" />
+    <edge source="Alfred Kastler" target="Aleksandr Mikhailovich Prokhorov [Prockorov]" />
+    <edge source="Alfred Kastler" target="Nicolaas Bloembergen" />
+    <edge source="Claude Geoffrion" target="Hans Albrecht Bethe" />
+    <edge source="Albéric Bouivin" target="Hans Albrecht Bethe" />
+    <edge source="Jean Weissenhoff" target="Max Born" />
+    <edge source="Henryk Niewodniczanski" target="Max Born" />
+    <edge source="Henryk Niewodniczanski" target="Emilio Gino Segrè" />
+    <edge source="Henryk Niewodniczanski" target="Luis Walter Alvarez" />
+    <edge source="Boris Rajewsky" target="Walther Bothe" />
+    <edge source="Boris Rajewsky" target="Hans Geiger" />
+    <edge source="Arthur Hardy" target="Vannevar Bush" />
+    <edge source="Marcel Pauthenier" target="Aimé Cotton" />
+    <edge source="Marcel Pauthenier" target="Bernard Lyot" />
+    <edge source="Marcel Pauthenier" target="Max Born" />
+    <edge source="Marcel Pauthenier" target="Louis Néel" />
+    <edge source="André Mercier" target="Harold Jeffreys" />
+    <edge source="Francois Croze" target="Bernard Lyot" />
+    <edge source="Georg Hettner" target="Lise Meitner" />
+    <edge source="Georg Hettner" target="Arnold Sommerfeld" />
+    <edge source="John Kerwin" target="Alfred Nier" />
+    <edge source="Cecil Frank Powell" target="Giuseppe Paolo Stanislao Occhialini" />
+    <edge source="Cecil Frank Powell" target="Clifford Butler" />
+    <edge source="Cecil Frank Powell" target="George Dixon Rochester" />
+    <edge source="Torsten Gustafson" target="Cecil Frank Powell" />
+    <edge source="Torsten Gustafson" target="Max Born" />
+    <edge source="Torsten Gustafson" target="Hendrik Kramers" />
+    <edge source="Torsten Gustafson" target="Maria Goeppert-Mayer" />
+    <edge source="Torsten Gustafson" target="Johannes Hans Daniel Jensen" />
+    <edge source="Georges Hall" target="Bruno Benedetto Rossi" />
+    <edge source="Claude Frémont" target="Bruno Benedetto Rossi" />
+    <edge source="Friedrich Dessauer" target="Arnold Sommerfeld" />
+    <edge source="Friedrich Dessauer" target="Boris Rajewsky" />
+    <edge source="Nathaniel Frank" target="Arnold Sommerfeld" />
+    <edge source="Nathaniel Frank" target="George Eugene Uhlenbeck" />
+    <edge source="Nathaniel Frank" target="Samuel Abraham Goudsmit" />
+    <edge source="Nathaniel Frank" target="Martin Deutsch" />
+    <edge source="Kenneth Tompkins Bainbridge" target="Jabez Curry Street" />
+    <edge source="Kenneth Tompkins Bainbridge" target="Bruno Benedetto Rossi" />
+    <edge source="Kenneth Tompkins Bainbridge" target="George Eugene Uhlenbeck" />
+    <edge source="Kenneth Tompkins Bainbridge" target="Samuel Abraham Goudsmit" />
+    <edge source="Maurice Goldhaber" target="Leo Szilard" />
+    <edge source="Jerrokld Zacharias" target="Hideki Yukawa" />
+    <edge source="Victor Frederick Weisskopf" target="Hideki Yukawa" />
+    <edge source="Victor Frederick Weisskopf" target="George Eugene Uhlenbeck" />
+    <edge source="Victor Frederick Weisskopf" target="Samuel Abraham Goudsmit" />
+    <edge source="Victor Frederick Weisskopf" target="Martin Deutsch" />
+    <edge source="Victor Frederick Weisskopf" target="Eugene Wigner" />
+    <edge source="Victor Frederick Weisskopf" target="Richard Phillips Feynman" />
+    <edge source="Victor Frederick Weisskopf" target="Nicholas Kemmer" />
+    <edge source="Victor Frederick Weisskopf" target="Marian Danysz" />
+    <edge source="Philip McCord Morse" target="Hideki Yukawa" />
+    <edge source="Philip McCord Morse" target="Richard Phillips Feynman" />
+    <edge source="Philip McCord Morse" target="Julian Schwinger" />
+    <edge source="Albert Hill" target="Hideki Yukawa" />
+    <edge source="Albert Hill" target="Martin Deutsch" />
+    <edge source="Erwin Madelung" target="Max Born" />
+    <edge source="Erwin Madelung" target="Walther Bothe" />
+    <edge source="Walter Hill" target="César Lattes" />
+    <edge source="Walter Hill" target="Eugène Gardner" />
+    <edge source="Walter Hill" target="Charles Hard Townes" />
+    <edge source="Fernand Bonenfant" target="Cecil Frank Powell" />
+    <edge source="Fernand Bonenfant" target="Giuseppe Paolo Stanislao Occhialini" />
+    <edge source="Paul Koenig" target="Cecil Frank Powell" />
+    <edge source="Paul Koenig" target="Giuseppe Paolo Stanislao Occhialini" />
+    <edge source="James Bartlett" target="César Lattes" />
+    <edge source="James Bartlett" target="Giuseppe Paolo Stanislao Occhialini" />
+    <edge source="James Bartlett" target="Cecil Frank Powell" />
+    <edge source="Walter Adams" target="Marle Tuve" />
+    <edge source="Walter Adams" target="Gregory Breit" />
+    <edge source="Walter Adams" target="Lawrence Hafstad" />
+    <edge source="Peter Kruger" target="Edward Stevenson" />
+    <edge source="Peter Kruger" target="Seth Neddermeyer" />
+    <edge source="Peter Kruger" target="Carl Anderson" />
+    <edge source="Peter Kruger" target="Donald William Kerst" />
+    <edge source="Peter Kruger" target="Hideki Yukawa" />
+    <edge source="Peter Kruger" target="Jabez Curry Street" />
+    <edge source="Willis Eugene Lamb, Jr" target="Felix Bloch" />
+    <edge source="Willis Eugene Lamb, Jr" target="Chien-Shiung Wu" />
+    <edge source="Willis Eugene Lamb, Jr" target="Hans Albrecht Bethe" />
+    <edge source="Willis Eugene Lamb, Jr" target="Alfred Kastler" />
+    <edge source="Mari Johan Druyvesteyn" target="Cecil Frank Powell" />
+    <edge source="Mari Johan Druyvesteyn" target="Louis Néel" />
+    <edge source="Ralph de Laer Kronig" target="Cecil Frank Powell" />
+    <edge source="Max Morand" target="Cecil Frank Powell" />
+    <edge source="John Strong" target="Robert Wood" />
+    <edge source="Abraham van Heel" target="Frits Zernike" />
+    <edge source="Abraham van Heel" target="Jan Hendrik Oort" />
+    <edge source="Christian Møller" target="Max Born" />
+    <edge source="Christian Møller" target="Hendrik Kramers" />
+    <edge source="Christian Møller" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="Christian Møller" target="Lev Davidovich Landau" />
+    <edge source="Felix Machatschki" target="Joseph Mattauch" />
+    <edge source="Felix Machatschki" target="Walther Kossel" />
+    <edge source="Felix Machatschki" target="Erwin Wilhelm Müller" />
+    <edge source="Walther Kossel" target="Arnold Sommerfeld" />
+    <edge source="Walther Kossel" target="Erwin Wilhelm Müller" />
+    <edge source="Walther Kossel" target="Bodo von Borries" />
+    <edge source="Walther Kossel" target="Ernst August Friedrich Ruska" />
+    <edge source="Shirley Quimby" target="Edward Purcell" />
+    <edge source="Shirley Quimby" target="Felix Bloch" />
+    <edge source="Markus Fierz" target="Giuseppe Paolo Stanislao Occhialini" />
+    <edge source="Markus Fierz" target="Cecil Frank Powell" />
+    <edge source="Francis Perrin" target="Giuseppe Paolo Stanislao Occhialini" />
+    <edge source="Francis Perrin" target="Cecil Frank Powell" />
+    <edge source="Francis Perrin" target="Louis Néel" />
+    <edge source="Francis Perrin" target="Cornelis Jacobus Gorter" />
+    <edge source="Francis Perrin" target="Anatole Abragam" />
+    <edge source="Francis Perrin" target="Albert Overhauser" />
+    <edge source="Louis Leprince-Ringuet" target="Bernard Lyot" />
+    <edge source="Louis Leprince-Ringuet" target="Cecil Frank Powell" />
+    <edge source="Louis Leprince-Ringuet" target="Bruno Benedetto Rossi" />
+    <edge source="Louis Leprince-Ringuet" target="Donald Glaser" />
+    <edge source="Louis Leprince-Ringuet" target="Richard Phillips Feynman" />
+    <edge source="S Gorodetzky" target="Luis Walter Alvarez" />
+    <edge source="S Gorodetzky" target="Leon Max Lederman" />
+    <edge source="R Lucas" target="Pierre Auger" />
+    <edge source="H Sack" target="Hans Albrecht Bethe" />
+    <edge source="R Wilson" target="Hans Albrecht Bethe" />
+    <edge source="Homi Bhabha" target="Felix Bloch" />
+    <edge source="Homi Bhabha" target="John Douglas Cockcroft" />
+    <edge source="Homi Bhabha" target="Willis Eugene Lamb" />
+    <edge source="Homi Bhabha" target="Jr" />
+    <edge source="Leonard Isaac Schiff" target="Felix Bloch" />
+    <edge source="Leonard Isaac Schiff" target="Julian Schwinger" />
+    <edge source="Leonard Isaac Schiff" target="Sin-Itiro Tomonaga" />
+    <edge source="Leonard Isaac Schiff" target="Richard Phillips Feynman" />
+    <edge source="Charles Sadron" target="Max Born" />
+    <edge source="Walter Heinrich Heitler" target="Max Born" />
+    <edge source="Walter Heinrich Heitler" target="George Dixon Rochester" />
+    <edge source="Walter Heinrich Heitler" target="Nicholas Kemmer" />
+    <edge source="K Wagner" target="Ernst Pascual Jordan" />
+    <edge source="Gleb Vassielievich Wataghin" target="César Lattes" />
+    <edge source="Gleb Vassielievich Wataghin" target="Nicolay Gennadijevitj Basov" />
+    <edge source="Gleb Vassielievich Wataghin" target="Aleksandr Mikhailovich Prokhorov [Prockorov]" />
+    <edge source="Gleb Vassielievich Wataghin" target="Charles Hard Townes" />
+    <edge source="Richard Kuhn" target="Erwin Wilhelm Müller" />
+    <edge source="Richard Kuhn" target="Willard Frank Libby" />
+    <edge source="Richard Kuhn" target="Carl Friedrich von Weizsäcker" />
+    <edge source="Leopold Ruzicka" target="Robert Oppenheimer" />
+    <edge source="Leopold Ruzicka" target="César Lattes" />
+    <edge source="Leopold Ruzicka" target="Mark Laurence Oliphant" />
+    <edge source="Leopold Ruzicka" target="Aleksei Naumov" />
+    <edge source="Leopold Ruzicka" target="Gersh Budker" />
+    <edge source="Leopold Ruzicka" target="Vladimir Iosifovich Veksler" />
+    <edge source="Leopold Ruzicka" target="Clyde Lorrain Cowan" />
+    <edge source="Leopold Ruzicka" target="Jr" />
+    <edge source="Leopold Ruzicka" target="Frederick Reines" />
+    <edge source="Leopold Ruzicka" target="Emilio Gino Segrè" />
+    <edge source="Leopold Ruzicka" target="Yevgeny Konstantinovich Zavoisky" />
+    <edge source="Leopold Ruzicka" target="Rudolf Ludwig Mössbauer" />
+    <edge source="J Williams" target="Wolfgang Kurt Hermann Panofsky" />
+    <edge source="Wolfgang Kurt Hermann Panofsky" target="Marcello Conversi" />
+    <edge source="Wolfgang Kurt Hermann Panofsky" target="Ettore Pancini" />
+    <edge source="Wolfgang Kurt Hermann Panofsky" target="Oreste Piccioni" />
+    <edge source="A Durán" target="Paul Scherrer" />
+    <edge source="K Bechert" target="Arnold Sommerfeld" />
+    <edge source="K Bechert" target="Erwin Wilhelm Müller" />
+    <edge source="T Yamanouchi" target="Sin-Itiro Tomonaga" />
+    <edge source="A Arnulf" target="Frits Zernike" />
+    <edge source="A Arnulf" target="Alfred Kastler" />
+    <edge source="A Arnulf" target="Jean Brossel" />
+    <edge source="Ivo Supek" target="Max Born" />
+    <edge source="Ivo Supek" target="Arnold Sommerfeld" />
+    <edge source="C Bakker" target="Felix Bloch" />
+    <edge source="C Bakker" target="Edward Purcell" />
+    <edge source="C Bakker" target="Samuel Abraham Goudsmit" />
+    <edge source="C Bakker" target="George Eugene Uhlenbeck" />
+    <edge source="H Staub" target="John Douglas Cockcroft" />
+    <edge source="H Staub" target="Ernest Thomas Sinton Walton" />
+    <edge source="H Staub" target="Max Born" />
+    <edge source="H Staub" target="Polykarp Kusch" />
+    <edge source="H Staub" target="Willis Eugene Lamb" />
+    <edge source="H Staub" target="Jr" />
+    <edge source="H Staub" target="Clyde Lorrain Cowan" />
+    <edge source="H Staub" target="Frederick Reines" />
+    <edge source="H Staub" target="John Hasbrouck Van Vleck" />
+    <edge source="Joseph Rotblat" target="Edwin Mattison McMillan" />
+    <edge source="Joseph Rotblat" target="Vladimir Iosifovich Veksler" />
+    <edge source="Joseph Rotblat" target="Hans Albrecht Bethe" />
+    <edge source="Joseph Rotblat" target="Otto Robert Frisch" />
+    <edge source="Joseph Rotblat" target="Lise Meitner" />
+    <edge source="H Kumagai" target="Willis Eugene Lamb" />
+    <edge source="H Kumagai" target="Jr" />
+    <edge source="H Kumagai" target="Robert Retherford" />
+    <edge source="T Muto" target="Willis Eugene Lamb" />
+    <edge source="T Muto" target="Jr" />
+    <edge source="T Muto" target="Robert Retherford" />
+    <edge source="S Devons" target="Sin-Itiro Tomonaga" />
+    <edge source="S Devons" target="Julian Schwinger" />
+    <edge source="Glenn Theodore Seaborg" target="Samuel Jackson Barnett" />
+    <edge source="Glenn Theodore Seaborg" target="Samuel Abraham Goudsmit" />
+    <edge source="Glenn Theodore Seaborg" target="George Eugene Uhlenbeck" />
+    <edge source="Glenn Theodore Seaborg" target="Emilio Gino Segrè" />
+    <edge source="Glenn Theodore Seaborg" target="Donald Glaser" />
+    <edge source="Glenn Theodore Seaborg" target="Luis Walter Alvarez" />
+    <edge source="Glenn Theodore Seaborg" target="Aage Niels Bohr" />
+    <edge source="Glenn Theodore Seaborg" target="Ben Roy Mottelson" />
+    <edge source="Glenn Theodore Seaborg" target="John Archibald Wheeler" />
+    <edge source="Alfred Landé" target="Max Born" />
+    <edge source="S Franchetti" target="Max Born" />
+    <edge source="S Franchetti" target="Donald Glaser" />
+    <edge source="S Franchetti" target="James Van Allen" />
+    <edge source="Léon Rosenfeld" target="Pavel Alekseyevich Cherenkov [Čerenkov]" />
+    <edge source="Léon Rosenfeld" target="Lev Davidovich Landau" />
+    <edge source="Léon Rosenfeld" target="Hannes Alfvén" />
+    <edge source="Pavel Alekseyevich Cherenkov [Čerenkov]" target="Vladimir Iosifovich Veksler" />
+    <edge source="Pavel Alekseyevich Cherenkov [Čerenkov]" target="Edwin Mattison McMillan" />
+    <edge source="Pavel Alekseyevich Cherenkov [Čerenkov]" target="Nicholas Constantine Christofilos" />
+    <edge source="A Luyckx" target="Georges Destriau" />
+    <edge source="C Manneback" target="Bernard Lyot" />
+    <edge source="Maurice Curie" target="Sir Nevill Francis Mott" />
+    <edge source="Maurice Curie" target="Hans Albrecht Bethe" />
+    <edge source="E Justi" target="Erwin Wilhelm Müller" />
+    <edge source="E Justi" target="Maria Goeppert-Mayer" />
+    <edge source="E Justi" target="Johannes Hans Daniel Jensen" />
+    <edge source="Jean Laval" target="Louis Néel" />
+    <edge source="Jean Laval" target="Louis Leprince-Ringuet" />
+    <edge source="Jean Laval" target="Léon Brillouin" />
+    <edge source="G Rushbrooke" target="Lars Onsager" />
+    <edge source="Herbert Lawrence Anderson" target="Edward Purcell" />
+    <edge source="Herbert Lawrence Anderson" target="Emilio Gino Segrè" />
+    <edge source="Herbert Lawrence Anderson" target="Owen Chamberlain" />
+    <edge source="Herbert Lawrence Anderson" target="Charles Hard Townes" />
+    <edge source="Hugo de Vries" target="Frits Zernike" />
+    <edge source="H Brinkman" target="Frits Zernike" />
+    <edge source="A J Siegert" target="Samuel Abraham Goudsmit" />
+    <edge source="A J Siegert" target="George Eugene Uhlenbeck" />
+    <edge source="Polykarp Kusch" target="Chien-Shiung Wu" />
+    <edge source="Polykarp Kusch" target="Melvin Schwartz" />
+    <edge source="Polykarp Kusch" target="Leon Max Lederman" />
+    <edge source="Polykarp Kusch" target="Jack Steinberger" />
+    <edge source="P Keesom" target="Willis Eugene Lamb" />
+    <edge source="P Keesom" target="Jr" />
+    <edge source="P Keesom" target="Robert Retherford" />
+    <edge source="D Williams" target="Edward Purcell" />
+    <edge source="D Williams" target="Felix Bloch" />
+    <edge source="D Williams" target="Charles Hard Townes" />
+    <edge source="H Kneser" target="Georg von Békésy" />
+    <edge source="H Kneser" target="Samuel Abraham Goudsmit" />
+    <edge source="H Kneser" target="George Eugene Uhlenbeck" />
+    <edge source="H Kneser" target="Walter Hans Schottky" />
+    <edge source="W Burcham" target="Hans Albrecht Bethe" />
+    <edge source="Horace Richard Crane" target="Hans Albrecht Bethe" />
+    <edge source="Sir Gordon Brims Black Sutherland" target="Hans Albrecht Bethe" />
+    <edge source="Sir Gordon Brims Black Sutherland" target="Charles Hard Townes" />
+    <edge source="Karl Johann Freudenberg" target="Walther Bothe" />
+    <edge source="Karl Johann Freudenberg" target="Otto Haxel" />
+    <edge source="Karl Johann Freudenberg" target="Johannes Hans Daniel Jensen" />
+    <edge source="Karl Johann Freudenberg" target="Hans Suess" />
+    <edge source="Karl Johann Freudenberg" target="Maria Goeppert-Mayer" />
+    <edge source="Karl Johann Freudenberg" target="George Eugene Uhlenbeck" />
+    <edge source="Karl Johann Freudenberg" target="Samuel Abraham Goudsmit" />
+    <edge source="P Rouard" target="Jean Cabannes" />
+    <edge source="P Rouard" target="Louis Néel" />
+    <edge source="Albrecht Otto Johannes Unsöld" target="Edwin Hubble" />
+    <edge source="Albrecht Otto Johannes Unsöld" target="Hans Busch" />
+    <edge source="Albrecht Otto Johannes Unsöld" target="Ernst August Friedrich Ruska" />
+    <edge source="Albrecht Otto Johannes Unsöld" target="Max Knoll" />
+    <edge source="Albrecht Otto Johannes Unsöld" target="Walter Hans Schottky" />
+    <edge source="M Pool" target="Donald William Kerst" />
+    <edge source="J Cork" target="Donald William Kerst" />
+    <edge source="A.C. Mitchell" target="Donald William Kerst" />
+    <edge source="A.C. Mitchell" target="Aage Niels Bohr" />
+    <edge source="A.C. Mitchell" target="Ben Roy Mottelson" />
+    <edge source="L Langer" target="Donald William Kerst" />
+    <edge source="L Langer" target="James Van Allen" />
+    <edge source="J Halpern" target="Willis Eugene Lamb" />
+    <edge source="J Halpern" target="Jr" />
+    <edge source="Willard Frank Libby" target="Maria Goeppert-Mayer" />
+    <edge source="Willard Frank Libby" target="Johannes Hans Daniel Jensen" />
+    <edge source="Willard Frank Libby" target="Luis Walter Alvarez" />
+    <edge source="Willard Frank Libby" target="Murray Gell-Mann" />
+    <edge source="L Weil" target="Louis Néel" />
+    <edge source="Johannes Hans Daniel Jensen" target="Emilio Gino Segrè" />
+    <edge source="Johannes Hans Daniel Jensen" target="Samuel Abraham Goudsmit" />
+    <edge source="Johannes Hans Daniel Jensen" target="George Eugene Uhlenbeck" />
+    <edge source="Emilio Gino Segrè" target="Max Born" />
+    <edge source="Emilio Gino Segrè" target="Johannes Hans Daniel Jensen" />
+    <edge source="Emilio Gino Segrè" target="Maria Goeppert-Mayer" />
+    <edge source="Emilio Gino Segrè" target="Rudolf Ludwig Mössbauer" />
+    <edge source="Emilio Gino Segrè" target="Charles Hard Townes" />
+    <edge source="Emilio Gino Segrè" target="Chien-Shiung Wu" />
+    <edge source="Emilio Gino Segrè" target="Bruno Benedetto Rossi" />
+    <edge source="Emilio Gino Segrè" target="Richard Phillips Feynman" />
+    <edge source="Emilio Gino Segrè" target="Murray Gell-Mann" />
+    <edge source="H Robinson" target="Frits Zernike" />
+    <edge source="F Nix" target="John Bardeen" />
+    <edge source="F Nix" target="Walter Houser Brattain" />
+    <edge source="John Bardeen" target="Charles Hard Townes" />
+    <edge source="Walter Houser Brattain" target="Charles Hard Townes" />
+    <edge source="W Lochte-Holtgreven" target="Edwin Hubble" />
+    <edge source="W Lochte-Holtgreven" target="Henry Norris Russell" />
+    <edge source="W Lochte-Holtgreven" target="Hans Busch" />
+    <edge source="W Lochte-Holtgreven" target="Ernst August Friedrich Ruska" />
+    <edge source="W Lochte-Holtgreven" target="Max Knoll" />
+    <edge source="W Lochte-Holtgreven" target="Walter Hans Schottky" />
+    <edge source="Harrie Stewart Wilson Massey" target="Willis Eugene Lamb" />
+    <edge source="Harrie Stewart Wilson Massey" target="Jr" />
+    <edge source="Harrie Stewart Wilson Massey" target="Robert Retherford" />
+    <edge source="Harrie Stewart Wilson Massey" target="Sydney Chapman" />
+    <edge source="Otto Haxel" target="Willis Eugene Lamb" />
+    <edge source="Otto Haxel" target="Jr" />
+    <edge source="Otto Haxel" target="Robert Retherford" />
+    <edge source="Otto Haxel" target="George Eugene Uhlenbeck" />
+    <edge source="Otto Haxel" target="Samuel Abraham Goudsmit" />
+    <edge source="Otto Haxel" target="J Volger" />
+    <edge source="U Dehlinger" target="Carl Friedrich von Weizsäcker" />
+    <edge source="U Dehlinger" target="Hans Albrecht Bethe" />
+    <edge source="O Laporte" target="Hans Albrecht Bethe" />
+    <edge source="O Laporte" target="Hannes Alfvén" />
+    <edge source="O Laporte" target="Willis Eugene Lamb" />
+    <edge source="O Laporte" target="Jr" />
+    <edge source="E Meyer" target="Georg von Békésy" />
+    <edge source="G Ludwig" target="Hans Albrecht Bethe" />
+    <edge source="Herbert Fröhlich" target="Max Born" />
+    <edge source="H Dänzer" target="Walther Bothe" />
+    <edge source="M Czerny" target="Walther Bothe" />
+    <edge source="H Gobrecht" target="Walther Kossel" />
+    <edge source="H Gobrecht" target="Walter Hans Schottky" />
+    <edge source="Nicholas Kemmer" target="Willis Eugene Lamb" />
+    <edge source="Nicholas Kemmer" target="Jr" />
+    <edge source="Gilberto Bernardini" target="Willis Eugene Lamb" />
+    <edge source="Gilberto Bernardini" target="Jr" />
+    <edge source="Gilberto Bernardini" target="Charles Hard Townes" />
+    <edge source="Gilberto Bernardini" target="James Gordon" />
+    <edge source="A Lichnorowicz" target="Jean Laval" />
+    <edge source="M Laporte" target="Louis Néel" />
+    <edge source="Pierre Jacquinot" target="Louis Néel" />
+    <edge source="Pierre Jacquinot" target="Cornelis Jacobus Gorter" />
+    <edge source="Pierre Jacquinot" target="Alfred Kastler" />
+    <edge source="Pierre Jacquinot" target="Charles Hard Townes" />
+    <edge source="Bruno Ferretti" target="Bruno Benedetto Rossi" />
+    <edge source="H.W. Skinner" target="Sir Geoffrey Ingram Taylor" />
+    <edge source="V Pavlovic" target="Vladimir Zworykin" />
+    <edge source="N Feather" target="Martin Deutsch" />
+    <edge source="N Feather" target="Maurice Goldhaber" />
+    <edge source="Lev Davidovich Landau" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="E M F van der Held" target="Lars Onsager" />
+    <edge source="E M F van der Held" target="Ilya Romanovich Prigogine" />
+    <edge source="Charles Kittel" target="William Shockley" />
+    <edge source="Charles Kittel" target="John Bardeen" />
+    <edge source="Charles Kittel" target="Walter Houser Brattain" />
+    <edge source="Charles Kittel" target="Brebis Bleaney" />
+    <edge source="Charles Kittel" target="Owen Chamberlain" />
+    <edge source="Charles Kittel" target="Emilio Gino Segrè" />
+    <edge source="H Mueller" target="Léon Brillouin" />
+    <edge source="Lamek Hulthén" target="Pavel Alekseyevich Cherenkov [Čerenkov]" />
+    <edge source="Lamek Hulthén" target="Sergey Vavilov" />
+    <edge source="Lamek Hulthén" target="Robert Hofstadter" />
+    <edge source="Lamek Hulthén" target="Maria Goeppert-Mayer" />
+    <edge source="Lamek Hulthén" target="Johannes Hans Daniel Jensen" />
+    <edge source="Lamek Hulthén" target="Hannes Alfvén" />
+    <edge source="Vladimir Aleksandrovich Fok" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="Vladimir Aleksandrovich Fok" target="Aleksandr Mikhailovich Prokhorov [Prockorov]" />
+    <edge source="Vladimir Aleksandrovich Fok" target="Charles Hard Townes" />
+    <edge source="Ralph Kronig" target="Willem Keesom" />
+    <edge source="Ralph Kronig" target="Jan Hendrik Oort" />
+    <edge source="Ralph Kronig" target="Hendrik Christoffel van de Hulst" />
+    <edge source="Ralph Kronig" target="Louis Néel" />
+    <edge source="Ernst Schmidt" target="Walther Kossel" />
+    <edge source="Ernst Schmidt" target="Erwin Wilhelm Müller" />
+    <edge source="Georg Stetter" target="Walther Kossel" />
+    <edge source="F Regler" target="Walther Kossel" />
+    <edge source="K Beckert" target="Willis Eugene Lamb" />
+    <edge source="K Beckert" target="Jr" />
+    <edge source="J van Staveren" target="Maria Goeppert-Mayer" />
+    <edge source="Heinz Maier-Leibnitz" target="Walther Meissner" />
+    <edge source="Heinz Maier-Leibnitz" target="Maria Goeppert-Mayer" />
+    <edge source="Heinz Maier-Leibnitz" target="Johannes Hans Daniel Jensen" />
+    <edge source="Isao Imai" target="Sin-Itiro Tomonaga" />
+    <edge source="H Messel" target="Eugene Wigner" />
+    <edge source="H Messel" target="Hans Albrecht Bethe" />
+    <edge source="W Allis" target="George Eugene Uhlenbeck" />
+    <edge source="W Allis" target="Samuel Abraham Goudsmit" />
+    <edge source="Francis Bitter" target="George Eugene Uhlenbeck" />
+    <edge source="Francis Bitter" target="Samuel Abraham Goudsmit" />
+    <edge source="Francis Bitter" target="Martin Deutsch" />
+    <edge source="R Evans" target="George Eugene Uhlenbeck" />
+    <edge source="R Evans" target="Samuel Abraham Goudsmit" />
+    <edge source="F Loomis" target="John Bardeen" />
+    <edge source="F Loomis" target="William Shockley" />
+    <edge source="W Glaser" target="Max Knoll" />
+    <edge source="W Glaser" target="Bodo von Borries" />
+    <edge source="W Glaser" target="Ernst August Friedrich Ruska" />
+    <edge source="Yngve Öhman" target="Hendrik Christoffel van de Hulst" />
+    <edge source="Yngve Öhman" target="Christiaan Alexander (Lex) Muller" />
+    <edge source="Yngve Öhman" target="Jan Hendrik Oort" />
+    <edge source="B Lindblad" target="Hendrik Christoffel van de Hulst" />
+    <edge source="B Lindblad" target="Christiaan Alexander (Lex) Muller" />
+    <edge source="B Lindblad" target="Jan Hendrik Oort" />
+    <edge source="H Boorse" target="Hans Albrecht Bethe" />
+    <edge source="G Cocconi" target="Hans Albrecht Bethe" />
+    <edge source="G Cocconi" target="Hannes Alfvén" />
+    <edge source="G Puppi" target="Hans Albrecht Bethe" />
+    <edge source="G Puppi" target="Bruno Benedetto Rossi" />
+    <edge source="A Hautot" target="Jan Hendrick de Boer" />
+    <edge source="K Banerji" target="Satyendra Nath Bose" />
+    <edge source="Ronald Fisher" target="Sydney Chapman" />
+    <edge source="R Vieweg" target="Klaus Clusius" />
+    <edge source="R Vieweg" target="Walter Hans Schottky" />
+    <edge source="R Vieweg" target="Carl Wilhelm Wagner" />
+    <edge source="M.H. Pryce" target="Martin Deutsch" />
+    <edge source="John Northrop" target="Willard Frank Libby" />
+    <edge source="L Massignon" target="Louis Néel" />
+    <edge source="Väinö Hovi" target="Lars Onsager" />
+    <edge source="Väinö Hovi" target="Rudolf Ludwig Mössbauer" />
+    <edge source="Väinö Hovi" target="Marcello Conversi" />
+    <edge source="Väinö Hovi" target="Adriano Gozzini" />
+    <edge source="K Greisen" target="Bruno Benedetto Rossi" />
+    <edge source="K Greisen" target="Hans Albrecht Bethe" />
+    <edge source="Yu. Watase" target="Bruno Benedetto Rossi" />
+    <edge source="Reginald Victor Jones" target="Sir Francis Simon" />
+    <edge source="Reginald Victor Jones" target="Charles Hard Townes" />
+    <edge source="M Kohler" target="Maria Goeppert-Mayer" />
+    <edge source="M Kohler" target="Johannes Hans Daniel Jensen" />
+    <edge source="W Gordy" target="Samuel Abraham Goudsmit" />
+    <edge source="W Gordy" target="George Eugene Uhlenbeck" />
+    <edge source="W Gordy" target="William Martin Fairbank" />
+    <edge source="W Gordy" target="Robert Doll" />
+    <edge source="A.M. Michels" target="Samuel Abraham Goudsmit" />
+    <edge source="A.M. Michels" target="George Eugene Uhlenbeck" />
+    <edge source="A.M. Michels" target="Eugene Wigner" />
+    <edge source="L Nordheim" target="Samuel Abraham Goudsmit" />
+    <edge source="L Nordheim" target="George Eugene Uhlenbeck" />
+    <edge source="Hertha Sponer" target="Samuel Abraham Goudsmit" />
+    <edge source="Hertha Sponer" target="George Eugene Uhlenbeck" />
+    <edge source="J Jacobsen" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="J Jacobsen" target="Lev Davidovich Landau" />
+    <edge source="J Böggild" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="J Böggild" target="Lev Davidovich Landau" />
+    <edge source="William Fowler" target="Hans Albrecht Bethe" />
+    <edge source="William Fowler" target="Richard Phillips Feynman" />
+    <edge source="Robert Fox Bacher" target="Richard Phillips Feynman" />
+    <edge source="Robert Fox Bacher" target="Julian Schwinger" />
+    <edge source="Robert Fox Bacher" target="Sin-Itiro Tomonaga" />
+    <edge source="R Christy" target="Richard Phillips Feynman" />
+    <edge source="R Christy" target="Julian Schwinger" />
+    <edge source="R Christy" target="Sin-Itiro Tomonaga" />
+    <edge source="H Sterky" target="John Bardeen" />
+    <edge source="H Sterky" target="Walter Houser Brattain" />
+    <edge source="H Sterky" target="William Shockley" />
+    <edge source="Charles Hard Townes" target="John Bardeen" />
+    <edge source="Charles Hard Townes" target="Walter Houser Brattain" />
+    <edge source="Charles Hard Townes" target="William Shockley" />
+    <edge source="M Velasco Durantez" target="Gerald Pearson" />
+    <edge source="M Velasco Durantez" target="John Bardeen" />
+    <edge source="M Velasco Durantez" target="Walter Houser Brattain" />
+    <edge source="Gerhart Wolfgang Rathenau" target="Samuel Abraham Goudsmit" />
+    <edge source="Gerhart Wolfgang Rathenau" target="George Eugene Uhlenbeck" />
+    <edge source="Gerhart Wolfgang Rathenau" target="Maria Goeppert-Mayer" />
+    <edge source="Gerhart Wolfgang Rathenau" target="Johannes Hans Daniel Jensen" />
+    <edge source="Gerhart Wolfgang Rathenau" target="Louis Néel" />
+    <edge source="Gerhart Wolfgang Rathenau" target="John Hasbrouck Van Vleck" />
+    <edge source="Ch. Lauritsen" target="Vladimir Iosifovich Veksler" />
+    <edge source="Ch. Lauritsen" target="Edwin Mattison McMillan" />
+    <edge source="Ch. Lauritsen" target="Richard Phillips Feynman" />
+    <edge source="Ch. Lauritsen" target="Julian Schwinger" />
+    <edge source="Brebis Bleaney" target="Charles Hard Townes" />
+    <edge source="V Kondratiev" target="Pavel Alekseyevich Cherenkov [Čerenkov]" />
+    <edge source="Subramanyan Chandrasekhar" target="Sir Geoffrey Ingram Taylor" />
+    <edge source="Subramanyan Chandrasekhar" target="Hannes Alfvén" />
+    <edge source="Edward Purdy Ney" target="Martin Deutsch" />
+    <edge source="G Kahlson" target="Bengt Edlén" />
+    <edge source="Nikolay Nikolayevich Semyonov" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="Nikolay Nikolayevich Semyonov" target="Yevgeny Konstantinovich Zavoisky" />
+    <edge source="Nikolay Nikolayevich Semyonov" target="Cornelis Jacobus Gorter" />
+    <edge source="A Topchiev" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="M Inghram" target="Erwin Wilhelm Müller" />
+    <edge source="H Pettersson" target="Carl-Gustaf Arvid Rossby" />
+    <edge source="H Pettersson" target="Willard Frank Libby" />
+    <edge source="Leopold Infeld" target="Emilio Gino Segrè" />
+    <edge source="Leopold Infeld" target="Marian Danysz" />
+    <edge source="Leopold Infeld" target="Jerzy Pniewski" />
+    <edge source="Marian Danysz" target="Emilio Gino Segrè" />
+    <edge source="Marian Danysz" target="Victor Frederick Weisskopf" />
+    <edge source="T Kopcewicz" target="Emilio Gino Segrè" />
+    <edge source="Jerzy Pniewski" target="Emilio Gino Segrè" />
+    <edge source="Jerzy Pniewski" target="Abraham Pais" />
+    <edge source="Jerzy Pniewski" target="Murray Gell-Mann" />
+    <edge source="Jerzy Pniewski" target="Victor Frederick Weisskopf" />
+    <edge source="L Sosnowski" target="Emilio Gino Segrè" />
+    <edge source="L Sosnowski" target="Marian Danysz" />
+    <edge source="L Sosnowski" target="Jerzy Pniewski" />
+    <edge source="M White" target="Eugene Wigner" />
+    <edge source="John Archibald Wheeler" target="Eugene Wigner" />
+    <edge source="D Hamilton" target="Eugene Wigner" />
+    <edge source="Robert Henry Dicke" target="Eugene Wigner" />
+    <edge source="Walter Bleakney" target="Eugene Wigner" />
+    <edge source="Ivar Waller" target="Louis Néel" />
+    <edge source="Ivar Waller" target="Ernest Wollan" />
+    <edge source="Ivar Waller" target="Clifford Shull" />
+    <edge source="Clifford Shull" target="James Van Allen" />
+    <edge source="Owen Chamberlain" target="Donald Glaser" />
+    <edge source="Helmut Hönl" target="Sin-Itiro Tomonaga" />
+    <edge source="Helmut Hönl" target="Julian Schwinger" />
+    <edge source="Helmut Hönl" target="Hans Albrecht Bethe" />
+    <edge source="Helmut Hönl" target="Richard Phillips Feynman" />
+    <edge source="Helmut Hönl" target="Leopold Infeld" />
+    <edge source="F Houtermans" target="Bruno Benedetto Rossi" />
+    <edge source="F Houtermans" target="Giuseppe Paolo Stanislao Occhialini" />
+    <edge source="F Houtermans" target="Charles Hard Townes" />
+    <edge source="Igor Yevgenyevich Tamm" target="Yevgeny Konstantinovich Zavoisky" />
+    <edge source="Igor Yevgenyevich Tamm" target="Cornelis Jacobus Gorter" />
+    <edge source="Erik Paul Gerhard Ingelstam" target="Pavel Alekseyevich Cherenkov [Čerenkov]" />
+    <edge source="Erik Paul Gerhard Ingelstam" target="Ilya Frank" />
+    <edge source="Erik Paul Gerhard Ingelstam" target="Igor Yevgenyevich Tamm" />
+    <edge source="Erik Paul Gerhard Ingelstam" target="Charles Hard Townes" />
+    <edge source="Erik Paul Gerhard Ingelstam" target="Nicolay Gennadijevitj Basov" />
+    <edge source="Erik Paul Gerhard Ingelstam" target="Aleksandr Mikhailovich Prokhorov [Prockorov]" />
+    <edge source="Erik Paul Gerhard Ingelstam" target="Rudolf Ludwig Mössbauer" />
+    <edge source="Erik Paul Gerhard Ingelstam" target="Joseph Weber" />
+    <edge source="Erik Paul Gerhard Ingelstam" target="Theodore Maiman" />
+    <edge source="Erik Paul Gerhard Ingelstam" target="Nicolaas Bloembergen" />
+    <edge source="Erik Paul Gerhard Ingelstam" target="Ali Javan" />
+    <edge source="Ilya Frank" target="Vladimir Iosifovich Veksler" />
+    <edge source="Ilya Frank" target="Yevgeny Konstantinovich Zavoisky" />
+    <edge source="Vladimir Aleksandrovich Fock" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="Vladimir Aleksandrovich Fock" target="Sergey Vavilov" />
+    <edge source="Vladimir Aleksandrovich Fock" target="Pavel Alekseyevich Cherenkov [Čerenkov]" />
+    <edge source="Lev Andreyevich Artsimovich" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="Lev Andreyevich Artsimovich" target="Lev Davidovich Landau" />
+    <edge source="Lev Andreyevich Artsimovich" target="Yevgeny Konstantinovich Zavoisky" />
+    <edge source="M Leontovic" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="M Leontovic" target="Lev Davidovich Landau" />
+    <edge source="W Kroebel" target="Hans Busch" />
+    <edge source="W Kroebel" target="Ernst August Friedrich Ruska" />
+    <edge source="W Kroebel" target="Max Knoll" />
+    <edge source="Marcello Conversi" target="Richard Phillips Feynman" />
+    <edge source="J Kistemaker" target="Jesse Beams" />
+    <edge source="T Laurent" target="Georg von Békésy" />
+    <edge source="E Pollard" target="Seymour Benzer" />
+    <edge source="A Flammersfeld" target="Martin Deutsch" />
+    <edge source="André Maréchal" target="Louis Néel" />
+    <edge source="André Maréchal" target="Alfred Kastler" />
+    <edge source="André Maréchal" target="Charles Hard Townes" />
+    <edge source="A Guinier" target="Louis Néel" />
+    <edge source="A Guinier" target="Erwin Wilhelm Müller" />
+    <edge source="H Okubo" target="Heinz Neuber" />
+    <edge source="J Daunt" target="Lars Onsager" />
+    <edge source="Giovanni Zin" target="Ilya Romanovich Prigogine" />
+    <edge source="Giovanni Zin" target="Giuseppe Paolo Stanislao Occhialini" />
+    <edge source="H Nielsen" target="Charles Hard Townes" />
+    <edge source="Konrad Bleuler" target="Victor Frederick Weisskopf" />
+    <edge source="C Ufford" target="Eugene Wigner" />
+    <edge source="H Nakano" target="David Bohm" />
+    <edge source="H Nakano" target="David Pines" />
+    <edge source="S de Groot" target="Lars Onsager" />
+    <edge source="S de Groot" target="George Eugene Uhlenbeck" />
+    <edge source="S de Groot" target="Samuel Abraham Goudsmit" />
+    <edge source="M Verde" target="Owen Chamberlain" />
+    <edge source="M Verde" target="Emilio Gino Segrè" />
+    <edge source="M Verde" target="Clyde Wiegand" />
+    <edge source="M Verde" target="Thomas Ypsilantis" />
+    <edge source="Robert Hofstadter" target="Charles Hard Townes" />
+    <edge source="Robert Hofstadter" target="Arthur Leonard Schawlow" />
+    <edge source="Robert Hofstadter" target="Luis Walter Alvarez" />
+    <edge source="R Rompe" target="Nikolai Nikolaevic Bogoljubov" />
+    <edge source="D Kothari" target="Satyendra Nath Bose" />
+    <edge source="H Schreiber" target="Friedrich Dessauer" />
+    <edge source="Donald Glaser" target="Charles Hard Townes" />
+    <edge source="W Fretter" target="Donald Glaser" />
+    <edge source="A Roberts" target="Donald Glaser" />
+    <edge source="Th. Sigurgeirsson" target="Donald Glaser" />
+    <edge source="Léon Charles Prudent van Hove" target="Robert Hofstadter" />
+    <edge source="Léon Charles Prudent van Hove" target="Eugene Wigner" />
+    <edge source="Léon Charles Prudent van Hove" target="Richard Phillips Feynman" />
+    <edge source="Léon Charles Prudent van Hove" target="Julian Schwinger" />
+    <edge source="B.R. Nijboer" target="Robert Hofstadter" />
+    <edge source="F Eder" target="Abram Joffé" />
+    <edge source="M Soutif" target="Alfred Kastler" />
+    <edge source="W Nierenberg" target="Charles Kittel" />
+    <edge source="W Nierenberg" target="Owen Chamberlain" />
+    <edge source="W Nierenberg" target="Emilio Gino Segrè" />
+    <edge source="W Nierenberg" target="Alfred Kastler" />
+    <edge source="M Fallot" target="Louis Néel" />
+    <edge source="K Hellwege" target="Robert Wichard Pohl" />
+    <edge source="B Moyer" target="Wolfgang Kurt Hermann Panofsky" />
+    <edge source="H Boersch" target="Walter Hans Schottky" />
+    <edge source="M Päsler" target="Walter Hans Schottky" />
+    <edge source="Richard Honerjäger" target="Charles Hard Townes" />
+    <edge source="G Burkhardt" target="Albrecht Otto Johannes Unsöld" />
+    <edge source="W Opechowski" target="Eugene Wigner" />
+    <edge source="Einar Lindholm" target="Clyde Lorrain Cowan" />
+    <edge source="Einar Lindholm" target="Jr" />
+    <edge source="Einar Lindholm" target="Frederick Reines" />
+    <edge source="Einar Lindholm" target="Hannes Alfvén" />
+    <edge source="Gopalasamudram Narayanan Ramachandran" target="Norbert Wiener" />
+    <edge source="Gopalasamudram Narayanan Ramachandran" target="Claude Shannon" />
+    <edge source="W Powell" target="Owen Chamberlain" />
+    <edge source="W Powell" target="Emilio Gino Segrè" />
+    <edge source="P Endt" target="Emilio Gino Segrè" />
+    <edge source="P Endt" target="Robert Hofstadter" />
+    <edge source="André Lallemand" target="Louis Néel" />
+    <edge source="J Rossel" target="Chien-Shiung Wu" />
+    <edge source="J Rossel" target="Leon Max Lederman" />
+    <edge source="J Rossel" target="Robert Hofstadter" />
+    <edge source="J Rossel" target="Emilio Gino Segrè" />
+    <edge source="J Rossel" target="Owen Chamberlain" />
+    <edge source="J Rossel" target="Charles Hard Townes" />
+    <edge source="I Artobolevskij" target="Nikolai Nikolaevic Bogoljubov" />
+    <edge source="Viktor Amazaspovich Ambartsumian" target="Nikolai Nikolaevic Bogoljubov" />
+    <edge source="J Destouches" target="Léon Brillouin" />
+    <edge source="J Zacharias" target="Martin Deutsch" />
+    <edge source="W Fry" target="Donald Glaser" />
+    <edge source="Henry Herman Barschall" target="Donald Glaser" />
+    <edge source="C Franzinetti" target="Donald Glaser" />
+    <edge source="S Szczeniowski" target="Donald Glaser" />
+    <edge source="Willibald Jentschke" target="Donald Glaser" />
+    <edge source="N Neuert" target="Donald Glaser" />
+    <edge source="H Lipson" target="Dorothy Crowfoot Hodgkin" />
+    <edge source="Werner Braunbeck" target="Robert Hofstadter" />
+    <edge source="H Krüger" target="Robert Hofstadter" />
+    <edge source="B Darling" target="Robert Hofstadter" />
+    <edge source="Adriano Gozzini" target="Alfred Kastler" />
+    <edge source="Maurice Françon" target="Alfred Kastler" />
+    <edge source="A Ångström" target="Willard Frank Libby" />
+    <edge source="B Kullenberg" target="Willard Frank Libby" />
+    <edge source="W Laniecki" target="Sir Nevill Francis Mott" />
+    <edge source="Gottfried Möllenstedt" target="Erwin Wilhelm Müller" />
+    <edge source="M Cotte" target="Louis Néel" />
+    <edge source="M Cotte" target="Alfred Kastler" />
+    <edge source="Marie-Antoinette Tonnelat" target="Louis Néel" />
+    <edge source="Marie-Antoinette Tonnelat" target="Alfred Kastler" />
+    <edge source="L Berkner" target="James Van Allen" />
+    <edge source="E Vassy" target="James Van Allen" />
+    <edge source="E Vassy" target="Hannes Alfvén" />
+    <edge source="Anatole Abragam" target="Alfred Kastler" />
+    <edge source="Jean Brossel" target="Léon Brillouin" />
+    <edge source="B Flowers" target="Johannes Hans Daniel Jensen" />
+    <edge source="B Flowers" target="Maria Goeppert-Mayer" />
+    <edge source="J Westerdijk" target="Jan Hendrik Oort" />
+    <edge source="J Westerdijk" target="Hendrik Christoffel van de Hulst" />
+    <edge source="J Westerdijk" target="Louis Néel" />
+    <edge source="L.J. Broer" target="Jan Hendrik Oort" />
+    <edge source="L.J. Broer" target="Hendrik Christoffel van de Hulst" />
+    <edge source="B Blaisse" target="Jan Hendrik Oort" />
+    <edge source="B Blaisse" target="Hendrik Christoffel van de Hulst" />
+    <edge source="B Blaisse" target="Louis Néel" />
+    <edge source="A C S van Heel" target="Jan Hendrik Oort" />
+    <edge source="A C S van Heel" target="Hendrik Christoffel van de Hulst" />
+    <edge source="A C S van Heel" target="Louis Néel" />
+    <edge source="J Le Poole" target="Jan Hendrik Oort" />
+    <edge source="J Le Poole" target="Hendrik Christoffel van de Hulst" />
+    <edge source="J Le Poole" target="Ernst August Friedrich Ruska" />
+    <edge source="Pieter (Pim) Maarten de Wolff" target="Jan Hendrik Oort" />
+    <edge source="Pieter (Pim) Maarten de Wolff" target="Hendrik Christoffel van de Hulst" />
+    <edge source="Pieter (Pim) Maarten de Wolff" target="Louis Néel" />
+    <edge source="Aaldert Hendrik Wapstra" target="Jan Hendrik Oort" />
+    <edge source="Aaldert Hendrik Wapstra" target="Hendrik Christoffel van de Hulst" />
+    <edge source="Heinz Artur Raether" target="Ernst August Friedrich Ruska" />
+    <edge source="Heinz Artur Raether" target="Erwin Wilhelm Müller" />
+    <edge source="Marian Günther" target="Murray Gell-Mann" />
+    <edge source="Marian Günther" target="Kazuhiko Nishijima" />
+    <edge source="Marian Günther" target="Abraham Pais" />
+    <edge source="Francis Eugene Low" target="Richard Phillips Feynman" />
+    <edge source="Francis Eugene Low" target="Julian Schwinger" />
+    <edge source="Herman Feshbach" target="Richard Phillips Feynman" />
+    <edge source="Herman Feshbach" target="Julian Schwinger" />
+    <edge source="Bernard Taub Feld" target="Richard Phillips Feynman" />
+    <edge source="Bernard Taub Feld" target="Julian Schwinger" />
+    <edge source="Norman Foster Ramsey" target="Julian Schwinger" />
+    <edge source="Norman Foster Ramsey" target="Richard Phillips Feynman" />
+    <edge source="Norman Foster Ramsey" target="Sin-Itiro Tomonaga" />
+    <edge source="J Mack" target="Hannes Alfvén" />
+    <edge source="J Mack" target="Bengt Edlén" />
+    <edge source="J Mack" target="Hans Albrecht Bethe" />
+    <edge source="Sir Cyril Norman Hinshelwood" target="Max Ferdinand Perutz" />
+    <edge source="Sir Cyril Norman Hinshelwood" target="John Cowdery Kendrew" />
+    <edge source="Sir Cyril Norman Hinshelwood" target="Dorothy Crowfoot Hodgkin" />
+    <edge source="Sir Cyril Norman Hinshelwood" target="Sir Geoffrey Ingram Taylor" />
+    <edge source="Michał Lunc" target="Lev Davidovich Landau" />
+    <edge source="Michał Lunc" target="Nikolai Nikolaevic Bogoljubov" />
+    <edge source="Michał Lunc" target="Hannes Alfvén" />
+    <edge source="David Henry Frisch" target="Eugene Wigner" />
+    <edge source="David Henry Frisch" target="Richard Phillips Feynman" />
+    <edge source="David Henry Frisch" target="Julian Schwinger" />
+    <edge source="David Henry Frisch" target="Martin Deutsch" />
+    <edge source="David Henry Frisch" target="Maurice Goldhaber" />
+    <edge source="David Henry Frisch" target="Chien-Shiung Wu" />
+    <edge source="David Henry Frisch" target="Bruno Benedetto Rossi" />
+    <edge source="David Henry Frisch" target="James Van Allen" />
+    <edge source="Njål Hole" target="Hannes Alfvén" />
+    <edge source="H Johns" target="Louis Gray" />
+    <edge source="T Neugebauer" target="Robert Hofstadter" />
+    <edge source="Etienne Wolff" target="André Lallemand" />
+    <edge source="Etienne Wolff" target="Charles Hard Townes" />
+    <edge source="Etienne Wolff" target="Alfred Kastler" />
+    <edge source="Rudolf Ludwig Mössbauer" target="Philip Burton Moon" />
+    <edge source="H Frauenfelder" target="Rudolf Ludwig Mössbauer" />
+    <edge source="W Walcher" target="Rudolf Ludwig Mössbauer" />
+    <edge source="H Wolter" target="Rudolf Ludwig Mössbauer" />
+    <edge source="M Blackman" target="Louis Néel" />
+    <edge source="G Déjardin" target="Louis Néel" />
+    <edge source="C Domb" target="Lars Onsager" />
+    <edge source="Günther Leibfried" target="Lars Onsager" />
+    <edge source="Friedrich Schlögl" target="Lars Onsager" />
+    <edge source="Josef Meixner" target="Lars Onsager" />
+    <edge source="Harry Lambert Welsh" target="Charles Hard Townes" />
+    <edge source="J Jauch" target="James Van Allen" />
+    <edge source="R Wilkinson" target="Aage Niels Bohr" />
+    <edge source="R Wilkinson" target="Ben Roy Mottelson" />
+    <edge source="Aage Niels Bohr" target="Lev Davidovich Landau" />
+    <edge source="Ben Roy Mottelson" target="Lev Davidovich Landau" />
+    <edge source="R Freymann" target="Alfred Kastler" />
+    <edge source="R Freymann" target="Charles Hard Townes" />
+    <edge source="Dennis Gabor" target="Ernst August Friedrich Ruska" />
+    <edge source="Dennis Gabor" target="Max Knoll" />
+    <edge source="Dennis Gabor" target="Ladislaus Laszlo Marton" />
+    <edge source="F Fumi" target="Sir Geoffrey Ingram Taylor" />
+    <edge source="F Fumi" target="Egon Orowan" />
+    <edge source="F Fumi" target="Michael Polanyi" />
+    <edge source="Kurt Lücke" target="Frederick Seitz" />
+    <edge source="Kurt Lücke" target="Sir Nevill Francis Mott" />
+    <edge source="Kurt Lücke" target="Rudolf Ludwig Mössbauer" />
+    <edge source="Frederick Seitz" target="Francis Bitter" />
+    <edge source="Frederick Seitz" target="Alfred Kastler" />
+    <edge source="Frederick Seitz" target="Charles Hard Townes" />
+    <edge source="A Subnikov" target="Nikolay Vasilyevich Belov" />
+    <edge source="J Levinger" target="Hans Albrecht Bethe" />
+    <edge source="Ph. Morrison" target="Hans Albrecht Bethe" />
+    <edge source="E Salpeter" target="Hans Albrecht Bethe" />
+    <edge source="W Woodward" target="Hans Albrecht Bethe" />
+    <edge source="A Silverman" target="Hans Albrecht Bethe" />
+    <edge source="B McDaniel" target="Hans Albrecht Bethe" />
+    <edge source="P Hartman" target="Hans Albrecht Bethe" />
+    <edge source="J DeWire" target="Hans Albrecht Bethe" />
+    <edge source="S Bagchi" target="Satyendra Nath Bose" />
+    <edge source="J Rayski" target="Marian Danysz" />
+    <edge source="E Cowan" target="Richard Phillips Feynman" />
+    <edge source="Matthew Linzee Sands" target="Richard Phillips Feynman" />
+    <edge source="R Walker" target="Richard Phillips Feynman" />
+    <edge source="J Pellam" target="Lev Davidovich Landau" />
+    <edge source="S Sljivic" target="Bogdan Maglich [Maglić]" />
+    <edge source="A Pignedoli" target="Bruno Benedetto Rossi" />
+    <edge source="P Bassi" target="Bruno Benedetto Rossi" />
+    <edge source="B Feretti" target="Bruno Benedetto Rossi" />
+    <edge source="D Graffi" target="Bruno Benedetto Rossi" />
+    <edge source="Felix Hans Boehm" target="Charles Hard Townes" />
+    <edge source="M Kelly" target="Charles Hard Townes" />
+    <edge source="W Smythe" target="Charles Hard Townes" />
+    <edge source="Jack Steinberger" target="Charles Hard Townes" />
+    <edge source="Hendrik de Waard" target="Charles Hard Townes" />
+    <edge source="P Tuomikoski" target="James Van Allen" />
+    <edge source="P Tuomikoski" target="Charles Hard Townes" />
+    <edge source="Pekka Jauho" target="Eugene Wigner" />
+    <edge source="Pekka Jauho" target="Aleksandr Mikhailovich Prokhorov [Prockorov]" />
+    <edge source="Pekka Jauho" target="Charles Hard Townes" />
+    <edge source="Pekka Jauho" target="Hannes Alfvén" />
+    <edge source="H Tolhoek" target="Eugene Wigner" />
+    <edge source="N Hugenholtz" target="Eugene Wigner" />
+    <edge source="H Groenewold" target="Eugene Wigner" />
+    <edge source="H Neher" target="Richard Phillips Feynman" />
+    <edge source="H Neher" target="Charles Hard Townes" />
+    <edge source="A Dutta" target="Satyendra Nath Bose" />
+    <edge source="A Dutta" target="Sin-Itiro Tomonaga" />
+    <edge source="A Dutta" target="Subramanyan Chandrasekhar" />
+    <edge source="A Crooker" target="Bengt Edlén" />
+    <edge source="P Sturrock" target="William Martin Fairbank" />
+    <edge source="William Martin Fairbank" target="Charles Hard Townes" />
+    <edge source="William Martin Fairbank" target="Arthur Leonard Schawlow" />
+    <edge source="F Kirschner" target="Walter Friedrich" />
+    <edge source="R Liljeblad" target="Ernst Pascual Jordan" />
+    <edge source="P Agrain" target="Alfred Kastler" />
+    <edge source="L Gauthier" target="Alfred Kastler" />
+    <edge source="P Cüer" target="Louis Néel" />
+    <edge source="S Nikitine" target="Louis Néel" />
+    <edge source="R Faivre" target="Louis Néel" />
+    <edge source="Fritz Eduard Josef Maria Sauter" target="Lars Onsager" />
+    <edge source="G Careri" target="Lars Onsager" />
+    <edge source="Walter Thirring" target="Julian Schwinger" />
+    <edge source="J Warren" target="Charles Hard Townes" />
+    <edge source="Arthur Leonard Schawlow" target="Charles Hard Townes" />
+    <edge source="F Kaempffer" target="Eugene Wigner" />
+    <edge source="T Takabayasi" target="Eugene Wigner" />
+    <edge source="S Hayakawa" target="Hannes Alfvén" />
+    <edge source="S Hayakawa" target="Bruno Benedetto Rossi" />
+    <edge source="S Drell" target="Sin-Itiro Tomonaga" />
+    <edge source="S Drell" target="Julian Schwinger" />
+    <edge source="S Drell" target="Richard Phillips Feynman" />
+    <edge source="E Grüenbaum" target="Charles Hard Townes" />
+    <edge source="E Grüenbaum" target="Arthur Leonard Schawlow" />
+    <edge source="Ph. Pluvinage" target="Alfred Kastler" />
+    <edge source="Ph. Pluvinage" target="Charles Hard Townes" />
+    <edge source="H Benoit" target="Alfred Kastler" />
+    <edge source="H Benoit" target="Charles Hard Townes" />
+    <edge source="Wolfgang Paul" target="Alfred Kastler" />
+    <edge source="Wolfgang Paul" target="Charles Hard Townes" />
+    <edge source="Amos de-Shalit" target="Maria Goeppert-Mayer" />
+    <edge source="Amos de-Shalit" target="Johannes Hans Daniel Jensen" />
+    <edge source="Amos de-Shalit" target="Charles Hard Townes" />
+    <edge source="Amos de-Shalit" target="Richard Phillips Feynman" />
+    <edge source="Amos de-Shalit" target="Murray Gell-Mann" />
+    <edge source="W Macke" target="Herbert Fröhlich" />
+    <edge source="W Macke" target="John Bardeen" />
+    <edge source="W Macke" target="Nikolai Nikolaevic Bogoljubov" />
+    <edge source="Eric Henry Stoneley Burhop" target="Clifford Butler" />
+    <edge source="Eric Henry Stoneley Burhop" target="Giuseppe Paolo Stanislao Occhialini" />
+    <edge source="Eric Henry Stoneley Burhop" target="George Dixon Rochester" />
+    <edge source="G Salvini" target="Marcello Conversi" />
+    <edge source="G Salvini" target="Ettore Pancini" />
+    <edge source="G Salvini" target="Oreste Piccioni" />
+    <edge source="C Cattaneo" target="Marcello Conversi" />
+    <edge source="C Cattaneo" target="Ettore Pancini" />
+    <edge source="C Cattaneo" target="Oreste Piccioni" />
+    <edge source="Eugene Newman Parker" target="Hannes Alfvén" />
+    <edge source="Koefoed-Hansen" target="Hannes Alfvén" />
+    <edge source="P Swings" target="Bengt Edlén" />
+    <edge source="Th. Fields" target="Richard Phillips Feynman" />
+    <edge source="Rudolf Ernst Peierls" target="Richard Phillips Feynman" />
+    <edge source="Nicholas Constantine Metropolis" target="Richard Phillips Feynman" />
+    <edge source="J Simpson" target="Scott Ellsworth Forbush" />
+    <edge source="Werner Buckel" target="Herbert Fröhlich" />
+    <edge source="J Volger" target="Cornelis Jacobus Gorter" />
+    <edge source="Anna Underhill" target="Hendrik Christoffel van de Hulst" />
+    <edge source="R Servant" target="Alfred Kastler" />
+    <edge source="F Roger" target="Alfred Kastler" />
+    <edge source="R Chastel" target="Alfred Kastler" />
+    <edge source="E Perucca" target="Louis Néel" />
+    <edge source="C Codegone" target="Lars Onsager" />
+    <edge source="Richard Henry Dalitz" target="Melvin Schwartz" />
+    <edge source="A Houriet" target="Julian Schwinger" />
+    <edge source="H Ehrenberg" target="Charles Hard Townes" />
+    <edge source="J Duchesne" target="Charles Hard Townes" />
+    <edge source="G Lovera" target="Charles Hard Townes" />
+    <edge source="G Falk" target="Charles Hard Townes" />
+    <edge source="Vernon Willard Hughes" target="Charles Hard Townes" />
+    <edge source="Ch Schlier" target="Charles Hard Townes" />
+    <edge source="O Osbergshaus" target="Charles Hard Townes" />
+    <edge source="David Allan Bromley" target="Robert Jemison Van de Graaff" />
+    <edge source="Herwig Schopper" target="Chien-Shiung Wu" />
+    <edge source="V Petrzilka" target="Edoardo Amaldi" />
+    <edge source="V Petrzilka" target="Vladimir Iosifovich Veksler" />
+    <edge source="Tullio Regge" target="Richard Phillips Feynman" />
+    <edge source="Tullio Regge" target="Freeman John Dyson" />
+    <edge source="Gunnar Källén" target="Richard Phillips Feynman" />
+    <edge source="Gunnar Källén" target="Julian Schwinger" />
+    <edge source="B Stech" target="Richard Phillips Feynman" />
+    <edge source="B Stech" target="Julian Schwinger" />
+    <edge source="W Wessel" target="Richard Phillips Feynman" />
+    <edge source="W Wessel" target="Sin-Itiro Tomonaga" />
+    <edge source="W Wessel" target="Julian Schwinger" />
+    <edge source="Hans-Arwed Weidenmüller" target="Richard Phillips Feynman" />
+    <edge source="Hans-Arwed Weidenmüller" target="Sin-Itiro Tomonaga" />
+    <edge source="Hans-Arwed Weidenmüller" target="Julian Schwinger" />
+    <edge source="G Höhler" target="Murray Gell-Mann" />
+    <edge source="G Höhler" target="Kazuhiko Nishijima" />
+    <edge source="A Zatopek" target="Harold Jeffreys" />
+    <edge source="A Zatopek" target="Keith Edward Bullen" />
+    <edge source="W Kofink" target="H Schüler" />
+    <edge source="W Kofink" target="Th Schmidt" />
+    <edge source="Th Schmidt" target="George Eugene Uhlenbeck" />
+    <edge source="Th Schmidt" target="Samuel Abraham Goudsmit" />
+    <edge source="Th Schmidt" target="Charles Hard Townes" />
+    <edge source="Jo. Novozilov" target="Aleksandr Mikhailovich Prokhorov [Prockorov]" />
+    <edge source="Jo. Novozilov" target="Charles Hard Townes" />
+    <edge source="Mikhail Veselov" target="Aleksandr Mikhailovich Prokhorov [Prockorov]" />
+    <edge source="Mikhail Veselov" target="Charles Hard Townes" />
+    <edge source="I Michajlov" target="Aleksandr Mikhailovich Prokhorov [Prockorov]" />
+    <edge source="I Michajlov" target="Charles Hard Townes" />
+    <edge source="D Skobeltsyn" target="Nicolay Gennadijevitj Basov" />
+    <edge source="D Skobeltsyn" target="Aleksandr Mikhailovich Prokhorov [Prockorov]" />
+    <edge source="D Skobeltsyn" target="Charles Hard Townes" />
+    <edge source="N Kalitejevskij" target="Nicolay Gennadijevitj Basov" />
+    <edge source="N Kalitejevskij" target="Aleksandr Mikhailovich Prokhorov [Prockorov]" />
+    <edge source="N Kalitejevskij" target="Charles Hard Townes" />
+    <edge source="S Fris" target="Nicolay Gennadijevitj Basov" />
+    <edge source="S Fris" target="Aleksandr Mikhailovich Prokhorov [Prockorov]" />
+    <edge source="S Fris" target="Charles Hard Townes" />
+    <edge source="D H Rank" target="Alfred Kastler" />
+    <edge source="D H Rank" target="Charles Hard Townes" />
+    <edge source="J Ruamps" target="Alfred Kastler" />
+    <edge source="J Ruamps" target="Charles Hard Townes" />
+    <edge source="H Marschall" target="George Eugene Uhlenbeck" />
+    <edge source="H Marschall" target="Samuel Abraham Goudsmit" />
+    <edge source="H Marschall" target="Charles Hard Townes" />
+    <edge source="Wolfgang Gentner" target="George Eugene Uhlenbeck" />
+    <edge source="Wolfgang Gentner" target="Samuel Abraham Goudsmit" />
+    <edge source="Ch. Schmelzer" target="George Eugene Uhlenbeck" />
+    <edge source="Ch. Schmelzer" target="Samuel Abraham Goudsmit" />
+    <edge source="Anatoly Petrovich Alexandrov" target="Yevgeny Konstantinovich Zavoisky" />
+    <edge source="Anatoly Petrovich Alexandrov" target="Cornelis Jacobus Gorter" />
+    <edge source="M Stevenson" target="Luis Walter Alvarez" />
+    <edge source="Giancomo Morpurgo" target="Hans Albrecht Bethe" />
+    <edge source="Stanley Mandelstam" target="Richard Phillips Feynman" />
+    <edge source="Giuliano Toraldo di Francia" target="Richard Phillips Feynman" />
+    <edge source="S Frankel" target="Murray Gell-Mann" />
+    <edge source="H Ziegler" target="S de Groot" />
+    <edge source="E Arnous" target="Walter Heinrich Heitler" />
+    <edge source="W Hälg" target="Walter Heinrich Heitler" />
+    <edge source="A Minc" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="A Eckardt" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="W Schütz" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="K Schuster" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="Ernst Schmutzer" target="Pyotr Leonidovich Kapitsa" />
+    <edge source="R Lennuier" target="Alfred Kastler" />
+    <edge source="Corneille Heymans" target="Alfred Kastler" />
+    <edge source="J Bricard" target="Alfred Kastler" />
+    <edge source="C Magnan" target="Alfred Kastler" />
+    <edge source="W Fierz" target="Nicholas Kemmer" />
+    <edge source="Res Jost" target="Nicholas Kemmer" />
+    <edge source="Gaston Dupouy" target="Louis Néel" />
+    <edge source="J Smidt" target="Louis Néel" />
+    <edge source="A Prins" target="Louis Néel" />
+    <edge source="H Koppe" target="Lars Onsager" />
+    <edge source="L Gentzel" target="Charles Hard Townes" />
+    <edge source="John Hamilton Reynolds" target="James Van Allen" />
+    <edge source="C Jeffries" target="John Hasbrouck Van Vleck" />
+    <edge source="Werner Känzig" target="John Hasbrouck Van Vleck" />
+    <edge source="Ernst Brun" target="John Hasbrouck Van Vleck" />
+    <edge source="G Süssmann" target="Hans Albrecht Bethe" />
+    <edge source="G Süssmann" target="Carl Friedrich von Weizsäcker" />
+    <edge source="J Humblet" target="Aage Niels Bohr" />
+    <edge source="J Humblet" target="Ben Roy Mottelson" />
+    <edge source="H Gove" target="Aage Niels Bohr" />
+    <edge source="H Gove" target="Ben Roy Mottelson" />
+    <edge source="Charles Brian Anthony McCusker" target="Murray Gell-Mann" />
+    <edge source="Charles Brian Anthony McCusker" target="George Dixon Rochester" />
+    <edge source="Gerson Goldhaber" target="Luis Walter Alvarez" />
+    <edge source="Gerson Goldhaber" target="Murray Gell-Mann" />
+    <edge source="W Selove" target="Richard Phillips Feynman" />
+    <edge source="W Selove" target="Murray Gell-Mann" />
+    <edge source="Velasco Durántes" target="Richard Phillips Feynman" />
+    <edge source="Velasco Durántes" target="Maurice Françon" />
+    <edge source="Ivan Supek" target="Richard Phillips Feynman" />
+    <edge source="Ivan Supek" target="Julian Schwinger" />
+    <edge source="A Mann" target="Richard Phillips Feynman" />
+    <edge source="A Mann" target="Julian Schwinger" />
+    <edge source="A Mann" target="Sin-Itiro Tomonaga" />
+    <edge source="Évry Léon Schatzman" target="Jean Brossel" />
+    <edge source="Évry Léon Schatzman" target="Alfred Kastler" />
+    <edge source="Gilbert Amat" target="Jean Brossel" />
+    <edge source="Gilbert Amat" target="Alfred Kastler" />
+    <edge source="Y Le Corre" target="Jean Brossel" />
+    <edge source="Y Le Corre" target="Alfred Kastler" />
+    <edge source="Jean-Claude Pecker" target="Jean Brossel" />
+    <edge source="Jean-Claude Pecker" target="Alfred Kastler" />
+    <edge source="Józef Hurwic" target="Marian Danysz" />
+    <edge source="Józef Hurwic" target="Jerzy Pniewski" />
+    <edge source="S Piotrowski" target="Marian Danysz" />
+    <edge source="S Piotrowski" target="Jerzy Pniewski" />
+    <edge source="Emil Wolf" target="Robert Hanbury Brown" />
+    <edge source="Emil Wolf" target="Richard Twiss" />
+    <edge source="W Hindmarsh" target="Fred Hoyle" />
+    <edge source="W Hindmarsh" target="Martin Schwarzchild" />
+    <edge source="Werner Zeil" target="Friedrich Hund" />
+    <edge source="Werner Zeil" target="Erich Hückel" />
+    <edge source="R Connor" target="Frederick Reines" />
+    <edge source="R Connor" target="Clyde Lorrain Cowan" />
+    <edge source="R Connor" target="Jr" />
+  </graph>
+</graphml>

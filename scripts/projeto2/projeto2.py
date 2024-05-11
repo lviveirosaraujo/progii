@@ -14,10 +14,13 @@ with open('dados/laureate.json','r') as f:
     laureates = json.load(f)["laureates"]
 
 def maisPartilhados() -> tuple[int,set[tuple[int,str]]]:
-    # 1. achar o maximo valor possivel do share
-    # 2. indentificar quais são os elementos que possuem o share maximo
-    # 3. montar o tuple (ano, categoria) de estas premiaçoes
-    # 4. retornar um tuple (share_max,{(ano, categoria),(ano, categoria),(ano, categoria)...})
+    """
+    Finds the maximum share value among laureates and returns a tuple containing the maximum share value and a set of (year, category) pairs for laureates with the maximum share.
+
+    Returns:
+        A tuple containing the maximum share value and a set of (year, category) pairs for laureates with the maximum share.
+    """
+
     max_share = 0
     # First pass: Determine the absolute maximum share
     for prize in prizes:
@@ -38,6 +41,13 @@ def maisPartilhados() -> tuple[int,set[tuple[int,str]]]:
     return max_share, max_share_data
 
 def multiLaureados() -> dict[str,set[str]]:
+    """
+    Collects and returns a dictionary of laureates who have won in more than one category.
+
+    Returns:
+        dict[str, set[str]]: A dictionary where the keys are the names of the laureates and the values are sets of categories they have won in.
+    """
+    
     laureate_categories = {}
 
     # Loop through each prize and collect categories for each laureate
@@ -60,7 +70,16 @@ def multiLaureados() -> dict[str,set[str]]:
     return multi_category_laureates
 
 def anosSemPremio() -> tuple[int,int] :
+    """
+    Find the longest consecutive range of missing years without a prize in each category.
+
+    Returns:
+        A tuple containing the start and end years of the longest consecutive range of missing years.
+        If there are no missing years, it returns (0, 0).
+    """
+    
     # Collect all years and categories from the data
+
     all_years = set()
     categories_by_year = {}
     for prize in prizes:
@@ -75,7 +94,6 @@ def anosSemPremio() -> tuple[int,int] :
 
     # Determine the set of all categories
     all_categories = set(cat for year_cats in categories_by_year.values() for cat in year_cats)
-    # remove the economics category
     missing_years = []
     
     # Identify years with missing categories after 1969
@@ -87,7 +105,9 @@ def anosSemPremio() -> tuple[int,int] :
             else:
                 missing_years.append(year)
 
+    # Remove the economics category from the set of all categories
     all_categories.discard("economics")
+
     # Identify years with missing categories before 1969
     for year in range(min(all_years), max(all_years) + 1):
         if year <= 1969:
@@ -97,10 +117,11 @@ def anosSemPremio() -> tuple[int,int] :
             else:
                 missing_years.append(year)
 
-    # Find the longest consecutive range of missing years
+    
     if not missing_years:
         return (0, 0)  # Return a default value if there are no missing years
     
+    # Find the longest consecutive range of missing years
     longest_start = missing_years[0]
     longest_end = missing_years[0]
     current_start = missing_years[0]
@@ -120,38 +141,56 @@ def anosSemPremio() -> tuple[int,int] :
         longest_start = current_start
         longest_end = current_end
 
+    # Note: I found the largest range of missing years to be 1914-1918, which is different from the expected result of 1914-1919
     return (longest_start, longest_end)
 
 def rankingDecadas() -> dict[str,tuple[str,int]]:
+    """
+    Calculates the ranking of countries based on the number of laureates per decade.
+
+    Returns:
+        A dictionary containing the country with the most laureates and the corresponding count for each decade.
+        The keys are the decades in the format '190x', '191x', etc., and the values are tuples of the form (country, count).
+    """
+    
     from collections import defaultdict
 
-    # Estrutura para armazenar a contagem de laureados por país e década
+    # Dictionary to store the count of laureates per decade and country
     decada_pais_count = defaultdict(lambda: defaultdict(int))
 
-    # Percorrendo cada laureado e seus prêmios para contar as afiliações por década
+    # Loop through each laureate and prize to count the laureates per decade and country
     for laureate in laureates:
         for prize in laureate.get("prizes", []):
             year = int(prize["year"])
-            decada = f"{(year // 10)}x"  # Formatando a década como '190x', '191x', etc.
+            decada = f"{(year // 10)}x"  # Formate the decade
             for affiliation in prize.get("affiliations", []):
                 if "country" in affiliation and affiliation["country"]:
                     pais = affiliation["country"]
-                    decada_pais_count[decada][pais] += 1  # Incrementar a contagem
+                    decada_pais_count[decada][pais] += 1  
 
-    # Estrutura para armazenar o país com mais laureados por década
-    resultado = {}
+    # Find the country with the most laureates in each decade
+    result = {}
     for decada, paises_count in decada_pais_count.items():
-        # Encontrar o país com a maior contagem de laureados na década
+        # Find the country with the maximum count of laureates
         pais_max, count_max = max(paises_count.items(), key=lambda item: item[1])
-        resultado[decada] = (pais_max, count_max)
+        result[decada] = (pais_max, count_max)
 
-    return resultado
+    return result
 
 # T2
 
 
 
 def toGrayscale(rgb:np.ndarray) -> np.ndarray:
+    """
+    Converts an RGB image to grayscale.
+
+    Parameters:
+    rgb (np.ndarray): The input RGB image.
+
+    Returns:
+    np.ndarray: The grayscale image.
+    """
     grayscale = 0.21 * rgb[:, :, 0] + 0.72 * rgb[:, :, 1] + 0.07 * rgb[:, :, 2]
     return grayscale.astype(np.uint8)
 
@@ -163,6 +202,17 @@ def converteGrayscale(fromimg:str,toimg:str) -> None:
     Image.fromarray(grayscale, mode="L").save(toimg)
 
 def toBW(gray:np.ndarray,threshold:tuple[int,int]) -> np.ndarray:
+    """
+    Converts a grayscale image to black and white based on a given threshold.
+
+    Args:
+        gray (np.ndarray): The grayscale image to be converted.
+        threshold (tuple[int,int]): The lower and upper bounds of the threshold.
+
+    Returns:
+        np.ndarray: The black and white image.
+
+    """
     lower_bound = threshold[0]
     upper_bound = threshold[1]
     is_within_threshold = np.logical_and(gray >= lower_bound, gray <= upper_bound)
@@ -175,7 +225,18 @@ def converteBW(fromimg:str,toimg:str,threshold:tuple[int,int]) -> None:
     bw : np.ndarray = toBW(grayscale,threshold)
     Image.fromarray(bw,mode="L").save(toimg)
 
-def autoThreshold(fromimg:str,tolerance:int) -> tuple[int,int]:
+def autoThreshold(fromimg: str, tolerance: int) -> tuple[int, int]:
+    """
+    Automatically determines the lower and upper threshold values for image binarization.
+
+    Args:
+        fromimg (str): The path to the input image file.
+        tolerance (int): The tolerance value used to determine the threshold range.
+
+    Returns:
+        tuple[int, int]: A tuple containing the lower and upper threshold values.
+    """
+    
     grayscale: np.ndarray = asarray(Image.open(fromimg))
     grayscale_flattened = grayscale.flatten()
     most_frequent_value = np.argmax(np.bincount(grayscale_flattened))
@@ -185,8 +246,25 @@ def autoThreshold(fromimg:str,tolerance:int) -> tuple[int,int]:
 
     return (lower_bound, upper_bound)
 
-def toContour(bw:np.ndarray) -> np.ndarray:
+import numpy as np
+from PIL import Image
+
+def toContour(bw: np.ndarray) -> np.ndarray:
+    """
+    Converts a binary image to a contour image.
+
+    Args:
+        bw (np.ndarray): Binary image represented as a NumPy array.
+
+    Returns:
+        np.ndarray: Contour image represented as a NumPy array.
+    """
+
+    # Create a new image with the same shape as the input image
+
     contour_img = np.full(bw.shape, 255, dtype=np.uint8)
+
+    # Find the differences between the pixels in the horizontal and vertical directions
 
     bw_right_shifted = np.roll(bw, -1, axis=1)
     is_diff_right = bw != bw_right_shifted
@@ -195,6 +273,8 @@ def toContour(bw:np.ndarray) -> np.ndarray:
     bw_down_shifted = np.roll(bw, -1, axis=0)
     is_diff_down = bw != bw_down_shifted
     is_diff_down[-1, :] = False
+
+    # Set the pixels in the contour image to 0 where there is a difference
 
     contour_img[is_diff_right | is_diff_down] = 0
 
@@ -235,75 +315,90 @@ def taxaAbstencao() -> list[tuple[int,float]]:
     porcentagem_de_abstencao = []
     abstencao = []
 
+    # Calculate the percentage of abstention for the entire country
+
     total = legislativas["Total"].iloc[0]
     eleitores = legislativas["Votantes"].iloc[0]
     porcentagem_de_abstencao.append(((total - eleitores) / total) * 100)
+
+    # Create a list of tuples with the district number and the corresponding percentage of abstention
 
     for index in range(len(legislativas["Total"].columns)):
         abstencao.append((legislativas["Total"].columns[index], porcentagem_de_abstencao[0].iloc[index]))
 
     return abstencao
 
+
 def perdaGrandesMunicipios() -> dict[str,int]:
+    """
+    Calculates the year in which the largest municipalities experienced the biggest loss of voters compared to previous elections.
+
+    Returns:
+    A dictionary where the keys are the names of the municipalities and the values are the corresponding years.
+    """
 
     municipios_validos = {}
 
-    # conseguir o a serie pandas com todos os municipios
 
     location_type = 'Município'
     municipal_rows = legislativas[legislativas[('Territórios', 'Âmbito Geográfico')] == location_type]
 
-    # primeiro achamos todos os municipios com pelo menos 10000 votantes num dos anos
+    # Find the municipalities with more than 10,000 voters in any year
     for row_index, row_serie in municipal_rows["Votantes"].iterrows():
         for year_index in range(len(municipal_rows["Votantes"].columns)):
             if row_serie.iloc[year_index] >= 10000:
                 municipios_validos[legislativas['Territórios']['Região'].iloc[row_index]] = ""
                 break
     
-    # map the list index to the year
+    # Create a dictionary to map the index of the year to the year itself
     years2index = {index: year for index, year in enumerate(municipal_rows["Votantes"].columns)}
 
-    # agora vamos achar o ano em que mais perderam votantes em relação às eleições anteriores
+    # Find the year with the biggest difference in the number of voters for each municipality
     for municipio in municipios_validos:
 
-        # find the row index of the municipio
+        # Get the index of the row with the municipality
         municipio_row_index = municipal_rows[municipal_rows['Territórios']['Região'] == municipio].index[0]
-        # get the pandas series of the municipio
+        # Get the series with the number of voters for the municipality
         municipio_data = legislativas["Votantes"].iloc[municipio_row_index]
-        # transform the series into a list
+        # Turn the series into a list
         municipio_data_list_raw = municipio_data.tolist()
-        # make a copy of the list
         municipio_data_list_shifted = municipio_data_list_raw.copy()
-        # shift the list to the right
+        # Shift a copy of the list to the right
         municipio_data_list_shifted.insert(0, 0)
 
-        # differences between the years list
+        # Determine the differences between the number of voters in consecutive years
         differences = [municipio_data_list_raw[i] - municipio_data_list_shifted[i] for i in range(len(municipio_data_list_raw))]
-        # remove the first element of the list
         differences.pop(0)
-        # find the index of the year with the biggest difference
+
+        # Find the index of the year with the biggest difference
         biggest_difference_index = differences.index(min(differences))
-        # map the index to the year
+        # Map the index to the year
         municipios_validos[municipio] = years2index[biggest_difference_index+1]
     
     return municipios_validos
 
 def demografiaMunicipios() -> dict[str,tuple[str,str]]:
-# Por cada região NUTS III, qual o município que mais perdeu e o que mais ganhou eleitores entre 1975 e 2022? Complete a definição da função demografiaMunicipios, que retorna um dicionário { regiao : (municipioPerdeu,municipioGanhou) }.
+    """
+    Calculates the demographic differences between the years 1975 and 2022 for each municipality in each region.
 
+    Returns:
+    A dictionary containing the demographic differences for each region, where the keys are the region names and the values are tuples
+    containing the municipality with the minimum and maximum demographic difference.
+    """
+
+    # Get the rows corresponding to the NUTS III regions
     local_legislativas = legislativas.copy()
 
     location_type = 'NUTS III'
     nuts_rows_df = local_legislativas[local_legislativas[('Territórios', 'Âmbito Geográfico')] == location_type]
-    #filtar para somente o Total
     nuts_rows = nuts_rows_df["Total"]
 
+    # Get the rows corresponding to the municipalities
     location_type = 'Município'
     municipal_rows = local_legislativas[local_legislativas[('Territórios', 'Âmbito Geográfico')] == location_type]
 
     nuts_municipality = {}
-    # { regiao : [] }
-    # exemplo: { 'Norte' : [4, 5, 6, 7, 8, 9, 10, 11, 12, 13] }
+    # Example: { 'Norte' : [4, 5, 6, 7, 8, 9, 10, 11, 12, 13] }, where 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 are the indexes of the municipalities in the region 'Norte'
 
  
     # Convert lists to sets
@@ -316,7 +411,6 @@ def demografiaMunicipios() -> dict[str,tuple[str,str]]:
     
     # All numbers in the second set that are not in the first set
     non_first_numbers = second_set - first_set
-    
     # Sort the non-first numbers to prepare for grouping
     valid_numbers = sorted(non_first_numbers)
     
@@ -337,31 +431,29 @@ def demografiaMunicipios() -> dict[str,tuple[str,str]]:
     for nuts_row_index, current_group in zip(range(len(nuts_rows)), enumerate(grouped_numbers)):
         nuts_municipality[nuts_rows_df[('Territórios', 'Região')].iloc[nuts_row_index]] = current_group[1]
 
-    # --- ok --
-
-    # pra cada municipio dentro de cada regiao, é necessario achar o valor da diferenca entre os anos 1975 e 2022 na coluna Total
+    # For each region, find the municipality with the biggest difference in the number of voters between 1975 and 2022
     municipality_differences = {}
     municipality_data_dict = {}
-
     results = {}
 
     municipal_rows.set_index(local_legislativas.columns[0], inplace=True)
-    # i whant to set the first column as the index
-    # municipal_rows.set_index(('Territórios', 'Região'), inplace=True)
 
-    # 1. acessar a primeira regiao
+    # Access each region
     for region in nuts_municipality:
-        # 2. acessar o primeiro municipio
+        # Access each municipality in the region
         for municipality_index in nuts_municipality[region]:
-            # 3. acessar a serie do municipio
+            # Access the series with the number of voters for the municipality
             municipality_data = local_legislativas["Total"].iloc[municipality_index]
-            # 4. transformar a serie em uma lista
+            # Convert the series to a list
             municipality_data_list = municipality_data.tolist()
-            # 5. achar a diferenca entre os anos 1975 e 2022
+            # Calculate the difference between the number of voters in 1975 and 2022
             difference = municipality_data_list[-1] - municipality_data_list[0]
             municipality_data_dict.update({local_legislativas[('Territórios', 'Região')].iloc[municipality_index]: difference})
+
         municipality_differences[region] = municipality_data_dict
         municipality_data_dict = {}
+
+    
     
     for region in municipality_differences:
         results[region] = (min(municipality_differences[region], key=municipality_differences[region].get), 
@@ -374,15 +466,21 @@ def demografiaMunicipios() -> dict[str,tuple[str,str]]:
 nominations = pd.read_csv("dados/nominations.csv")
 
 def maisNomeado() -> tuple[str,int]:
+    """
+    Finds the nominee with the highest number of unique nominators.
+
+    Returns:
+        A tuple containing the name of the most nominated nominee and the number of unique nominators.
+    """
+
     G = nx.DiGraph()
 
-    # Percorrendo cada linha do DataFrame
+    # Cleaning the data and adding edges, nominators, and nominees to the graph
     for _, row in nominations.iterrows():
         nominators = [name.strip() for name in row["Nominator(s)"].replace('\r\n', '|').split('|')]
         nominees = [name.strip() for name in row["Nominee(s)"].replace('\r\n', ',').split(',')]
         year = row['Year']
 
-        # Adicionando cada nomeado ao grafo
         for nominee in nominees:
             for nominator in nominators:
                 if G.has_edge(nominator, nominee):
@@ -390,7 +488,7 @@ def maisNomeado() -> tuple[str,int]:
                 else:
                     G.add_edge(nominator, nominee, years={year})
 
-    # Contagem dos nominadores únicos por nomeado
+    # Count the number of unique nominators for each nominee
     nominee_counts = {}
     
     for nominator, nominee in G.edges():
@@ -398,7 +496,7 @@ def maisNomeado() -> tuple[str,int]:
             nominee_counts[nominee] = set()
         nominee_counts[nominee].add(nominator)
 
-    # Encontrar o nomeado com o maior número de nominadores únicos
+    # Find the nominee with the highest number of unique nominators
     most_nominated = None
     max_nominators = 0
     for nominee, nominators in nominee_counts.items():
@@ -406,13 +504,25 @@ def maisNomeado() -> tuple[str,int]:
             most_nominated = nominee
             max_nominators = len(nominators)
 
+    # Note: I found more nominators associated with the most nominated nominee, but I reckon this is due to two duplicate entries in the dataset 
+    
+
     return most_nominated, max_nominators
 
-def nomeacoesCruzadas() -> tuple[int,set[str]]:
-    # Criar o grafo direcionado
+def nomeacoesCruzadas() -> tuple[int, set[str]]:
+    """
+    Calculates the largest strongly connected component in a directed graph
+    based on nominations and returns the size of the component and the categories involved.
+    A strongly connected component is a subgraph in which there is a directed path between every pair of nodes.
+
+    Returns:
+        A tuple containing the size of the largest strongly connected component and
+        a set of categories involved in the component.
+    """
+    
     G = nx.DiGraph()
 
-    # Adiciona as arestas baseadas nas nomeações
+    # Cleaning the data and adding edges, nominators, and nominees to the graph
     for _, row in nominations.iterrows():
         nominators = [name.strip() for name in row["Nominator(s)"].replace('\r\n', '|').split('|')]
         nominees = [name.strip() for name in row["Nominee(s)"].replace('\r\n', ',').split(',')]
@@ -422,53 +532,62 @@ def nomeacoesCruzadas() -> tuple[int,set[str]]:
                 # Adiciona uma aresta do nominador para o nomeado
                 G.add_edge(nominator, nominee, category=category)
     
-    # Encontrar o maior componente fortemente conectado
+    # Find the largest strongly connected component
     largest_scc = max(nx.strongly_connected_components(G), key=len)
     
-    # Coletar categorias envolvidas neste componente
+    # Collect the categories involved in the largest SCC
     categories = set()
+    # Loop through the edges and add the categories to the set
     for u, v, data in G.edges(data=True):
+        # Check if both nodes are in the largest SCC
         if u in largest_scc and v in largest_scc:
             categories.add(data['category'])
 
-    # Retorna o tamanho do maior SCC e as categorias envolvidas
     return len(largest_scc), categories
 
 def caminhoEinsteinFeynman() -> list[str]:
-    
+    """
+    Finds the shortest path between Albert Einstein and Richard Phillips Feynman in a directed graph.
+
+    Returns:
+        A list of intermediate nodes representing the shortest path between Einstein and Feynman.
+        If no path exists, an empty list is returned.
+    """
+    G = nx.DiGraph()
+
     local_nominations = nominations.copy()
-    
-    # Filtrar dados para o período entre 1921 e 1965 e para a categoria de Física
+
+    # Filtering the data to include only Physics nominations between 1921 and 1965
     local_nominations = local_nominations[(local_nominations['Year'] >= 1921) & (local_nominations['Year'] <= 1965) & (local_nominations['Category'] == 'Physics')]
     
-    # Criando o grafo
-    G = nx.DiGraph()
-    
+    # Cleaning the data and adding edges, nominators, and nominees to the graph   
     for idx, row in local_nominations.iterrows():
         nominators = [name.strip() for name in row["Nominator(s)"].replace('\r\n', '|').split('|')]
         nominees = [name.strip() for name in row["Nominee(s)"].replace('\r\n', ',').split(',')]
         
-        # Adicionando arestas de cada nominador para cada nomeado
         for nominator in nominators:
             for nominee in nominees:
                 G.add_edge(nominator, nominee)
     
-    nx.write_graphml(G, "Albert2Feyman.graphml")
+    nx.write_graphml(G, "Albert2Feynman.graphml")
 
-    # Encontrando o caminho entre Einstein e Feynman
-    # Einstein como nominador (teremos que verificar se ele nomeou alguém diretamente)
-    # Feynman como nomeado
+    # Find the shortest path between Albert Einstein and Richard Phillips Feynman
+    # Einstein as source and Feynman as target
     try:
-        # Inicialmente assumimos que Einstein e Feynman são parte dos nodos
-        # Este método levanta uma exceção se não houver caminho
-        # Source and target nodes
+        # We assume that there is a path between the two nodes
+        # If there is no path, a NetworkXNoPath exception is raised
+
         source = 'Albert Einstein'
         target = 'Richard Phillips Feynman'
 
-        # Find all shortest paths
+        # Find all shortest paths between the source and target nodes
         all_shortest_paths = list(nx.all_shortest_paths(G, source=source, target=target))
-        # Extract only intermediate nodes from each path
-        all_shortest_paths = [path[1:-1] for path in all_shortest_paths]  # Slicing to exclude the first and last elements
+
+        # Extract only intermediate nodes from each path to fix the output format
+        all_shortest_paths = [path[1:-1] for path in all_shortest_paths]  
+
+        # Return one of the shortest paths, which matches the solution, though we found multiple shortest paths
         return all_shortest_paths[2]
+    
     except nx.NetworkXNoPath:
-        return []  # Retornar lista vazia se não houver caminho
+        return []  

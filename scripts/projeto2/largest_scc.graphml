@@ -1,0 +1,4284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="category" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="Polykarp Kusch" />
+    <node id="Brebis Bleaney" />
+    <node id="Edwin Mattison McMillan" />
+    <node id="Charles Robert Richet" />
+    <node id="John Archibald Wheeler" />
+    <node id="Emilio Gino Segrè" />
+    <node id="Alfred Kastler" />
+    <node id="Irving Langmuir" />
+    <node id="Frits Zernike" />
+    <node id="Henri Moissan" />
+    <node id="Felix Bloch" />
+    <node id="Friedrich (Fritz) Adolf Paneth" />
+    <node id="Vilhelm Bjerknes" />
+    <node id="Hans Jakob Horst" />
+    <node id="Louis Erasme Le Fur" />
+    <node id="Emil Fischer" />
+    <node id="Walter Heinrich Heitler" />
+    <node id="Alphonse Laveran" />
+    <node id="Eduard Buchner" />
+    <node id="Otto Lummer" />
+    <node id="Emil Abderhalden" />
+    <node id="Angelo Angeli" />
+    <node id="Eugene Newman Parker" />
+    <node id="Luis Walter Alvarez" />
+    <node id="Henry Le Châtelier" />
+    <node id="Henri Becquerel" />
+    <node id="Paul Ehrlich" />
+    <node id="Sir Frederick Hopkins" />
+    <node id="Pierre Curie" />
+    <node id="Max Born" />
+    <node id="Edward Kendall" />
+    <node id="Robert Sanderson Mulliken" />
+    <node id="Heike Kamerlingh Onnes" />
+    <node id="Albin Haller" />
+    <node id="Karl Ziegler" />
+    <node id="Pavel Alekseyevich Cherenkov [Čerenkov]" />
+    <node id="Sir Christopher Kelk Ingold" />
+    <node id="Giacomo Ciamician" />
+    <node id="Ernest Starling" />
+    <node id="Sir Edward Appleton" />
+    <node id="Victor Hess" />
+    <node id="Armand Gautier" />
+    <node id="Walther Bothe" />
+    <node id="Anatole Abragam" />
+    <node id="Theodor Svedberg" />
+    <node id="Alexander Vinogradov" />
+    <node id="Arne Tiselius" />
+    <node id="E Overton" />
+    <node id="Maurice de Broglie" />
+    <node id="Herman Francis Mark" />
+    <node id="Emil Votocek" />
+    <node id="Guglielmo Marconi" />
+    <node id="Edvard Wavrinsky" />
+    <node id="George Hale" />
+    <node id="Hans Landolt" />
+    <node id="Alfred Hermann Fried" />
+    <node id="Manfred Eigen" />
+    <node id="Sir William Lawrence Bragg" />
+    <node id="Sir Henry Hallett Dale" />
+    <node id="Kasimir Fajans" />
+    <node id="Henri Marie La Fontaine" />
+    <node id="Wolfgang Pauli" />
+    <node id="Arthur Leonard Schawlow" />
+    <node id="Élie Ducommun" />
+    <node id="Donald William Kerst" />
+    <node id="Georges Urbain" />
+    <node id="James Chadwick" />
+    <node id="August von Wassermann" />
+    <node id="Rudolf Criegee" />
+    <node id="Howard Florey" />
+    <node id="Charles Wilson" />
+    <node id="Jean Cabannes" />
+    <node id="Sir John Townsend" />
+    <node id="Stanislao Cannizzaro" />
+    <node id="Wilhelm Schlenk" />
+    <node id="Jack Steinberger" />
+    <node id="Adolf Windaus" />
+    <node id="Vladimir Prelog" />
+    <node id="John Bardeen" />
+    <node id="Pierre Weiss" />
+    <node id="John Theodor Lund" />
+    <node id="Yves Délages" />
+    <node id="Marie Curie" />
+    <node id="George Eugene Uhlenbeck" />
+    <node id="Gregers Winther Wulfsberg Gram" />
+    <node id="George Whipple" />
+    <node id="Erich Hückel" />
+    <node id="Heinrich Lammasch" />
+    <node id="Friedrich Paschen" />
+    <node id="Subramanyan Chandrasekhar" />
+    <node id="Theodore Lyman" />
+    <node id="Robert Burns Woodward" />
+    <node id="Paul Karrer" />
+    <node id="Albert Einstein" />
+    <node id="Johannes Hans Daniel Jensen" />
+    <node id="Gustav Tammann" />
+    <node id="Kenneth Sanborn Pitzer" />
+    <node id="Albert von Kölliker" />
+    <node id="Frank Mann" />
+    <node id="Gaston Ramon" />
+    <node id="Otto Warburg" />
+    <node id="Arthur Harden" />
+    <node id="Geoffrey Ronald Burbidge" />
+    <node id="Paul Walden" />
+    <node id="Hans Albrecht Bethe" />
+    <node id="Donald van Slyke" />
+    <node id="Otto Hahn" />
+    <node id="Manne Karl Siegbahn" />
+    <node id="Giuseppe Paolo Stanislao Occhialini" />
+    <node id="John Clark Slater" />
+    <node id="Robert Millikan" />
+    <node id="Charles Bouchard" />
+    <node id="Fredrik Bajer" />
+    <node id="Aleksandr Mikhailovich Prokhorov [Prockorov]" />
+    <node id="Wendell Latimer" />
+    <node id="William Pope" />
+    <node id="Stig Claesson" />
+    <node id="Edward Dodds" />
+    <node id="Gustaf Retzius" />
+    <node id="Max Gruber" />
+    <node id="Svante Arrhenius" />
+    <node id="George de Hevesy" />
+    <node id="Severo Ochoa" />
+    <node id="Louis Leprince-Ringuet" />
+    <node id="Pierre Auger" />
+    <node id="Hendrik Lorentz" />
+    <node id="Walther Adrian Schücking" />
+    <node id="Wilhelm His" />
+    <node id="Emil Warburg" />
+    <node id="Théodore Eugène César Ruyssen" />
+    <node id="Sir Alexander Robertus Todd" />
+    <node id="Bruno Benedetto Rossi" />
+    <node id="William Fowler" />
+    <node id="Torsten Thunberg" />
+    <node id="Cornelis Jacobus Gorter" />
+    <node id="Herbert Gasser" />
+    <node id="Otto Haxel" />
+    <node id="Otto Stern" />
+    <node id="Ernest Lawrence" />
+    <node id="Léon Victor Auguste Bourgeois" />
+    <node id="Charles Fabry" />
+    <node id="Rudolf Ludwig Mössbauer" />
+    <node id="Sir Charles Sherrington" />
+    <node id="Cecil Frank Powell" />
+    <node id="Ragnar Granit" />
+    <node id="James Wilfred Cook" />
+    <node id="Hans Fischer" />
+    <node id="Arnold Sommerfeld" />
+    <node id="Walter Houser Brattain" />
+    <node id="Nikolay Markovich Emanuel" />
+    <node id="Karl Landsteiner" />
+    <node id="Richard Kuhn" />
+    <node id="George Minot" />
+    <node id="Klaus Clusius" />
+    <node id="Walther Meissner" />
+    <node id="Jacobus van´t Hoff" />
+    <node id="Constantin Levaditi" />
+    <node id="Bror Holmberg" />
+    <node id="Knut Ångström" />
+    <node id="Irène Joliot-Curie" />
+    <node id="Hendrik Kramers" />
+    <node id="Felix Stone Moscheles" />
+    <node id="Jules Bordet" />
+    <node id="Enrico Fermi" />
+    <node id="Erwin Schrödinger" />
+    <node id="George Porter" />
+    <node id="Owen Chamberlain" />
+    <node id="Francis Aston" />
+    <node id="Meghnad Saha" />
+    <node id="Baron Albéric Rolin-Jacquemyns" />
+    <node id="Joseph Erlanger" />
+    <node id="John Hasbrouck Van Vleck" />
+    <node id="Gustav Embden" />
+    <node id="Yandell Henderson" />
+    <node id="Alexis Carrel" />
+    <node id="Lord Joseph Lister" />
+    <node id="Carl Bosch" />
+    <node id="Philipp E.A. v. Lenard" />
+    <node id="Kurt Alder" />
+    <node id="J Volger" />
+    <node id="Albert Michelson" />
+    <node id="Albert Calmette" />
+    <node id="Sir Ronald Ross" />
+    <node id="Otto Wallach" />
+    <node id="Walther Nernst" />
+    <node id="Theodor Förster" />
+    <node id="Jaroslav Heyrovský" />
+    <node id="Adolf von Baeyer" />
+    <node id="Charles Herbert Best" />
+    <node id="William Giauque" />
+    <node id="Fritz Arndt" />
+    <node id="Alfred Richards" />
+    <node id="Jacob Clay" />
+    <node id="Harvey Cushing" />
+    <node id="Hendrik Zwaardemaker" />
+    <node id="Gerhard Herzberg" />
+    <node id="Emile Roux" />
+    <node id="Robert Hofstadter" />
+    <node id="Robert Hadfield" />
+    <node id="Camille Guérin" />
+    <node id="Walter Reppe" />
+    <node id="Harold Clayton Urey" />
+    <node id="Baroness Bertha Sophie von Suttner" />
+    <node id="Alfred Landé" />
+    <node id="Karl-Friedrich Bonhoeffer" />
+    <node id="Dirk Coster" />
+    <node id="Max von Laue" />
+    <node id="Wilhelm Wien" />
+    <node id="Charles Darwin" />
+    <node id="Philippe-Auguste Guye" />
+    <node id="Hermann Irving Schlesinger" />
+    <node id="Gustaf Ising" />
+    <node id="Glenn Theodore Seaborg" />
+    <node id="Arthur Compton" />
+    <node id="Hannes Alfvén" />
+    <node id="Patrick Maynard Stuart Blackett (Baron Blackett)" />
+    <node id="Feodor Lynen" />
+    <node id="Richard Willstätter" />
+    <node id="Niels Bohr" />
+    <node id="Sir Cyril Norman Hinshelwood" />
+    <node id="Amé Pictet" />
+    <node id="Sir William Henry Bragg" />
+    <node id="Tadeus Reichstein" />
+    <node id="Karl Johann Freudenberg" />
+    <node id="Christiaan Eijkman" />
+    <node id="Victor Goldschmidt" />
+    <node id="Nikolay Nikolayevich Semyonov" />
+    <node id="Carl Anderson" />
+    <node id="Samuel Abraham Goudsmit" />
+    <node id="Walther Kossel" />
+    <node id="Johannes Stark" />
+    <node id="Oskar Benjamin Klein" />
+    <node id="Camillo Golgi" />
+    <node id="Hartog Hamburger" />
+    <node id="Ludwig Prandtl" />
+    <node id="Henri Normant" />
+    <node id="William Perkin Jr" />
+    <node id="Sir Joseph Thomson" />
+    <node id="Axel Theodor Adelswärd" />
+    <node id="Robert Henry Dicke" />
+    <node id="Herbert Evans" />
+    <node id="Alexander Fleming" />
+    <node id="Christian Lous Lange" />
+    <node id="Adolf Butenandt" />
+    <node id="Victor Grignard" />
+    <node id="Fritz Haber" />
+    <node id="Sir Walter Norman Haworth" />
+    <node id="Leopold Ruzicka" />
+    <node id="Max Bergmann" />
+    <node id="Carl Neuberg" />
+    <node id="Hermann Staudinger" />
+    <node id="Theodore Richards" />
+    <node id="Pieter Zeeman" />
+    <node id="Léon Brillouin" />
+    <node id="Sir Owen Richardson" />
+    <node id="Carl Harries" />
+    <node id="Yuval Néeman" />
+    <node id="Fritz Pregl" />
+    <node id="Carl von Linde" />
+    <node id="Estanislas Severo Zeballos" />
+    <node id="Wilhelm Ostwald" />
+    <node id="Theobald Smith" />
+    <node id="Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)" />
+    <node id="James Franck" />
+    <node id="Sir Chandrasekhara Raman" />
+    <node id="William Randal Cremer" />
+    <node id="Werner Karl Heisenberg" />
+    <node id="Ernesto Teodoro Moneta" />
+    <node id="Frederick Soddy" />
+    <node id="Georg Lunge" />
+    <node id="Ludwig Quidde" />
+    <node id="Albert Neisser" />
+    <node id="James Sumner" />
+    <node id="Ernest Thomas Sinton Walton" />
+    <node id="Julius Wagner-Jauregg" />
+    <node id="Werner Kuhn" />
+    <node id="Pierre Nolf" />
+    <node id="Johannes van der Waals" />
+    <node id="Hans Adolf Krebs" />
+    <node id="Santiago Ramon y Cajàl" />
+    <node id="Marcellin Berthelot" />
+    <node id="Adolf Richter" />
+    <node id="Charles Hard Townes" />
+    <node id="Marian Danysz" />
+    <node id="Heinrich Rubens" />
+    <node id="Walter Cannon" />
+    <node id="Heinrich Wieland" />
+    <node id="Victor Frederick Weisskopf" />
+    <node id="Wilhelm Röntgen" />
+    <node id="Eugene Wigner" />
+    <node id="Frédéric Joliot" />
+    <node id="Michael Polanyi" />
+    <node id="André Weiss" />
+    <node id="Lord Edgar Adrian" />
+    <node id="Georg Wittig" />
+    <node id="André Gratia" />
+    <node id="Maurice Arthus" />
+    <node id="Carl Cori" />
+    <node id="Clinton Davisson" />
+    <node id="Derek Harold Richard Barton" />
+    <node id="Desgrez" />
+    <node id="Willard Frank Libby" />
+    <node id="Percy Bridgman" />
+    <node id="Étienne-Jules Marey" />
+    <node id="John Fleming" />
+    <node id="John Northrop" />
+    <node id="Philippe Barbier" />
+    <node id="Erwin Wilhelm Müller" />
+    <node id="Bernardo Alberto Houssay" />
+    <node id="Phoebus Levene" />
+    <node id="Edoardo Giretti" />
+    <node id="Igor Yevgenyevich Tamm" />
+    <node id="Linus Carl Pauling" />
+    <node id="Gabriel Lippmann" />
+    <node id="Michael Heidelberger" />
+    <node id="John Douglas Cockcroft" />
+    <node id="Louis Renault" />
+    <node id="Émile Arnaud" />
+    <node id="Donald Glaser" />
+    <node id="Ernest Lord Rutherford" />
+    <node id="Henri Poincaré" />
+    <node id="Richard Zsigmondy" />
+    <node id="Willem Keesom" />
+    <node id="Hans von Euler-Chelpin" />
+    <node id="Joseph Mattauch" />
+    <node id="Jean Perrin" />
+    <node id="Arthur Stoll" />
+    <node id="Max Planck" />
+    <node id="Frédéric Passy" />
+    <node id="Otto Loewi" />
+    <node id="William Campbell" />
+    <node id="Peyton Rous" />
+    <node id="Sir William Ramsay" />
+    <node id="Stephen Ranson" />
+    <node id="Prince Louis-Victor de Broglie" />
+    <node id="Hugo Theorell" />
+    <node id="Luis Federico Leloir" />
+    <node id="Robert Wichard Pohl" />
+    <node id="Odd Hassel" />
+    <node id="Sir George Paget Thomson" />
+    <node id="Gerty Cori" />
+    <node id="Paul Langevin" />
+    <node id="Isidor Rabi" />
+    <node id="Artturi Virtanen" />
+    <node id="Otto Diels" />
+    <node id="Aimé Cotton" />
+    <node id="Robert Robinson" />
+    <node id="Fritz Albert Lipmann" />
+    <edge source="Polykarp Kusch" target="Jack Steinberger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Brebis Bleaney" target="Charles Hard Townes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Edwin Mattison McMillan" target="Owen Chamberlain">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Edwin Mattison McMillan" target="Emilio Gino Segrè">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Edwin Mattison McMillan" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Edwin Mattison McMillan" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Charles Robert Richet" target="Étienne-Jules Marey">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Charles Robert Richet" target="Lord Joseph Lister">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Charles Robert Richet" target="Yves Délages">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Charles Robert Richet" target="Jules Bordet">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Charles Robert Richet" target="Armand Gautier">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Charles Robert Richet" target="Sir Charles Sherrington">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Charles Robert Richet" target="Maurice Arthus">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Charles Robert Richet" target="Hartog Hamburger">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Charles Robert Richet" target="Albert Calmette">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Charles Robert Richet" target="Léon Victor Auguste Bourgeois">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="John Archibald Wheeler" target="Eugene Wigner">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emilio Gino Segrè" target="Max Born">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emilio Gino Segrè" target="Johannes Hans Daniel Jensen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emilio Gino Segrè" target="Rudolf Ludwig Mössbauer">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emilio Gino Segrè" target="Charles Hard Townes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emilio Gino Segrè" target="Bruno Benedetto Rossi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emilio Gino Segrè" target="Giuseppe Paolo Stanislao Occhialini">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emilio Gino Segrè" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emilio Gino Segrè" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Alfred Kastler" target="Frits Zernike">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Alfred Kastler" target="Felix Bloch">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Alfred Kastler" target="Cornelis Jacobus Gorter">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Alfred Kastler" target="Charles Hard Townes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Alfred Kastler" target="Alfred Landé">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Alfred Kastler" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Alfred Kastler" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Alfred Kastler" target="Aleksandr Mikhailovich Prokhorov [Prockorov]">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Alfred Kastler" target="John Hasbrouck Van Vleck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Alfred Kastler" target="Anatole Abragam">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Alfred Kastler" target="Henri Normant">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Alfred Kastler" target="John Clark Slater">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Irving Langmuir" target="Ernest Lawrence">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Frits Zernike" target="Friedrich Paschen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Frits Zernike" target="Willard Frank Libby">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Henri Moissan" target="Gabriel Lippmann">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Henri Moissan" target="Marcellin Berthelot">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Henri Moissan" target="Giacomo Ciamician">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Felix Bloch" target="Wolfgang Pauli">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Felix Bloch" target="Otto Hahn">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Felix Bloch" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Felix Bloch" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Felix Bloch" target="Polykarp Kusch">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Felix Bloch" target="Brebis Bleaney">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Felix Bloch" target="Robert Hofstadter">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Felix Bloch" target="Arthur Leonard Schawlow">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Felix Bloch" target="Charles Hard Townes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Friedrich (Fritz) Adolf Paneth" target="Dirk Coster">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Friedrich (Fritz) Adolf Paneth" target="George de Hevesy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Friedrich (Fritz) Adolf Paneth" target="George Porter">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Friedrich (Fritz) Adolf Paneth" target="Emilio Gino Segrè">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Vilhelm Bjerknes" target="Philipp E.A. v. Lenard">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Vilhelm Bjerknes" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Vilhelm Bjerknes" target="Wilhelm Wien">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hans Jakob Horst" target="William Randal Cremer">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Hans Jakob Horst" target="Élie Ducommun">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Hans Jakob Horst" target="Fredrik Bajer">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Louis Erasme Le Fur" target="André Weiss">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Emil Fischer" target="Ernest Lord Rutherford">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Fischer" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Fischer" target="Walther Nernst">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Emil Fischer" target="Jacobus van´t Hoff">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Emil Fischer" target="Svante Arrhenius">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Emil Fischer" target="Sir William Ramsay">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Emil Fischer" target="Henri Moissan">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Emil Fischer" target="Marcellin Berthelot">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Emil Fischer" target="Giacomo Ciamician">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Emil Fischer" target="Theodore Richards">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Emil Fischer" target="William Perkin Jr">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Emil Fischer" target="Richard Willstätter">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Walter Heinrich Heitler" target="Max Born">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Alphonse Laveran" target="Emile Roux">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Eduard Buchner" target="Carl Harries">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Eduard Buchner" target="Fritz Pregl">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Otto Lummer" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Abderhalden" target="Hartog Hamburger">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Emil Abderhalden" target="Hendrik Zwaardemaker">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Angelo Angeli" target="Hans von Euler-Chelpin">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Angelo Angeli" target="Leopold Ruzicka">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Eugene Newman Parker" target="Hannes Alfvén">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Eugene Newman Parker" target="Robert Henry Dicke">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Luis Walter Alvarez" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Luis Walter Alvarez" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Henry Le Châtelier" target="Heike Kamerlingh Onnes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Henry Le Châtelier" target="Henri Poincaré">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Henry Le Châtelier" target="Walther Nernst">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Henry Le Châtelier" target="Amé Pictet">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Henri Becquerel" target="Gabriel Lippmann">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Henri Becquerel" target="Henri Poincaré">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Paul Ehrlich" target="Walther Nernst">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Paul Ehrlich" target="Richard Willstätter">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Paul Ehrlich" target="Albert Neisser">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Paul Ehrlich" target="August von Wassermann">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Frederick Hopkins" target="Sir Charles Sherrington">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Frederick Hopkins" target="Sir Henry Hallett Dale">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Frederick Hopkins" target="Otto Loewi">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Pierre Curie" target="Sir Joseph Thomson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Born" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Born" target="Arthur Compton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Born" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Born" target="Patrick Maynard Stuart Blackett (Baron Blackett)">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Born" target="Johannes Hans Daniel Jensen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Born" target="Cornelis Jacobus Gorter">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Born" target="Walter Heinrich Heitler">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Born" target="Emilio Gino Segrè">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Edward Kendall" target="Walter Cannon">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Robert Sanderson Mulliken" target="John Clark Slater">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Heike Kamerlingh Onnes" target="Johannes van der Waals">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Heike Kamerlingh Onnes" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Heike Kamerlingh Onnes" target="Albert Einstein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Heike Kamerlingh Onnes" target="Jean Perrin">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albin Haller" target="Paul Langevin">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albin Haller" target="Armand Gautier">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Albin Haller" target="Philippe-Auguste Guye">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl Ziegler" target="Erich Hückel">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Pavel Alekseyevich Cherenkov [Čerenkov]" target="Edwin Mattison McMillan">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir Christopher Kelk Ingold" target="Linus Carl Pauling">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir Christopher Kelk Ingold" target="George Porter">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Giacomo Ciamician" target="Sir William Ramsay">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Giacomo Ciamician" target="Walther Nernst">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Giacomo Ciamician" target="Paul Walden">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Giacomo Ciamician" target="Theodore Richards">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Giacomo Ciamician" target="Philippe-Auguste Guye">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Ernest Starling" target="Sir Charles Sherrington">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Edward Appleton" target="Clinton Davisson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Victor Hess" target="Enrico Fermi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Victor Hess" target="Sir Edward Appleton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Victor Hess" target="Carl Anderson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Victor Hess" target="Friedrich (Fritz) Adolf Paneth">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Armand Gautier" target="Charles Bouchard">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Walther Bothe" target="Robert Wichard Pohl">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Walther Bothe" target="Emilio Gino Segrè">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Walther Bothe" target="Karl Johann Freudenberg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Anatole Abragam" target="Alfred Kastler">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Ernest Lord Rutherford">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Werner Karl Heisenberg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="James Chadwick">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Willem Keesom">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Cecil Frank Powell">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="John Douglas Cockcroft">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Edwin Mattison McMillan">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Walther Nernst">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Richard Zsigmondy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Karl-Friedrich Bonhoeffer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Irving Langmuir">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Harold Clayton Urey">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Frédéric Joliot">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Irène Joliot-Curie">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Otto Hahn">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="George de Hevesy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="James Sumner">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="John Northrop">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Nikolay Nikolayevich Semyonov">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Sir Cyril Norman Hinshelwood">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="William Giauque">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Glenn Theodore Seaborg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Klaus Clusius">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Svedberg" target="Linus Carl Pauling">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Alexander Vinogradov" target="Nikolay Nikolayevich Semyonov">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Arne Tiselius" target="James Sumner">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Arne Tiselius" target="John Northrop">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Arne Tiselius" target="William Giauque">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Arne Tiselius" target="Glenn Theodore Seaborg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Arne Tiselius" target="Edwin Mattison McMillan">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Arne Tiselius" target="Linus Carl Pauling">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Arne Tiselius" target="Klaus Clusius">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Arne Tiselius" target="Luis Federico Leloir">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="E Overton" target="Sir Charles Sherrington">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Maurice de Broglie" target="Pierre Weiss">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Maurice de Broglie" target="Sir Chandrasekhara Raman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Maurice de Broglie" target="Clinton Davisson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Maurice de Broglie" target="Sir George Paget Thomson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Maurice de Broglie" target="Erwin Schrödinger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Maurice de Broglie" target="Enrico Fermi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Maurice de Broglie" target="James Chadwick">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Maurice de Broglie" target="Frédéric Joliot">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Maurice de Broglie" target="Irène Joliot-Curie">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Maurice de Broglie" target="Carl Anderson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Maurice de Broglie" target="Patrick Maynard Stuart Blackett (Baron Blackett)">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Maurice de Broglie" target="Donald William Kerst">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Maurice de Broglie" target="Cecil Frank Powell">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Maurice de Broglie" target="Louis Leprince-Ringuet">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Herman Francis Mark" target="George de Hevesy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Emil Votocek" target="Jaroslav Heyrovský">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Guglielmo Marconi" target="Henri Poincaré">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Guglielmo Marconi" target="John Fleming">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Edvard Wavrinsky" target="Fredrik Bajer">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Edvard Wavrinsky" target="Alfred Hermann Fried">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Edvard Wavrinsky" target="Christian Lous Lange">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Edvard Wavrinsky" target="Hans Jakob Horst">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Edvard Wavrinsky" target="Axel Theodor Adelswärd">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="George Hale" target="William Campbell">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="George Hale" target="Sir Joseph Thomson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="George Hale" target="Albert Michelson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="George Hale" target="Johannes Stark">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="George Hale" target="Robert Millikan">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hans Landolt" target="Jacobus van´t Hoff">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans Landolt" target="Wilhelm Ostwald">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Alfred Hermann Fried" target="Fredrik Bajer">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Alfred Hermann Fried" target="Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Alfred Hermann Fried" target="Henri Marie La Fontaine">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Manfred Eigen" target="Erwin Wilhelm Müller">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Manfred Eigen" target="Gerhard Herzberg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Manfred Eigen" target="John Clark Slater">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir William Lawrence Bragg" target="Niels Bohr">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir William Lawrence Bragg" target="John Fleming">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir William Lawrence Bragg" target="Arthur Compton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir William Lawrence Bragg" target="Werner Karl Heisenberg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir William Lawrence Bragg" target="Erwin Schrödinger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir William Lawrence Bragg" target="Sir Edward Appleton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir William Lawrence Bragg" target="John Douglas Cockcroft">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir Henry Hallett Dale" target="Robert Robinson">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir Henry Hallett Dale" target="Sir Alexander Robertus Todd">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir Henry Hallett Dale" target="Sir Frederick Hopkins">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Henry Hallett Dale" target="Otto Loewi">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Henry Hallett Dale" target="Alfred Richards">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Henry Hallett Dale" target="Alexander Fleming">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Henry Hallett Dale" target="Howard Florey">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Henry Hallett Dale" target="Charles Herbert Best">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Kasimir Fajans" target="Walther Nernst">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Kasimir Fajans" target="Otto Hahn">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Kasimir Fajans" target="Walter Heinrich Heitler">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Kasimir Fajans" target="Glenn Theodore Seaborg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Henri Marie La Fontaine" target="Frédéric Passy">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Henri Marie La Fontaine" target="Fredrik Bajer">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Henri Marie La Fontaine" target="Baroness Bertha Sophie von Suttner">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Henri Marie La Fontaine" target="Ernesto Teodoro Moneta">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Henri Marie La Fontaine" target="Adolf Richter">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Henri Marie La Fontaine" target="Léon Victor Auguste Bourgeois">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Henri Marie La Fontaine" target="Ludwig Quidde">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Wolfgang Pauli" target="Werner Karl Heisenberg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wolfgang Pauli" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wolfgang Pauli" target="Isidor Rabi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wolfgang Pauli" target="Giuseppe Paolo Stanislao Occhialini">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wolfgang Pauli" target="Cecil Frank Powell">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wolfgang Pauli" target="Pavel Alekseyevich Cherenkov [Čerenkov]">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wolfgang Pauli" target="Igor Yevgenyevich Tamm">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wolfgang Pauli" target="Robert Hofstadter">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wolfgang Pauli" target="Walter Heinrich Heitler">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Arthur Leonard Schawlow" target="Charles Hard Townes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Élie Ducommun" target="Baroness Bertha Sophie von Suttner">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Élie Ducommun" target="Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Donald William Kerst" target="Cecil Frank Powell">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Donald William Kerst" target="Giuseppe Paolo Stanislao Occhialini">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Donald William Kerst" target="Hannes Alfvén">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Donald William Kerst" target="Eugene Newman Parker">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Georges Urbain" target="Jean Perrin">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="James Chadwick" target="John Douglas Cockcroft">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Chadwick" target="Ernest Thomas Sinton Walton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Chadwick" target="Giuseppe Paolo Stanislao Occhialini">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="August von Wassermann" target="Carl Neuberg">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Rudolf Criegee" target="Georg Wittig">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Howard Florey" target="Peyton Rous">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Charles Wilson" target="Sir Owen Richardson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Charles Wilson" target="Sir Chandrasekhara Raman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jean Cabannes" target="Charles Fabry">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir John Townsend" target="Paul Langevin">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir John Townsend" target="Maurice de Broglie">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Stanislao Cannizzaro" target="Guglielmo Marconi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Schlenk" target="Frederick Soddy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Jack Steinberger" target="Charles Hard Townes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Adolf Windaus" target="Fritz Pregl">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf Windaus" target="Heinrich Wieland">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf Windaus" target="Hans Fischer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf Windaus" target="Otto Diels">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf Windaus" target="Hermann Staudinger">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf Windaus" target="Walter Reppe">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf Windaus" target="Robert Burns Woodward">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Vladimir Prelog" target="Tadeus Reichstein">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Vladimir Prelog" target="Jaroslav Heyrovský">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Vladimir Prelog" target="Sir Christopher Kelk Ingold">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Vladimir Prelog" target="Robert Burns Woodward">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="John Bardeen" target="Charles Hard Townes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Pierre Weiss" target="Heike Kamerlingh Onnes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Pierre Weiss" target="Albert Einstein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Pierre Weiss" target="Jean Perrin">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Pierre Weiss" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="John Theodor Lund" target="Élie Ducommun">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Yves Délages" target="Emile Roux">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Marie Curie" target="Sir Joseph Thomson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Marie Curie" target="Henri Poincaré">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="George Eugene Uhlenbeck" target="Wolfgang Pauli">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Gregers Winther Wulfsberg Gram" target="André Weiss">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Gregers Winther Wulfsberg Gram" target="Baron Albéric Rolin-Jacquemyns">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="George Whipple" target="Frank Mann">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="George Whipple" target="Alfred Richards">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="George Whipple" target="John Northrop">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="George Whipple" target="James Sumner">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="George Whipple" target="Alexander Fleming">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="George Whipple" target="Howard Florey">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="George Whipple" target="Donald van Slyke">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Erich Hückel" target="Ludwig Prandtl">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Erich Hückel" target="Werner Karl Heisenberg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Heinrich Lammasch" target="William Randal Cremer">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Heinrich Lammasch" target="Frédéric Passy">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Heinrich Lammasch" target="Baroness Bertha Sophie von Suttner">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Heinrich Lammasch" target="Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Heinrich Lammasch" target="Gregers Winther Wulfsberg Gram">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Friedrich Paschen" target="Theodore Lyman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Friedrich Paschen" target="Robert Millikan">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Subramanyan Chandrasekhar" target="Hannes Alfvén">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodore Lyman" target="Albert Einstein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodore Lyman" target="Percy Bridgman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Burns Woodward" target="Linus Carl Pauling">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Robert Burns Woodward" target="Derek Harold Richard Barton">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Robert Burns Woodward" target="Odd Hassel">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Robert Burns Woodward" target="Vladimir Prelog">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Paul Karrer" target="Leopold Ruzicka">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Paul Karrer" target="Adolf Butenandt">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Paul Karrer" target="Robert Robinson">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Paul Karrer" target="Klaus Clusius">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Paul Karrer" target="Karl Johann Freudenberg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Albert Einstein" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albert Einstein" target="James Franck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albert Einstein" target="Arthur Compton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albert Einstein" target="Werner Karl Heisenberg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albert Einstein" target="Erwin Schrödinger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albert Einstein" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albert Einstein" target="Isidor Rabi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albert Einstein" target="Wolfgang Pauli">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albert Einstein" target="Walther Bothe">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albert Einstein" target="Carl Bosch">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Johannes Hans Daniel Jensen" target="Emilio Gino Segrè">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Johannes Hans Daniel Jensen" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Johannes Hans Daniel Jensen" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Johannes Hans Daniel Jensen" target="Oskar Benjamin Klein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Johannes Hans Daniel Jensen" target="Georg Wittig">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Gustav Tammann" target="Walther Nernst">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Kenneth Sanborn Pitzer" target="Willard Frank Libby">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Albert von Kölliker" target="Camillo Golgi">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Albert von Kölliker" target="Santiago Ramon y Cajàl">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Frank Mann" target="Edward Kendall">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Gaston Ramon" target="Emile Roux">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Gaston Ramon" target="Maurice Arthus">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Otto Warburg" target="George Minot">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Otto Warburg" target="George Whipple">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Otto Warburg" target="John Northrop">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Otto Warburg" target="Hugo Theorell">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Arthur Harden" target="Robert Robinson">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Geoffrey Ronald Burbidge" target="Subramanyan Chandrasekhar">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Paul Walden" target="Wilhelm Ostwald">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans Albrecht Bethe" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hans Albrecht Bethe" target="Isidor Rabi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hans Albrecht Bethe" target="Victor Frederick Weisskopf">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hans Albrecht Bethe" target="Herman Francis Mark">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Donald van Slyke" target="Phoebus Levene">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Donald van Slyke" target="Alfred Richards">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Otto Hahn" target="Walther Bothe">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Otto Hahn" target="Klaus Clusius">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Otto Hahn" target="George de Hevesy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Otto Hahn" target="Dirk Coster">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Otto Hahn" target="Wendell Latimer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Otto Hahn" target="Glenn Theodore Seaborg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Otto Hahn" target="Walter Reppe">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Otto Hahn" target="Friedrich (Fritz) Adolf Paneth">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Otto Hahn" target="Feodor Lynen">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Otto Hahn" target="Manfred Eigen">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Manne Karl Siegbahn" target="Otto Hahn">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Manne Karl Siegbahn" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Manne Karl Siegbahn" target="Isidor Rabi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Manne Karl Siegbahn" target="Edwin Mattison McMillan">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Manne Karl Siegbahn" target="Donald William Kerst">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Manne Karl Siegbahn" target="Felix Bloch">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Manne Karl Siegbahn" target="Frits Zernike">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Giuseppe Paolo Stanislao Occhialini" target="Bruno Benedetto Rossi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Giuseppe Paolo Stanislao Occhialini" target="Rudolf Ludwig Mössbauer">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="John Clark Slater" target="Percy Bridgman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="John Clark Slater" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="John Clark Slater" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Millikan" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Millikan" target="Niels Bohr">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Millikan" target="Arnold Sommerfeld">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Millikan" target="Arthur Compton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Millikan" target="Clinton Davisson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Millikan" target="Carl Anderson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Millikan" target="Vilhelm Bjerknes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Millikan" target="Linus Carl Pauling">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Charles Bouchard" target="Henri Becquerel">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Charles Bouchard" target="Marie Curie">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Charles Bouchard" target="Pierre Curie">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Charles Bouchard" target="Armand Gautier">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Charles Bouchard" target="Adolf von Baeyer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Charles Bouchard" target="Henri Moissan">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Charles Bouchard" target="Desgrez">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Charles Bouchard" target="Camillo Golgi">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Charles Bouchard" target="Charles Robert Richet">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Charles Bouchard" target="Alexis Carrel">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Fredrik Bajer" target="Frédéric Passy">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Fredrik Bajer" target="Alfred Hermann Fried">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Fredrik Bajer" target="Émile Arnaud">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Fredrik Bajer" target="Edvard Wavrinsky">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Aleksandr Mikhailovich Prokhorov [Prockorov]" target="Cornelis Jacobus Gorter">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wendell Latimer" target="William Giauque">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Wendell Latimer" target="Willard Frank Libby">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="William Pope" target="William Perkin Jr">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="William Pope" target="Sir Walter Norman Haworth">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Stig Claesson" target="Linus Carl Pauling">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Stig Claesson" target="Robert Sanderson Mulliken">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Stig Claesson" target="Werner Kuhn">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Stig Claesson" target="Manfred Eigen">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Stig Claesson" target="George Porter">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Edward Dodds" target="Sir Alexander Robertus Todd">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Gustaf Retzius" target="Santiago Ramon y Cajàl">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Gustaf Retzius" target="Albert von Kölliker">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Gustaf Retzius" target="Wilhelm His">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Gustaf Retzius" target="Camillo Golgi">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Max Gruber" target="Eduard Buchner">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="Philipp E.A. v. Lenard">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="Wilhelm Röntgen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="Pieter Zeeman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="Ernest Lord Rutherford">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="George Hale">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="Sir William Henry Bragg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="Charles Darwin">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="Albert Einstein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="John Fleming">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="Sir Owen Richardson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="Wilhelm Ostwald">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="Marie Curie">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="Theodore Richards">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="Jean Perrin">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="Theodor Svedberg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="Heinrich Wieland">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Svante Arrhenius" target="Adolf Windaus">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="George de Hevesy" target="Hans Adolf Krebs">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="George de Hevesy" target="Hugo Theorell">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Severo Ochoa" target="Luis Federico Leloir">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Severo Ochoa" target="Michael Heidelberger">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Louis Leprince-Ringuet" target="Cecil Frank Powell">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Louis Leprince-Ringuet" target="Bruno Benedetto Rossi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Louis Leprince-Ringuet" target="Donald Glaser">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Pierre Auger" target="Bruno Benedetto Rossi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Pierre Auger" target="Patrick Maynard Stuart Blackett (Baron Blackett)">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Pierre Auger" target="Alfred Kastler">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hendrik Lorentz" target="Sir Joseph Thomson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hendrik Lorentz" target="Johannes van der Waals">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hendrik Lorentz" target="Heike Kamerlingh Onnes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hendrik Lorentz" target="Henri Poincaré">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hendrik Lorentz" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hendrik Lorentz" target="Albert Einstein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hendrik Lorentz" target="Jean Perrin">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Walther Adrian Schücking" target="Alfred Hermann Fried">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Walther Adrian Schücking" target="Heinrich Lammasch">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Walther Adrian Schücking" target="Ludwig Quidde">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Wilhelm His" target="Camillo Golgi">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Wilhelm His" target="Paul Ehrlich">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Wilhelm His" target="Otto Warburg">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Emil Warburg" target="Wilhelm Röntgen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Henri Becquerel">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Marie Curie">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Pierre Curie">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Svante Arrhenius">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Sir Joseph Thomson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Ernest Lord Rutherford">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Otto Lummer">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Wilhelm Wien">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Heike Kamerlingh Onnes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Carl von Linde">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Sir William Henry Bragg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Max von Laue">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Johannes Stark">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Albert Einstein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Kasimir Fajans">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emil Warburg" target="Frederick Soddy">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Théodore Eugène César Ruyssen" target="Adolf Richter">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Sir Alexander Robertus Todd" target="Robert Burns Woodward">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir Alexander Robertus Todd" target="Derek Harold Richard Barton">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir Alexander Robertus Todd" target="Odd Hassel">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Bruno Benedetto Rossi" target="John Douglas Cockcroft">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Bruno Benedetto Rossi" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Bruno Benedetto Rossi" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Bruno Benedetto Rossi" target="Eugene Wigner">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="William Fowler" target="Hans Albrecht Bethe">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Torsten Thunberg" target="E Overton">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Torsten Thunberg" target="Sir Charles Sherrington">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Cornelis Jacobus Gorter" target="Felix Bloch">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Herbert Gasser" target="Alfred Richards">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Otto Haxel" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Otto Haxel" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Otto Haxel" target="J Volger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Otto Stern" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Otto Stern" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Otto Stern" target="Rudolf Ludwig Mössbauer">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Ernest Lawrence" target="Emilio Gino Segrè">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Ernest Lawrence" target="Glenn Theodore Seaborg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Ernest Lawrence" target="Edwin Mattison McMillan">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Léon Victor Auguste Bourgeois" target="Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Charles Fabry" target="Heinrich Rubens">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Charles Fabry" target="Heike Kamerlingh Onnes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Charles Fabry" target="Aimé Cotton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Charles Fabry" target="Arthur Compton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Charles Fabry" target="Jean Cabannes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Charles Fabry" target="Sir Chandrasekhara Raman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Rudolf Ludwig Mössbauer" target="Erich Hückel">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir Charles Sherrington" target="Lord Edgar Adrian">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Charles Sherrington" target="Sir Henry Hallett Dale">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Charles Sherrington" target="Otto Loewi">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Charles Sherrington" target="Ragnar Granit">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Charles Sherrington" target="André Gratia">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Cecil Frank Powell" target="Giuseppe Paolo Stanislao Occhialini">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Ragnar Granit" target="Joseph Erlanger">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Ragnar Granit" target="Herbert Gasser">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="James Wilfred Cook" target="Sir Alexander Robertus Todd">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans Fischer" target="Otto Diels">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans Fischer" target="Paul Karrer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans Fischer" target="Heinrich Wieland">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Arnold Sommerfeld" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Arnold Sommerfeld" target="Albert Einstein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Walter Houser Brattain" target="Charles Hard Townes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Nikolay Markovich Emanuel" target="Stig Claesson">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl Landsteiner" target="Irving Langmuir">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl Landsteiner" target="Max Bergmann">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl Landsteiner" target="Adolf Butenandt">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl Landsteiner" target="Linus Carl Pauling">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl Landsteiner" target="Peyton Rous">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Karl Landsteiner" target="Harvey Cushing">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Karl Landsteiner" target="Constantin Levaditi">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Karl Landsteiner" target="John Northrop">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Karl Landsteiner" target="James Sumner">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Richard Kuhn" target="Erwin Wilhelm Müller">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Richard Kuhn" target="Willard Frank Libby">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Richard Kuhn" target="Walter Reppe">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Richard Kuhn" target="Feodor Lynen">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Richard Kuhn" target="Robert Burns Woodward">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Richard Kuhn" target="Erich Hückel">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Richard Kuhn" target="Albert Calmette">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="George Minot" target="Walter Cannon">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="George Minot" target="Alfred Richards">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="George Minot" target="John Northrop">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="George Minot" target="Alexander Fleming">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="George Minot" target="Howard Florey">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="George Minot" target="Donald van Slyke">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Klaus Clusius" target="Joseph Mattauch">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Klaus Clusius" target="Willard Frank Libby">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Klaus Clusius" target="Walter Heinrich Heitler">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Klaus Clusius" target="Walter Reppe">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Klaus Clusius" target="Hermann Irving Schlesinger">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Walther Meissner" target="Klaus Clusius">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jacobus van´t Hoff" target="Svante Arrhenius">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Jacobus van´t Hoff" target="Philipp E.A. v. Lenard">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jacobus van´t Hoff" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jacobus van´t Hoff" target="Sir William Ramsay">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Jacobus van´t Hoff" target="William Pope">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Jacobus van´t Hoff" target="Wilhelm Ostwald">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Jacobus van´t Hoff" target="Hans Landolt">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Constantin Levaditi" target="Emile Roux">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Constantin Levaditi" target="Albert Calmette">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Bror Holmberg" target="Walther Nernst">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Bror Holmberg" target="Otto Diels">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Bror Holmberg" target="Kurt Alder">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Knut Ångström" target="Philipp E.A. v. Lenard">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Knut Ångström" target="Wilhelm Röntgen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Irène Joliot-Curie" target="George de Hevesy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Irène Joliot-Curie" target="Georges Urbain">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Irène Joliot-Curie" target="Linus Carl Pauling">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hendrik Kramers" target="Willem Keesom">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hendrik Kramers" target="Wolfgang Pauli">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hendrik Kramers" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hendrik Kramers" target="Otto Hahn">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Felix Stone Moscheles" target="Baroness Bertha Sophie von Suttner">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Felix Stone Moscheles" target="Ernesto Teodoro Moneta">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Jules Bordet" target="Aimé Cotton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jules Bordet" target="Paul Langevin">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jules Bordet" target="Georges Urbain">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Jules Bordet" target="Emile Roux">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Jules Bordet" target="Albert Calmette">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Jules Bordet" target="Gaston Ramon">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Werner Karl Heisenberg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Ernest Lawrence">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Arnold Sommerfeld">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Isidor Rabi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Max Born">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Cecil Frank Powell">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Felix Bloch">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Glenn Theodore Seaborg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Friedrich (Fritz) Adolf Paneth">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Enrico Fermi" target="Emilio Gino Segrè">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Erwin Schrödinger" target="Friedrich Paschen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Erwin Schrödinger" target="Robert Millikan">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Erwin Schrödinger" target="Clinton Davisson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Erwin Schrödinger" target="Sir George Paget Thomson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Erwin Schrödinger" target="Wolfgang Pauli">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Erwin Schrödinger" target="Enrico Fermi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="George Porter" target="Manfred Eigen">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="George Porter" target="Theodor Förster">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Owen Chamberlain" target="Donald Glaser">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Francis Aston" target="George de Hevesy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Meghnad Saha" target="Arnold Sommerfeld">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Baron Albéric Rolin-Jacquemyns" target="Louis Erasme Le Fur">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Joseph Erlanger" target="George Minot">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Joseph Erlanger" target="Yandell Henderson">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Joseph Erlanger" target="Carl Cori">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Joseph Erlanger" target="Gerty Cori">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="John Hasbrouck Van Vleck" target="Percy Bridgman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="John Hasbrouck Van Vleck" target="Wolfgang Pauli">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="John Hasbrouck Van Vleck" target="Felix Bloch">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="John Hasbrouck Van Vleck" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="John Hasbrouck Van Vleck" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="John Hasbrouck Van Vleck" target="Cornelis Jacobus Gorter">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="John Hasbrouck Van Vleck" target="Robert Sanderson Mulliken">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Gustav Embden" target="Otto Warburg">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Yandell Henderson" target="George Minot">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Alexis Carrel" target="Theobald Smith">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Alexis Carrel" target="George Minot">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Alexis Carrel" target="Harvey Cushing">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Alexis Carrel" target="Peyton Rous">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Alexis Carrel" target="John Northrop">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Lord Joseph Lister" target="Sir Ronald Ross">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Carl Bosch" target="Gustav Tammann">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Philipp E.A. v. Lenard" target="Ernest Lord Rutherford">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Philipp E.A. v. Lenard" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Philipp E.A. v. Lenard" target="Heike Kamerlingh Onnes">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Philipp E.A. v. Lenard" target="Johannes Stark">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Philipp E.A. v. Lenard" target="Wilhelm Wien">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Philipp E.A. v. Lenard" target="Henri Moissan">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Kurt Alder" target="Walter Reppe">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Kurt Alder" target="Klaus Clusius">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Kurt Alder" target="Sir Alexander Robertus Todd">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="J Volger" target="Cornelis Jacobus Gorter">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="J Volger" target="John Hasbrouck Van Vleck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albert Michelson" target="Pieter Zeeman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albert Michelson" target="George Hale">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albert Michelson" target="Henri Poincaré">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albert Michelson" target="Robert Millikan">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Albert Calmette" target="Paul Ehrlich">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Albert Calmette" target="Jules Bordet">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Albert Calmette" target="Gaston Ramon">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Ronald Ross" target="Max Gruber">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Ronald Ross" target="Alphonse Laveran">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Ronald Ross" target="Sir Charles Sherrington">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir Ronald Ross" target="Julius Wagner-Jauregg">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Otto Wallach" target="William Perkin Jr">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Walther Nernst" target="Albert Einstein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Walther Nernst" target="James Franck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Walther Nernst" target="Jean Perrin">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Walther Nernst" target="Theodor Svedberg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Walther Nernst" target="Gustav Tammann">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Walther Nernst" target="Hans von Euler-Chelpin">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Walther Nernst" target="Otto Hahn">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodor Förster" target="Sir Christopher Kelk Ingold">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Jaroslav Heyrovský" target="Georges Urbain">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Jaroslav Heyrovský" target="Emil Votocek">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Jaroslav Heyrovský" target="George Porter">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf von Baeyer" target="Svante Arrhenius">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Adolf von Baeyer" target="Sir Joseph Thomson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Adolf von Baeyer" target="Ernest Lord Rutherford">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Adolf von Baeyer" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Adolf von Baeyer" target="Max von Laue">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Adolf von Baeyer" target="Emil Fischer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf von Baeyer" target="Sir William Ramsay">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf von Baeyer" target="Henri Moissan">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf von Baeyer" target="Stanislao Cannizzaro">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf von Baeyer" target="Victor Grignard">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf von Baeyer" target="Angelo Angeli">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf von Baeyer" target="Philippe Barbier">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf von Baeyer" target="Otto Hahn">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf von Baeyer" target="Richard Willstätter">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf von Baeyer" target="Fritz Haber">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Charles Herbert Best" target="George Minot">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Charles Herbert Best" target="George Whipple">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Charles Herbert Best" target="Bernardo Alberto Houssay">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="William Giauque" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="William Giauque" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="William Giauque" target="Glenn Theodore Seaborg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="William Giauque" target="Willard Frank Libby">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Fritz Arndt" target="Walther Nernst">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Fritz Arndt" target="Gustav Tammann">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Fritz Arndt" target="Kasimir Fajans">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Fritz Arndt" target="Robert Robinson">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Alfred Richards" target="Alexander Fleming">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Alfred Richards" target="Howard Florey">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Jacob Clay" target="Victor Hess">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jacob Clay" target="Willem Keesom">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Harvey Cushing" target="Ernest Lawrence">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Harvey Cushing" target="Theobald Smith">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Harvey Cushing" target="George Minot">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Hendrik Zwaardemaker" target="Sir Charles Sherrington">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Hendrik Zwaardemaker" target="Christiaan Eijkman">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Gerhard Herzberg" target="Subramanyan Chandrasekhar">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Emile Roux" target="Constantin Levaditi">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Emile Roux" target="Albert Calmette">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Emile Roux" target="Camille Guérin">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Emile Roux" target="Gaston Ramon">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Robert Hofstadter" target="Charles Hard Townes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Hofstadter" target="Arthur Leonard Schawlow">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Hofstadter" target="Luis Walter Alvarez">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Hadfield" target="John Fleming">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Hadfield" target="Sir Frederick Hopkins">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Robert Hadfield" target="Henry Le Châtelier">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Camille Guérin" target="Albert Calmette">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Walter Reppe" target="Georg Wittig">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Harold Clayton Urey" target="Enrico Fermi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Harold Clayton Urey" target="Johannes Hans Daniel Jensen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Harold Clayton Urey" target="Geoffrey Ronald Burbidge">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Harold Clayton Urey" target="William Fowler">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Harold Clayton Urey" target="William Giauque">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Harold Clayton Urey" target="George de Hevesy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Harold Clayton Urey" target="Linus Carl Pauling">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Harold Clayton Urey" target="Klaus Clusius">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Harold Clayton Urey" target="Glenn Theodore Seaborg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Harold Clayton Urey" target="Friedrich (Fritz) Adolf Paneth">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Harold Clayton Urey" target="Hermann Irving Schlesinger">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Harold Clayton Urey" target="Willard Frank Libby">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Harold Clayton Urey" target="Robert Sanderson Mulliken">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Harold Clayton Urey" target="Herman Francis Mark">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Baroness Bertha Sophie von Suttner" target="Frédéric Passy">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Baroness Bertha Sophie von Suttner" target="Élie Ducommun">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Baroness Bertha Sophie von Suttner" target="Fredrik Bajer">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Baroness Bertha Sophie von Suttner" target="Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Baroness Bertha Sophie von Suttner" target="Alfred Hermann Fried">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Alfred Landé" target="Max Born">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Karl-Friedrich Bonhoeffer" target="Willard Frank Libby">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl-Friedrich Bonhoeffer" target="Otto Warburg">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Dirk Coster" target="Clinton Davisson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Dirk Coster" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Dirk Coster" target="Wolfgang Pauli">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Dirk Coster" target="Max Born">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Dirk Coster" target="Arnold Sommerfeld">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Dirk Coster" target="Willem Keesom">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Dirk Coster" target="Otto Hahn">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Arnold Sommerfeld">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Albert Einstein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Hendrik Lorentz">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Niels Bohr">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="James Franck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Manne Karl Siegbahn">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Friedrich Paschen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Arthur Compton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Erwin Schrödinger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Wolfgang Pauli">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Carl Anderson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Otto Hahn">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Walther Meissner">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Felix Bloch">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Erwin Wilhelm Müller">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Klaus Clusius">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Max von Laue" target="Walther Bothe">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max von Laue" target="Walther Kossel">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Albert Einstein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Hendrik Lorentz">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Jean Perrin">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Theodor Svedberg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Friedrich Paschen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Johannes Stark">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Niels Bohr">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Arnold Sommerfeld">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Philipp E.A. v. Lenard">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Arthur Compton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Emil Fischer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Wilhelm Schlenk">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Wilhelm Wien" target="Adolf Windaus">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Charles Darwin" target="Patrick Maynard Stuart Blackett (Baron Blackett)">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Charles Darwin" target="Cecil Frank Powell">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Philippe-Auguste Guye" target="Sir William Ramsay">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Philippe-Auguste Guye" target="Albin Haller">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hermann Irving Schlesinger" target="Friedrich (Fritz) Adolf Paneth">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Gustaf Ising" target="Clinton Davisson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Gustaf Ising" target="Sir George Paget Thomson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Glenn Theodore Seaborg" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Glenn Theodore Seaborg" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Glenn Theodore Seaborg" target="Emilio Gino Segrè">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Glenn Theodore Seaborg" target="Donald Glaser">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Glenn Theodore Seaborg" target="Luis Walter Alvarez">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Glenn Theodore Seaborg" target="John Archibald Wheeler">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Glenn Theodore Seaborg" target="Hermann Irving Schlesinger">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Glenn Theodore Seaborg" target="Willard Frank Libby">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Arthur Compton" target="Clinton Davisson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Arthur Compton" target="Carl Anderson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Arthur Compton" target="Jacob Clay">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Arthur Compton" target="Victor Hess">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Arthur Compton" target="Meghnad Saha">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Arthur Compton" target="Enrico Fermi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Arthur Compton" target="Ernest Lawrence">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Arthur Compton" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Arthur Compton" target="Otto Hahn">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Arthur Compton" target="Patrick Maynard Stuart Blackett (Baron Blackett)">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hannes Alfvén" target="Donald William Kerst">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hannes Alfvén" target="Percy Bridgman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hannes Alfvén" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Patrick Maynard Stuart Blackett (Baron Blackett)" target="John Douglas Cockcroft">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Patrick Maynard Stuart Blackett (Baron Blackett)" target="Ernest Thomas Sinton Walton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Patrick Maynard Stuart Blackett (Baron Blackett)" target="Giuseppe Paolo Stanislao Occhialini">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Patrick Maynard Stuart Blackett (Baron Blackett)" target="Pavel Alekseyevich Cherenkov [Čerenkov]">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Patrick Maynard Stuart Blackett (Baron Blackett)" target="Rudolf Ludwig Mössbauer">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Feodor Lynen" target="Georg Wittig">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Richard Willstätter" target="Arnold Sommerfeld">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Richard Willstätter" target="Georg Lunge">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Richard Willstätter" target="Emil Fischer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Richard Willstätter" target="Hans von Euler-Chelpin">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Richard Willstätter" target="Adolf Windaus">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Richard Willstätter" target="Carl Neuberg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Richard Willstätter" target="Robert Robinson">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Richard Willstätter" target="Adolf Butenandt">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Richard Willstätter" target="Arthur Stoll">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Niels Bohr" target="Albert Einstein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Niels Bohr" target="James Franck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Niels Bohr" target="Sir Owen Richardson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Niels Bohr" target="Irving Langmuir">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Niels Bohr" target="Sir Chandrasekhara Raman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Niels Bohr" target="Werner Karl Heisenberg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Niels Bohr" target="Erwin Schrödinger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Niels Bohr" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Niels Bohr" target="Frédéric Joliot">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Niels Bohr" target="Irène Joliot-Curie">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Niels Bohr" target="Ernest Lawrence">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Niels Bohr" target="Max Born">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Niels Bohr" target="Hendrik Kramers">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Niels Bohr" target="George de Hevesy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir Cyril Norman Hinshelwood" target="Nikolay Nikolayevich Semyonov">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir Cyril Norman Hinshelwood" target="Sir Christopher Kelk Ingold">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir Cyril Norman Hinshelwood" target="Michael Polanyi">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Amé Pictet" target="Emil Abderhalden">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Amé Pictet" target="Albin Haller">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir William Henry Bragg" target="John Fleming">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir William Henry Bragg" target="Ludwig Prandtl">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir William Henry Bragg" target="Sir Edward Appleton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Tadeus Reichstein" target="Robert Robinson">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Tadeus Reichstein" target="Hermann Irving Schlesinger">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Tadeus Reichstein" target="Sir Christopher Kelk Ingold">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl Johann Freudenberg" target="Walther Bothe">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Karl Johann Freudenberg" target="Otto Haxel">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Karl Johann Freudenberg" target="Johannes Hans Daniel Jensen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Karl Johann Freudenberg" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Karl Johann Freudenberg" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Karl Johann Freudenberg" target="Oskar Benjamin Klein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Karl Johann Freudenberg" target="Hans Fischer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl Johann Freudenberg" target="Linus Carl Pauling">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl Johann Freudenberg" target="Werner Kuhn">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl Johann Freudenberg" target="Bror Holmberg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl Johann Freudenberg" target="Fritz Arndt">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl Johann Freudenberg" target="Robert Burns Woodward">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl Johann Freudenberg" target="Georg Wittig">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl Johann Freudenberg" target="Rudolf Criegee">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Karl Johann Freudenberg" target="Manfred Eigen">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Christiaan Eijkman" target="Hendrik Zwaardemaker">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Christiaan Eijkman" target="Karl Landsteiner">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Victor Goldschmidt" target="George de Hevesy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Nikolay Nikolayevich Semyonov" target="Cornelis Jacobus Gorter">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Nikolay Nikolayevich Semyonov" target="Alexander Vinogradov">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Nikolay Nikolayevich Semyonov" target="Nikolay Markovich Emanuel">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Carl Anderson" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Carl Anderson" target="Ernest Lawrence">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Carl Anderson" target="Isidor Rabi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Carl Anderson" target="Donald William Kerst">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Carl Anderson" target="Rudolf Ludwig Mössbauer">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Carl Anderson" target="Charles Hard Townes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Carl Anderson" target="Yuval Néeman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Samuel Abraham Goudsmit" target="Otto Hahn">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Samuel Abraham Goudsmit" target="Enrico Fermi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Walther Kossel" target="Arnold Sommerfeld">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Walther Kossel" target="Erwin Wilhelm Müller">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Johannes Stark" target="Wilhelm Wien">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Johannes Stark" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Johannes Stark" target="Sir Chandrasekhara Raman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Johannes Stark" target="Ernest Lord Rutherford">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Oskar Benjamin Klein" target="Werner Karl Heisenberg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Oskar Benjamin Klein" target="Erwin Schrödinger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Oskar Benjamin Klein" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Oskar Benjamin Klein" target="Hans Albrecht Bethe">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Camillo Golgi" target="Giacomo Ciamician">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Camillo Golgi" target="Gustaf Retzius">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Hartog Hamburger" target="Theodor Svedberg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hartog Hamburger" target="Paul Ehrlich">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Hartog Hamburger" target="Sir Charles Sherrington">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Ludwig Prandtl" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Henri Normant" target="Vladimir Prelog">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Henri Normant" target="Georg Wittig">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="William Perkin Jr" target="Otto Wallach">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="William Perkin Jr" target="Robert Robinson">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir Joseph Thomson" target="Charles Wilson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Axel Theodor Adelswärd" target="Christian Lous Lange">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Axel Theodor Adelswärd" target="Edvard Wavrinsky">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Axel Theodor Adelswärd" target="Ludwig Quidde">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Robert Henry Dicke" target="Eugene Wigner">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Herbert Evans" target="Bernardo Alberto Houssay">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Alexander Fleming" target="Edward Dodds">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Christian Lous Lange" target="Heinrich Lammasch">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Christian Lous Lange" target="Théodore Eugène César Ruyssen">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Adolf Butenandt" target="Hermann Staudinger">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf Butenandt" target="Klaus Clusius">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf Butenandt" target="Walter Reppe">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf Butenandt" target="Karl Ziegler">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf Butenandt" target="Manfred Eigen">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Victor Grignard" target="Richard Willstätter">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Victor Grignard" target="Georges Urbain">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Victor Grignard" target="Albin Haller">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Victor Grignard" target="Henry Le Châtelier">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Fritz Haber" target="Walther Nernst">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Fritz Haber" target="Adolf Windaus">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Fritz Haber" target="Victor Goldschmidt">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir Walter Norman Haworth" target="Robert Robinson">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Leopold Ruzicka" target="Emilio Gino Segrè">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Leopold Ruzicka" target="Rudolf Ludwig Mössbauer">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Leopold Ruzicka" target="Paul Karrer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Leopold Ruzicka" target="Robert Robinson">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Leopold Ruzicka" target="John Northrop">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Leopold Ruzicka" target="Tadeus Reichstein">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Leopold Ruzicka" target="Hermann Staudinger">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Leopold Ruzicka" target="Jaroslav Heyrovský">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Leopold Ruzicka" target="Sir Christopher Kelk Ingold">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Leopold Ruzicka" target="Sir Alexander Robertus Todd">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Leopold Ruzicka" target="Vladimir Prelog">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Leopold Ruzicka" target="Robert Burns Woodward">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Leopold Ruzicka" target="Derek Harold Richard Barton">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Max Bergmann" target="Carl Neuberg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Carl Neuberg" target="Hans von Euler-Chelpin">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Carl Neuberg" target="Arthur Harden">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Carl Neuberg" target="Torsten Thunberg">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Hermann Staudinger" target="Richard Willstätter">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hermann Staudinger" target="Klaus Clusius">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hermann Staudinger" target="Karl Ziegler">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hermann Staudinger" target="Georg Wittig">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodore Richards" target="Johannes van der Waals">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodore Richards" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodore Richards" target="George Hale">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodore Richards" target="Sir William Henry Bragg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodore Richards" target="Sir William Lawrence Bragg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodore Richards" target="Robert Millikan">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodore Richards" target="Francis Aston">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodore Richards" target="Percy Bridgman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Theodore Richards" target="Adolf von Baeyer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodore Richards" target="Wilhelm Ostwald">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodore Richards" target="Walther Nernst">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodore Richards" target="Richard Willstätter">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theodore Richards" target="William Perkin Jr">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Pieter Zeeman" target="Johannes van der Waals">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Pieter Zeeman" target="Heike Kamerlingh Onnes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Pieter Zeeman" target="Henri Poincaré">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Pieter Zeeman" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Pieter Zeeman" target="George Hale">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Pieter Zeeman" target="Johannes Stark">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Pieter Zeeman" target="Albert Einstein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Pieter Zeeman" target="Jean Perrin">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Léon Brillouin" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Léon Brillouin" target="Wolfgang Pauli">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir Owen Richardson" target="Clinton Davisson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir Owen Richardson" target="Enrico Fermi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir Owen Richardson" target="Sir Edward Appleton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Carl Harries" target="Eduard Buchner">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Carl Harries" target="Richard Willstätter">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Carl Harries" target="Giacomo Ciamician">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Yuval Néeman" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Yuval Néeman" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Fritz Pregl" target="Wilhelm Schlenk">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Fritz Pregl" target="Hans Fischer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Fritz Pregl" target="Emil Abderhalden">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Fritz Pregl" target="Otto Loewi">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Carl von Linde" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Estanislas Severo Zeballos" target="André Weiss">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Wilhelm Ostwald" target="Albert Einstein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Ostwald" target="Robert Hadfield">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Ostwald" target="Theodore Richards">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Wilhelm Ostwald" target="Richard Zsigmondy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Theobald Smith" target="Paul Ehrlich">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)" target="Élie Ducommun">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)" target="Baroness Bertha Sophie von Suttner">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)" target="Léon Victor Auguste Bourgeois">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="James Franck" target="Arthur Compton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Prince Louis-Victor de Broglie">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Clinton Davisson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Emil Warburg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Friedrich Paschen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Arnold Sommerfeld">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Werner Karl Heisenberg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Erwin Schrödinger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Enrico Fermi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Ernest Lawrence">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="William Giauque">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Otto Hahn">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Wolfgang Pauli">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Max Born">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Felix Bloch">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Emilio Gino Segrè">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="James Franck" target="Johannes Hans Daniel Jensen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="James Franck" target="Friedrich (Fritz) Adolf Paneth">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir Chandrasekhara Raman" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir Chandrasekhara Raman" target="Enrico Fermi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir Chandrasekhara Raman" target="Ernest Lawrence">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir Chandrasekhara Raman" target="Subramanyan Chandrasekhar">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="William Randal Cremer" target="John Theodor Lund">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Werner Karl Heisenberg" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Werner Karl Heisenberg" target="Frédéric Joliot">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Werner Karl Heisenberg" target="Irène Joliot-Curie">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Werner Karl Heisenberg" target="James Chadwick">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Werner Karl Heisenberg" target="Enrico Fermi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Werner Karl Heisenberg" target="Otto Hahn">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Werner Karl Heisenberg" target="Karl-Friedrich Bonhoeffer">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Werner Karl Heisenberg" target="Klaus Clusius">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Werner Karl Heisenberg" target="Hendrik Kramers">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Werner Karl Heisenberg" target="Cecil Frank Powell">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Werner Karl Heisenberg" target="Hans Albrecht Bethe">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Werner Karl Heisenberg" target="Rudolf Ludwig Mössbauer">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Ernesto Teodoro Moneta" target="Baroness Bertha Sophie von Suttner">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Ernesto Teodoro Moneta" target="Alfred Hermann Fried">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Ernesto Teodoro Moneta" target="Charles Robert Richet">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Ernesto Teodoro Moneta" target="Théodore Eugène César Ruyssen">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Ernesto Teodoro Moneta" target="Edoardo Giretti">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Frederick Soddy" target="Henry Le Châtelier">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Frederick Soddy" target="Friedrich (Fritz) Adolf Paneth">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Frederick Soddy" target="George de Hevesy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Georg Lunge" target="Jacobus van´t Hoff">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Ludwig Quidde" target="Felix Stone Moscheles">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Ludwig Quidde" target="Adolf Richter">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Ludwig Quidde" target="Walther Adrian Schücking">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Albert Neisser" target="August von Wassermann">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="James Sumner" target="John Northrop">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="James Sumner" target="Hugo Theorell">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Ernest Thomas Sinton Walton" target="Cecil Frank Powell">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Ernest Thomas Sinton Walton" target="Donald William Kerst">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Ernest Thomas Sinton Walton" target="Gustaf Ising">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Julius Wagner-Jauregg" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Julius Wagner-Jauregg" target="Erwin Schrödinger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Julius Wagner-Jauregg" target="Prince Louis-Victor de Broglie">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Julius Wagner-Jauregg" target="Hans Fischer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Julius Wagner-Jauregg" target="Werner Kuhn">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Julius Wagner-Jauregg" target="Paul Karrer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Julius Wagner-Jauregg" target="Richard Kuhn">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Julius Wagner-Jauregg" target="Emil Abderhalden">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Julius Wagner-Jauregg" target="Karl Landsteiner">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Julius Wagner-Jauregg" target="Albert Calmette">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Julius Wagner-Jauregg" target="George Minot">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Julius Wagner-Jauregg" target="Adolf Butenandt">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Werner Kuhn" target="Karl Johann Freudenberg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Pierre Nolf" target="Sir Charles Sherrington">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Johannes van der Waals" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Johannes van der Waals" target="George Hale">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Johannes van der Waals" target="Jean Perrin">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hans Adolf Krebs" target="Manfred Eigen">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Santiago Ramon y Cajàl" target="Gustaf Retzius">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Santiago Ramon y Cajàl" target="Charles Robert Richet">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Marcellin Berthelot" target="Henri Becquerel">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Marcellin Berthelot" target="Gabriel Lippmann">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Marcellin Berthelot" target="Henri Moissan">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Adolf Richter" target="Frédéric Passy">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Adolf Richter" target="Baroness Bertha Sophie von Suttner">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Adolf Richter" target="Fredrik Bajer">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Charles Hard Townes" target="John Bardeen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Charles Hard Townes" target="Walter Houser Brattain">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Charles Hard Townes" target="Hans Albrecht Bethe">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Charles Hard Townes" target="Bruno Benedetto Rossi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Marian Danysz" target="Emilio Gino Segrè">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Marian Danysz" target="Victor Frederick Weisskopf">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Heinrich Rubens" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Heinrich Rubens" target="Niels Bohr">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Walter Cannon" target="Percy Bridgman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Walter Cannon" target="George Minot">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Walter Cannon" target="Bernardo Alberto Houssay">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Walter Cannon" target="Joseph Erlanger">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Walter Cannon" target="Herbert Gasser">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Walter Cannon" target="Stephen Ranson">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Walter Cannon" target="Alexander Fleming">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Walter Cannon" target="Howard Florey">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Heinrich Wieland" target="Adolf Windaus">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Heinrich Wieland" target="Hans Fischer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Heinrich Wieland" target="Carl Neuberg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Heinrich Wieland" target="Otto Diels">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Heinrich Wieland" target="Klaus Clusius">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Heinrich Wieland" target="Walter Reppe">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Heinrich Wieland" target="Kurt Alder">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Victor Frederick Weisskopf" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Victor Frederick Weisskopf" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Victor Frederick Weisskopf" target="Eugene Wigner">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Victor Frederick Weisskopf" target="Marian Danysz">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Victor Frederick Weisskopf" target="Luis Walter Alvarez">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Victor Frederick Weisskopf" target="Hans Albrecht Bethe">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Röntgen" target="Hendrik Lorentz">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Röntgen" target="Sir Joseph Thomson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Röntgen" target="Knut Ångström">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Röntgen" target="Max Planck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Wilhelm Röntgen" target="Niels Bohr">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Eugene Wigner" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Eugene Wigner" target="Isidor Rabi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Eugene Wigner" target="Percy Bridgman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Eugene Wigner" target="Johannes Hans Daniel Jensen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Eugene Wigner" target="Robert Hofstadter">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Eugene Wigner" target="Hans Albrecht Bethe">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Eugene Wigner" target="Victor Frederick Weisskopf">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Eugene Wigner" target="Michael Polanyi">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Frédéric Joliot" target="George de Hevesy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Frédéric Joliot" target="Georges Urbain">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Frédéric Joliot" target="Linus Carl Pauling">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Michael Polanyi" target="Karl-Friedrich Bonhoeffer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="André Weiss" target="Louis Renault">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="André Weiss" target="Estanislas Severo Zeballos">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Lord Edgar Adrian" target="Sir Henry Hallett Dale">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Lord Edgar Adrian" target="Otto Loewi">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Lord Edgar Adrian" target="Ragnar Granit">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Georg Wittig" target="Hermann Staudinger">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Georg Wittig" target="Walter Reppe">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="André Gratia" target="John Northrop">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Maurice Arthus" target="Pierre Nolf">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Carl Cori" target="John Northrop">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Carl Cori" target="James Sumner">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Carl Cori" target="Hans Adolf Krebs">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Carl Cori" target="Fritz Albert Lipmann">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Clinton Davisson" target="Enrico Fermi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Clinton Davisson" target="Ernest Lawrence">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Clinton Davisson" target="Isidor Rabi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Clinton Davisson" target="John Bardeen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Clinton Davisson" target="Walter Houser Brattain">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Derek Harold Richard Barton" target="Robert Burns Woodward">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Desgrez" target="Jules Bordet">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Willard Frank Libby" target="Johannes Hans Daniel Jensen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Willard Frank Libby" target="Luis Walter Alvarez">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Willard Frank Libby" target="Linus Carl Pauling">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Willard Frank Libby" target="Friedrich (Fritz) Adolf Paneth">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Willard Frank Libby" target="Robert Burns Woodward">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Percy Bridgman" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Percy Bridgman" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Étienne-Jules Marey" target="Alphonse Laveran">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Étienne-Jules Marey" target="Sir Ronald Ross">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="John Fleming" target="Guglielmo Marconi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="John Northrop" target="Willard Frank Libby">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Philippe Barbier" target="Henry Le Châtelier">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Erwin Wilhelm Müller" target="Walter Reppe">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Erwin Wilhelm Müller" target="Karl Ziegler">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Bernardo Alberto Houssay" target="Tadeus Reichstein">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Bernardo Alberto Houssay" target="Linus Carl Pauling">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Bernardo Alberto Houssay" target="Robert Burns Woodward">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Bernardo Alberto Houssay" target="Severo Ochoa">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Bernardo Alberto Houssay" target="Luis Federico Leloir">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Bernardo Alberto Houssay" target="Derek Harold Richard Barton">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Bernardo Alberto Houssay" target="Odd Hassel">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Bernardo Alberto Houssay" target="Kenneth Sanborn Pitzer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Bernardo Alberto Houssay" target="Walter Cannon">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Bernardo Alberto Houssay" target="Ragnar Granit">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Bernardo Alberto Houssay" target="Charles Herbert Best">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Bernardo Alberto Houssay" target="Hans Adolf Krebs">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Phoebus Levene" target="Carl Neuberg">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Phoebus Levene" target="Theobald Smith">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Edoardo Giretti" target="Ernesto Teodoro Moneta">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Igor Yevgenyevich Tamm" target="Cornelis Jacobus Gorter">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Linus Carl Pauling" target="William Giauque">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Gabriel Lippmann" target="Hendrik Lorentz">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Gabriel Lippmann" target="Henri Becquerel">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Gabriel Lippmann" target="Pierre Curie">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Gabriel Lippmann" target="Henri Poincaré">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Michael Heidelberger" target="Arne Tiselius">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="John Douglas Cockcroft" target="Giuseppe Paolo Stanislao Occhialini">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Louis Renault" target="Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Émile Arnaud" target="Élie Ducommun">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Émile Arnaud" target="Henri Marie La Fontaine">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Émile Arnaud" target="Adolf Richter">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Émile Arnaud" target="Felix Stone Moscheles">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Donald Glaser" target="Charles Hard Townes">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Ernest Lord Rutherford" target="Niels Bohr">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Ernest Lord Rutherford" target="Charles Wilson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Ernest Lord Rutherford" target="Sir Owen Richardson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Ernest Lord Rutherford" target="Sir Chandrasekhara Raman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Ernest Lord Rutherford" target="James Chadwick">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Ernest Lord Rutherford" target="John Douglas Cockcroft">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Ernest Lord Rutherford" target="Ernest Thomas Sinton Walton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Ernest Lord Rutherford" target="William Perkin Jr">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Ernest Lord Rutherford" target="Frederick Soddy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Ernest Lord Rutherford" target="Frédéric Joliot">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Ernest Lord Rutherford" target="Irène Joliot-Curie">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Henri Poincaré" target="Hendrik Lorentz">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Henri Poincaré" target="Henri Becquerel">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Henri Poincaré" target="Pierre Curie">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Henri Poincaré" target="Gabriel Lippmann">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Richard Zsigmondy" target="Walther Nernst">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Richard Zsigmondy" target="Gustav Tammann">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Willem Keesom" target="Sir Owen Richardson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Eduard Buchner">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Richard Willstätter">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Georges Urbain">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Hartog Hamburger">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Fritz Pregl">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Richard Zsigmondy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Gustav Embden">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Carl Neuberg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Paul Karrer">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Irving Langmuir">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Frédéric Joliot">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Irène Joliot-Curie">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Sir Walter Norman Haworth">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Artturi Virtanen">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Robert Robinson">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="James Sumner">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Sir Cyril Norman Hinshelwood">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Sir Christopher Kelk Ingold">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Walter Reppe">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Arthur Stoll">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Hugo Theorell">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Klaus Clusius">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Hans von Euler-Chelpin" target="Karl Ziegler">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Joseph Mattauch" target="Friedrich (Fritz) Adolf Paneth">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Jean Perrin" target="Sir John Townsend">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jean Perrin" target="Pierre Weiss">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jean Perrin" target="Charles Wilson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jean Perrin" target="Paul Langevin">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jean Perrin" target="Prince Louis-Victor de Broglie">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jean Perrin" target="Erwin Schrödinger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jean Perrin" target="Sir Chandrasekhara Raman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jean Perrin" target="Werner Karl Heisenberg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jean Perrin" target="Aimé Cotton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jean Perrin" target="Walther Bothe">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jean Perrin" target="Carl Anderson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jean Perrin" target="Patrick Maynard Stuart Blackett (Baron Blackett)">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jean Perrin" target="Pierre Auger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Jean Perrin" target="Georges Urbain">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Jean Perrin" target="George de Hevesy">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Jean Perrin" target="Henry Le Châtelier">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Jean Perrin" target="Enrico Fermi">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Arthur Stoll" target="Robert Burns Woodward">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Max Planck" target="Wilhelm Röntgen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Hendrik Lorentz">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Sir William Ramsay">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Ernest Lord Rutherford">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Walther Nernst">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Johannes Stark">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Albert Einstein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Niels Bohr">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Friedrich Paschen">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Arnold Sommerfeld">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Arthur Compton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Werner Karl Heisenberg">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Erwin Schrödinger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Wolfgang Pauli">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Carl Anderson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Enrico Fermi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Max Planck" target="Hans von Euler-Chelpin">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Max Planck" target="Otto Hahn">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Max Planck" target="Victor Goldschmidt">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Frédéric Passy" target="Baroness Bertha Sophie von Suttner">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Frédéric Passy" target="Paul Henri Benjamin Balluet d`Estournelles de Constant (Baron de Constant de Rébecque)">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Frédéric Passy" target="Léon Victor Auguste Bourgeois">
+      <data key="d0">Peace</data>
+    </edge>
+    <edge source="Otto Loewi" target="Ernest Starling">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Otto Loewi" target="Herbert Evans">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Otto Loewi" target="Walter Cannon">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Otto Loewi" target="Michael Heidelberger">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Otto Loewi" target="Charles Herbert Best">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="William Campbell" target="Robert Millikan">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="William Campbell" target="Arnold Sommerfeld">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="William Campbell" target="Otto Stern">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="William Campbell" target="Erwin Schrödinger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="William Campbell" target="George Minot">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="William Campbell" target="James Wilfred Cook">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Peyton Rous" target="Theobald Smith">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Sir William Ramsay" target="Sir Joseph Thomson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir William Ramsay" target="Jacobus van´t Hoff">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir William Ramsay" target="Marcellin Berthelot">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir William Ramsay" target="Henri Moissan">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir William Ramsay" target="Theodore Richards">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir William Ramsay" target="William Perkin Jr">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir William Ramsay" target="Albin Haller">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Stephen Ranson" target="Joseph Erlanger">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Stephen Ranson" target="Herbert Gasser">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Sir Chandrasekhara Raman">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Erwin Schrödinger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Clinton Davisson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="James Chadwick">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Frédéric Joliot">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Irène Joliot-Curie">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Carl Anderson">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Patrick Maynard Stuart Blackett (Baron Blackett)">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Giuseppe Paolo Stanislao Occhialini">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Enrico Fermi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Wolfgang Pauli">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Max Born">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Otto Hahn">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Louis Leprince-Ringuet">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Hans Albrecht Bethe">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Alfred Kastler">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Prince Louis-Victor de Broglie" target="Léon Brillouin">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Hugo Theorell" target="Hans Adolf Krebs">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Luis Federico Leloir" target="Feodor Lynen">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Robert Wichard Pohl" target="Arthur Compton">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Wichard Pohl" target="Victor Hess">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Odd Hassel" target="Victor Goldschmidt">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Sir George Paget Thomson" target="Enrico Fermi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Sir George Paget Thomson" target="John Douglas Cockcroft">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Gerty Cori" target="Hans Adolf Krebs">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Gerty Cori" target="Fritz Albert Lipmann">
+      <data key="d0">Medicine</data>
+    </edge>
+    <edge source="Paul Langevin" target="Albert Einstein">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Isidor Rabi" target="Samuel Abraham Goudsmit">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Isidor Rabi" target="George Eugene Uhlenbeck">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Isidor Rabi" target="Felix Bloch">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Isidor Rabi" target="Hans Albrecht Bethe">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Isidor Rabi" target="Jack Steinberger">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Artturi Virtanen" target="Sir Walter Norman Haworth">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Artturi Virtanen" target="Hermann Staudinger">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Artturi Virtanen" target="Hugo Theorell">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Artturi Virtanen" target="Karl Johann Freudenberg">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Otto Diels" target="Walter Reppe">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Aimé Cotton" target="Charles Fabry">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Aimé Cotton" target="Jean Perrin">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Aimé Cotton" target="Frédéric Joliot">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Aimé Cotton" target="Irène Joliot-Curie">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Aimé Cotton" target="Enrico Fermi">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Robinson" target="James Chadwick">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Robinson" target="Herman Francis Mark">
+      <data key="d0">Physics</data>
+    </edge>
+    <edge source="Robert Robinson" target="Sir Walter Norman Haworth">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Robert Robinson" target="Richard Kuhn">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Robert Robinson" target="Sir Cyril Norman Hinshelwood">
+      <data key="d0">Chemistry</data>
+    </edge>
+    <edge source="Fritz Albert Lipmann" target="Feodor Lynen">
+      <data key="d0">Medicine</data>
+    </edge>
+  </graph>
+</graphml>
